@@ -1,0 +1,165 @@
+name,college_team,college_conference,nfl_team,year,overall,round,pick,position,height,weight,season_before_draft,QBR,passing_completions,passing_att,completion_pct,passing_yds,passing_td,passing_int,passing_ypa,rushing_car,rushing_yds,rushing_td,rushing_ypc,regular_season_games,regular_season_wins,regular_season_losses,postseason_games,postseason_wins,postseason_losses,forty,bench,vertical,broad_jump,cone,shuttle,attended_combine
+Sam Bradford,Oklahoma,Big 12,Los Angeles,2010,1,1,1,Quarterback,76,236,2009,,39,69,0.565,562,2,0,8.1,4,-18,0,-4.5,12,7,5,1,1,0,4.79,NA,NA,NA,NA,NA,Y
+Tim Tebow,Florida,SEC,Denver,2010,25,1,25,Quarterback,75,236,2009,75.8,213,314,0.678,2895,21,5,9.2,217,910,14,4.2,13,12,1,1,1,0,4.71,NA,38.5,115,6.66,4.17,Y
+Jimmy Clausen,Notre Dame,FBS Independents,Carolina,2010,48,2,16,Quarterback,75,222,2009,67.7,289,425,0.68,3722,28,4,8.8,59,-95,3,-1.6,12,6,6,0,0,0,4.76,NA,NA,NA,NA,NA,Y
+Colt McCoy,Texas,Big 12,Cleveland,2010,85,3,21,Quarterback,73,216,2009,73.9,332,470,0.706,3521,27,12,7.5,129,348,3,2.7,13,13,0,1,0,1,4.79,NA,NA,114,NA,NA,Y
+Jonathan Crompton,Tennessee,SEC,Los Angeles,2010,168,5,37,Quarterback,75,222,2009,66.9,224,384,0.583,2800,27,13,7.3,44,-52,1,-1.2,12,7,5,1,0,1,NA,NA,NA,NA,NA,NA,N
+Rusty Smith,Florida Atlantic,Sun Belt,Tennessee,2010,176,6,7,Quarterback,77,231,2009,69.9,145,253,0.573,1915,14,5,7.6,14,-27,1,-1.9,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+Dan LeFevour,Central Michigan,Mid-American,Chicago,2010,181,6,12,Quarterback,75,230,2009,72.4,318,456,0.697,3438,28,7,7.5,183,713,15,3.9,13,11,2,1,1,0,4.6,NA,29.5,110,6.93,4.22,Y
+Joe Webb,UAB,Conference USA,Minnesota,2010,199,6,30,Quarterback,75,223,2009,63.1,162,271,0.598,2299,21,8,8.5,227,1427,11,6.3,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+Tony Pike,Cincinnati,Big East,Carolina,2010,204,6,35,Quarterback,78,223,2009,74.7,211,338,0.624,2520,29,6,7.5,31,6,2,0.2,12,12,0,1,0,1,4.9,NA,28.5,108,7.06,4.53,Y
+Levi Brown,Troy,Sun Belt,Buffalo,2010,209,7,2,Quarterback,76,229,2009,67.7,321,504,0.637,4254,23,9,8.4,54,7,1,0.1,12,9,3,1,0,1,4.93,20,31.5,106,7.07,4.43,Y
+Sean Canfield,Oregon State,Pac-10,New Orleans,2010,239,7,32,Quarterback,76,223,2009,73,303,446,0.679,3271,21,7,7.3,48,-160,2,-3.3,12,8,4,1,0,1,4.93,NA,29.5,100,7.26,4.39,Y
+Zac Robinson,Oklahoma State,Big 12,New England,2010,250,7,43,Quarterback,75,214,2009,48.3,180,301,0.598,2084,15,12,6.9,111,305,4,2.7,12,9,3,1,0,1,4.68,NA,35,110,7.24,4.4,Y
+Jake Locker,Washington,Pac-10,Tennessee,2011,8,1,8,Quarterback,75,231,2010,56.1,184,332,0.554,2265,17,9,6.8,114,385,6,3.4,12,6,6,1,1,0,4.51,NA,35,120,6.77,4.12,Y
+Blaine Gabbert,Missouri,Big 12,Jacksonville,2011,10,1,10,Quarterback,76,234,2010,59.6,301,475,0.634,3186,16,9,6.7,112,232,5,2.1,12,10,2,1,0,1,4.61,NA,33.5,120,6.84,4.26,Y
+Christian Ponder,Florida State,ACC,Minnesota,2011,12,1,12,Quarterback,74,229,2010,64.1,184,299,0.615,2044,20,8,6.8,100,180,4,1.8,13,9,4,1,1,0,4.63,NA,34,116,6.85,4.09,Y
+Andy Dalton,TCU,Mountain West,Cincinnati,2011,35,2,3,Quarterback,74,215,2010,80.5,209,316,0.661,2857,27,6,9,86,435,6,5.1,12,12,0,1,1,0,4.83,NA,29.5,106,6.93,4.27,Y
+Colin Kaepernick,Nevada,Western Athletic,San Francisco,2011,36,2,4,Quarterback,77,233,2010,87.7,233,359,0.649,3022,21,8,8.4,173,1206,20,7,13,12,1,1,1,0,4.53,NA,32.5,115,6.85,4.18,Y
+Ryan Mallett,Arkansas,SEC,New England,2011,74,3,10,Quarterback,79,253,2010,76.1,266,411,0.647,3869,32,12,9.4,44,-74,4,-1.7,12,10,2,1,0,1,5.37,NA,24,103,NA,NA,Y
+Ricky Stanzi,Iowa,Big Ten,Kansas City,2011,135,5,4,Quarterback,76,223,2010,71.5,221,345,0.641,3004,25,6,8.7,48,-6,2,-0.1,12,7,5,1,1,0,4.87,NA,32.5,110,6.95,4.43,Y
+T.J. Yates,North Carolina,ACC,Houston,2011,152,5,21,Quarterback,76,221,2010,68.3,282,422,0.668,3418,19,9,8.1,79,-77,3,-1,12,7,5,1,1,0,5.06,NA,29.5,104,6.96,4.12,Y
+Tyrod Taylor,Virginia Tech,ACC,Baltimore,2011,180,6,15,Quarterback,73,216,2010,78.3,188,315,0.597,2743,24,5,8.7,146,659,5,4.5,13,11,2,1,0,1,4.47,NA,37.5,126,6.78,4.09,Y
+Greg McElroy,Alabama,SEC,New York,2011,208,7,5,Quarterback,74,220,2010,77.8,222,313,0.709,2987,20,5,9.5,60,-12,1,-0.2,12,9,3,1,1,0,4.84,NA,33,107,7.11,4.45,Y
+Andrew Luck,Stanford,Pac-12,Indianapolis,2012,1,1,1,Quarterback,76,234,2011,83.8,288,404,0.713,3517,37,10,8.7,47,150,2,3.2,12,11,1,1,0,1,4.59,NA,36,124,6.8,4.28,Y
+Robert Griffin III,Baylor,Big 12,Washington,2012,2,1,2,Quarterback,74,231,2011,83.5,291,402,0.724,4293,37,6,10.7,179,699,10,3.9,12,9,3,1,1,0,4.33,NA,39,120,NA,NA,Y
+Ryan Tannehill,Texas A&M,Big 12,Miami,2012,8,1,8,Quarterback,76,221,2011,69.7,327,531,0.616,3744,29,15,7.1,58,306,4,5.3,12,6,6,1,1,0,4.65,NA,NA,NA,NA,NA,Y
+Brandon Weeden,Oklahoma State,Big 12,Cleveland,2012,22,1,22,Quarterback,76,221,2011,82.6,408,564,0.723,4727,37,13,8.4,17,-102,1,-6,12,11,1,1,1,0,4.89,NA,NA,NA,NA,NA,Y
+Brock Osweiler,Arizona State,Pac-12,Denver,2012,57,2,25,Quarterback,79,242,2011,70.7,326,516,0.632,4036,26,13,7.8,83,90,3,1.1,12,6,6,1,0,1,4.83,NA,NA,NA,NA,NA,Y
+Russell Wilson,Wisconsin,Big Ten,Seattle,2012,75,3,12,Quarterback,71,204,2011,94.1,225,309,0.728,3175,33,4,10.3,79,338,6,4.3,13,11,2,1,0,1,4.53,NA,34,118,6.97,4.09,Y
+Nick Foles,Arizona,Pac-12,Philadelphia,2012,88,3,25,Quarterback,77,243,2011,70.2,387,560,0.691,4334,28,14,7.7,43,-103,0,-2.4,12,4,8,0,0,0,5.14,NA,30.5,112,NA,NA,Y
+Kirk Cousins,Michigan State,Big Ten,Washington,2012,102,4,7,Quarterback,75,214,2011,58.4,267,419,0.637,3316,25,10,7.9,37,-39,0,-1.1,13,10,3,1,1,0,4.84,NA,28.5,109,7.05,4.5,Y
+Ryan Lindley,San Diego State,Mountain West,Arizona,2012,185,6,15,Quarterback,76,229,2011,51.8,237,447,0.53,3153,23,8,7.1,18,-51,0,-2.8,12,8,4,1,0,1,4.86,NA,29.5,108,7.52,4.45,Y
+Chandler Harnish,Northern Illinois,Mid-American,Indianapolis,2012,253,7,46,Quarterback,74,219,2011,73.8,228,365,0.625,3118,27,6,8.5,177,1231,10,7,13,10,3,1,1,0,4.68,NA,32.5,112,6.78,4.15,Y
+EJ Manuel,Florida State,ACC,Buffalo,2013,16,1,16,Quarterback,77,237,2012,74.5,263,387,0.68,3392,23,10,8.8,103,310,4,3,13,11,2,1,1,0,4.65,NA,34,118,7.08,4.21,Y
+Geno Smith,West Virginia,Big 12,New York,2013,39,2,7,Quarterback,74,218,2012,79.4,369,518,0.712,4205,42,6,8.1,66,151,2,2.3,12,7,5,1,0,1,4.58,NA,33.5,124,NA,NA,Y
+Mike Glennon,NC State,ACC,Tampa Bay,2013,73,3,11,Quarterback,79,225,2012,57.8,330,564,0.585,4031,31,17,7.1,56,-164,2,-2.9,12,7,5,1,0,1,4.94,NA,26.5,102,7.49,4.52,Y
+Matt Barkley,USC,Pac-12,Philadelphia,2013,98,4,1,Quarterback,75,227,2012,71.3,246,387,0.636,3273,36,15,8.5,25,-72,0,-2.9,12,7,5,1,0,1,4.91,NA,NA,NA,NA,NA,Y
+Ryan Nassib,Syracuse,Big East,New York,2013,110,4,13,Quarterback,74,227,2012,68,294,471,0.624,3749,26,10,8,84,138,2,1.6,12,7,5,1,1,0,5.06,NA,28.5,105,7.34,4.53,Y
+Tyler Wilson,Arkansas,SEC,Las Vegas,2013,112,4,15,Quarterback,74,215,2012,74.7,249,401,0.621,3387,21,13,8.4,41,7,0,0.2,12,4,8,0,0,0,4.95,NA,28.5,112,7.22,4.39,Y
+Landry Jones,Oklahoma,Big 12,Pittsburgh,2013,115,4,18,Quarterback,76,225,2012,81.1,367,555,0.661,4267,30,11,7.7,14,-110,0,-7.9,12,10,2,1,0,1,5.11,NA,31,115,7.12,4.3,Y
+Zac Dysert,Miami (OH),Mid-American,Denver,2013,234,7,28,Quarterback,75,231,2012,60.3,302,480,0.629,3483,25,12,7.3,108,265,2,2.5,12,4,8,0,0,0,4.81,NA,NA,NA,NA,NA,Y
+B.J. Daniels,South Florida,Big East,San Francisco,2013,237,7,31,Quarterback,NA,216,2012,61,164,289,0.567,2078,14,10,7.2,104,426,5,4.1,12,3,9,0,0,0,NA,NA,NA,NA,NA,NA,N
+Sean Renfree,Duke,ACC,Atlanta,2013,249,7,43,Quarterback,75,219,2012,66.2,297,441,0.673,3113,19,10,7.1,38,-50,1,-1.3,12,6,6,1,0,1,4.76,NA,NA,NA,NA,NA,Y
+Blake Bortles,UCF,American Athletic,Jacksonville,2014,3,1,3,Quarterback,77,232,2013,79.6,259,382,0.678,3581,25,9,9.4,87,272,6,3.1,12,11,1,1,1,0,4.93,NA,32.5,115,7.08,4.21,Y
+Johnny Manziel,Texas A&M,SEC,Cleveland,2014,22,1,22,Quarterback,72,207,2013,86.7,300,429,0.699,4114,37,13,9.6,144,759,9,5.3,12,8,4,1,1,0,4.68,NA,31.5,113,6.75,4.03,Y
+Teddy Bridgewater,Louisville,American Athletic,Minnesota,2014,32,1,32,Quarterback,74,214,2013,84,303,427,0.71,3970,31,4,9.3,63,78,1,1.2,12,11,1,1,1,0,NA,NA,30,113,7.17,4.2,Y
+Derek Carr,Fresno State,Mountain West,Las Vegas,2014,36,2,4,Quarterback,74,214,2013,76.6,453,659,0.687,5082,50,8,7.7,40,117,2,2.9,12,11,1,1,0,1,4.69,NA,34.5,110,NA,4.2,Y
+Jimmy Garoppolo,Eastern Illinois,OVC,New England,2014,62,2,30,Quarterback,74,226,2013,,65,95,0.684,811,9,2,8.5,12,-2,0,-0.2,4,3,1,0,0,0,4.97,NA,30.5,110,7.04,4.26,Y
+Logan Thomas,Virginia Tech,ACC,Arizona,2014,120,4,20,Quarterback,78,248,2013,50.6,227,402,0.565,2907,16,13,7.2,162,344,4,2.1,12,8,4,1,0,1,4.61,NA,35.5,118,7.05,4.18,Y
+Tom Savage,Pittsburgh,ACC,Houston,2014,135,4,35,Quarterback,76,228,2013,64.2,238,389,0.612,2958,21,9,7.6,76,-208,3,-2.7,12,6,6,1,1,0,4.97,NA,27,105,7.33,4.36,Y
+Aaron Murray,Georgia,SEC,Kansas City,2014,163,5,23,Quarterback,73,207,2013,88.1,225,347,0.648,3075,26,9,8.9,53,186,7,3.5,12,8,4,1,0,1,4.84,NA,NA,NA,NA,NA,Y
+AJ McCarron,Alabama,SEC,Cincinnati,2014,164,5,24,Quarterback,75,220,2013,82.5,226,336,0.673,3063,28,7,9.1,34,-22,0,-0.6,12,11,1,1,0,1,4.94,NA,28,99,7.18,4.34,Y
+Zach Mettenberger,LSU,SEC,Tennessee,2014,178,6,2,Quarterback,77,224,2013,86.8,192,296,0.649,3082,22,8,10.4,34,-133,0,-3.9,12,9,3,1,1,0,NA,NA,NA,NA,NA,NA,Y
+David Fales,San José State,Mountain West,Chicago,2014,183,6,7,Quarterback,74,212,2013,72.6,312,487,0.641,4189,33,13,8.6,48,7,2,0.1,12,6,6,0,0,0,4.99,NA,28,103,7.55,4.5,Y
+Keith Wenning,Ball State,Mid-American,Baltimore,2014,194,6,18,Quarterback,75,218,2013,71.6,319,498,0.641,4148,35,7,8.3,45,44,5,1,12,10,2,1,0,1,5,NA,28,100,7.07,4.25,Y
+Tajh Boyd,Clemson,ACC,New York,2014,213,6,37,Quarterback,73,222,2013,77.5,283,413,0.685,3851,34,11,9.3,154,400,10,2.6,12,10,2,1,1,0,4.84,NA,30.5,106,7.33,4.23,Y
+Garrett Gilbert,SMU,American Athletic,Los Angeles,2014,214,6,38,Quarterback,76,220,2013,62.8,335,504,0.665,3528,21,7,7,83,267,6,3.2,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+Jameis Winston,Florida State,ACC,Tampa Bay,2015,1,1,1,Quarterback,76,231,2014,74.6,305,467,0.653,3907,25,18,8.4,57,65,3,1.1,13,13,0,1,0,1,4.97,NA,28.5,103,7.16,4.36,Y
+Marcus Mariota,Oregon,Pac-12,Tennessee,2015,2,1,2,Quarterback,76,222,2014,91.3,304,445,0.683,4454,42,4,10,135,770,15,5.7,13,12,1,2,1,1,4.52,NA,36,121,6.87,4.11,Y
+Garrett Grayson,Colorado State,Mountain West,New Orleans,2015,75,3,11,Quarterback,75,213,2014,69.4,270,420,0.643,4006,32,7,9.5,57,-46,0,-0.8,12,10,2,1,0,1,4.75,NA,NA,NA,NA,NA,Y
+Sean Mannion,Oregon State,Pac-12,Los Angeles,2015,89,3,25,Quarterback,78,229,2014,48.6,282,453,0.623,3164,15,8,7,48,-306,1,-6.4,12,5,7,0,0,0,5.14,NA,31,105,7.29,4.39,Y
+Bryce Petty,Baylor,Big 12,New York,2015,103,4,4,Quarterback,75,230,2014,78.8,270,428,0.631,3855,29,7,9,84,101,6,1.2,12,11,1,1,0,1,4.87,NA,34,121,6.91,4.13,Y
+Brett Hundley,UCLA,Pac-12,Green Bay,2015,147,5,11,Quarterback,75,226,2014,77,271,392,0.691,3155,22,5,8,159,644,10,4.1,12,9,3,1,1,0,4.63,NA,36,120,6.93,3.98,Y
+Trevor Siemian,Northwestern,Big Ten,Denver,2015,250,7,33,Quarterback,75,220,2014,44.5,228,392,0.582,2214,7,11,5.6,68,-123,5,-1.8,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+Jared Goff,California,Pac-12,Los Angeles,2016,1,1,1,Quarterback,76,215,2015,84.2,341,529,0.645,4719,43,13,8.9,56,-8,0,-0.1,12,7,5,1,1,0,4.82,NA,27,110,7.17,4.47,Y
+Paxton Lynch,Memphis,American Athletic,Denver,2016,26,1,26,Quarterback,79,244,2015,74.9,296,443,0.668,3776,28,4,8.5,87,239,2,2.7,12,9,3,1,0,1,4.86,NA,36,118,7.14,4.26,Y
+Christian Hackenberg,Penn State,Big Ten,New York,2016,51,2,20,Quarterback,76,223,2015,49.5,192,359,0.535,2525,16,6,7,66,-80,2,-1.2,12,7,5,1,0,1,4.78,NA,31,114,7.04,4.33,Y
+Jacoby Brissett,NC State,ACC,New England,2016,91,3,28,Quarterback,76,231,2015,65.5,237,395,0.6,2662,20,6,6.7,139,370,6,2.7,12,7,5,1,0,1,4.94,NA,31,113,7.17,4.53,Y
+Cody Kessler,USC,Pac-12,Cleveland,2016,93,3,30,Quarterback,73,220,2015,67.5,298,446,0.668,3536,29,7,7.9,61,-149,4,-2.4,13,8,5,1,0,1,4.89,NA,29.5,104,7.32,4,Y
+Connor Cook,Michigan State,Big Ten,Las Vegas,2016,100,4,2,Quarterback,76,217,2015,76.9,229,408,0.561,3131,24,7,7.7,52,56,0,1.1,13,12,1,1,0,1,4.79,NA,33,113,7.21,4.28,Y
+Dak Prescott,Mississippi State,SEC,Dallas,2016,135,4,37,Quarterback,74,226,2015,78.8,316,477,0.662,3793,29,5,8,160,588,10,3.7,12,8,4,1,1,0,4.79,NA,32.5,116,7.11,4.32,Y
+Cardale Jones,Ohio State,Big Ten,Buffalo,2016,139,4,41,Quarterback,77,253,2015,56.1,110,176,0.625,1460,8,5,8.3,64,193,2,3,12,11,1,1,1,0,4.81,NA,36,NA,NA,NA,Y
+Kevin Hogan,Stanford,Pac-12,Kansas City,2016,162,5,23,Quarterback,75,218,2015,87.3,206,304,0.678,2867,27,8,9.4,85,336,6,4,13,11,2,1,1,0,4.78,NA,32.5,113,6.9,4.31,Y
+Nate Sudfeld,Indiana,Big Ten,Washington,2016,187,6,12,Quarterback,78,234,2015,73.8,247,412,0.6,3573,27,7,8.7,46,61,5,1.3,12,6,6,1,0,1,5.02,NA,29,105,NA,NA,Y
+Jake Rudock,Michigan,Big Ten,Detroit,2016,191,6,16,Quarterback,75,207,2015,82,249,389,0.64,3017,20,9,7.8,58,166,4,2.9,12,9,3,1,1,0,NA,NA,NA,NA,NA,NA,N
+Brandon Allen,Arkansas,SEC,Jacksonville,2016,201,6,26,Quarterback,73,217,2015,88,244,370,0.659,3440,30,8,9.3,56,107,1,1.9,12,7,5,1,1,0,4.84,NA,28,110,7.06,4.33,Y
+Jeff Driskel,Louisiana Tech,Conference USA,San Francisco,2016,207,6,32,Quarterback,76,234,2015,68.4,281,450,0.624,4033,27,8,9,92,323,5,3.5,12,8,4,1,1,0,4.56,NA,32,122,7.19,4.25,Y
+Brandon Doughty,Western Kentucky,Conference USA,Miami,2016,223,7,2,Quarterback,75,213,2015,82.9,388,540,0.719,5055,48,9,9.4,27,-122,1,-4.5,13,11,2,1,1,0,5.22,NA,27,103,7.49,4.52,Y
+Patrick Mahomes,Texas Tech,Big 12,Kansas City,2017,10,1,10,Quarterback,74,225,2016,82.5,388,591,0.657,5052,41,10,8.5,131,285,12,2.2,12,5,7,0,0,0,4.8,NA,30,114,6.88,4.08,Y
+Deshaun Watson,Clemson,ACC,Houston,2017,12,1,12,Quarterback,75,221,2016,83.9,387,578,0.67,4593,41,17,7.9,165,629,9,3.8,13,12,1,2,2,0,4.66,NA,32.5,119,6.95,4.31,Y
+DeShone Kizer,Notre Dame,FBS Independents,Cleveland,2017,52,2,20,Quarterback,76,233,2016,69.5,212,361,0.587,2925,26,9,8.1,129,472,8,3.7,12,4,8,0,0,0,4.83,NA,30.5,107,7.4,4.53,Y
+Davis Webb,California,Pac-12,New York,2017,87,3,23,Quarterback,77,229,2016,69.8,382,620,0.616,4295,37,12,6.9,33,-110,6,-3.3,12,5,7,0,0,0,4.79,NA,33,118,6.92,4.21,Y
+C.J. Beathard,Iowa,Big Ten,San Francisco,2017,104,3,40,Quarterback,75,219,2016,43.5,170,301,0.565,1929,17,10,6.4,83,-13,2,-0.2,12,8,4,1,0,1,NA,NA,31,113,NA,NA,Y
+Joshua Dobbs,Tennessee,SEC,Pittsburgh,2017,135,4,29,Quarterback,75,216,2016,79.8,225,357,0.63,2946,27,12,8.3,150,831,12,5.5,12,8,4,1,1,0,4.64,NA,33,122,6.75,4.31,Y
+Nathan Peterman,Pittsburgh,ACC,Buffalo,2017,171,5,28,Quarterback,75,226,2016,81.2,185,306,0.605,2855,27,7,9.3,72,286,3,4,12,8,4,1,0,1,4.82,NA,31,110,7.14,4.31,Y
+Brad Kaaya,Miami,ACC,Detroit,2017,215,6,32,Quarterback,76,214,2016,68.6,261,421,0.62,3532,27,7,8.4,37,-136,1,-3.7,12,8,4,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Chad Kelly,Ole Miss,SEC,Denver,2017,253,7,35,Quarterback,74,228,2016,81.4,205,328,0.625,2758,19,8,8.4,81,332,5,4.1,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+Baker Mayfield,Oklahoma,Big 12,Cleveland,2018,1,1,1,Quarterback,73,215,2017,92.3,285,404,0.705,4627,43,6,11.5,97,311,5,3.2,13,12,1,1,0,1,4.84,NA,29,111,7,4.28,Y
+Sam Darnold,USC,Pac-12,New York,2018,3,1,3,Quarterback,75,221,2017,73.2,303,480,0.631,4143,26,13,8.6,75,82,5,1.1,13,11,2,1,0,1,4.85,NA,26.5,105,6.96,4.4,Y
+Josh Allen,Wyoming,Mountain West,Buffalo,2018,7,1,7,Quarterback,77,237,2017,60.1,152,270,0.563,1812,16,6,6.7,92,204,5,2.2,12,7,5,1,1,0,4.75,NA,33.5,119,6.9,4.4,Y
+Josh Rosen,UCLA,Pac-12,Arizona,2018,10,1,10,Quarterback,76,226,2017,64.1,282,451,0.625,3717,26,10,8.2,50,-97,2,-1.9,12,6,6,1,0,1,4.92,NA,31,111,7.09,4.28,Y
+Lamar Jackson,Louisville,ACC,Baltimore,2018,32,1,32,Quarterback,74,216,2017,85.4,254,430,0.591,3660,27,10,8.5,232,1601,18,6.9,12,8,4,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Mason Rudolph,Oklahoma State,Big 12,Pittsburgh,2018,76,3,12,Quarterback,77,235,2017,86.7,318,489,0.65,4904,37,9,10,61,35,10,0.6,12,9,3,1,1,0,4.9,NA,26,NA,NA,NA,Y
+Mike White,Western Kentucky,Conference USA,Dallas,2018,171,5,34,Quarterback,77,224,2017,51.4,368,560,0.657,4177,26,8,7.5,64,-268,6,-4.2,12,6,6,1,0,1,5.09,NA,27,96,7.4,4.4,Y
+Luke Falk,Washington State,Pac-12,Tennessee,2018,199,6,25,Quarterback,76,215,2017,53.9,357,534,0.669,3593,30,13,6.7,67,-147,0,-2.2,12,9,3,1,0,1,NA,NA,26.5,103,NA,NA,Y
+Tanner Lee,Nebraska,Big Ten,Jacksonville,2018,203,6,29,Quarterback,76,218,2017,61.6,246,428,0.575,3143,23,16,7.3,30,-97,2,-3.2,12,4,8,0,0,0,4.98,NA,32,115,7,4.41,Y
+Danny Etling,LSU,SEC,New England,2018,219,7,1,Quarterback,75,222,2017,80.8,165,275,0.6,2463,16,2,9,72,128,2,1.8,12,9,3,1,0,1,4.76,NA,30.5,114,7.09,4.37,Y
+Alex Mcgough,Florida International,Conference USA,Seattle,2018,220,7,2,Quarterback,75,212,2017,61.5,232,355,0.654,2798,17,8,7.9,78,231,5,3,12,8,4,1,0,1,NA,NA,NA,NA,NA,NA,N
+Logan Woodside,Toledo,Mid-American,Cincinnati,2018,249,7,31,Quarterback,73,213,2017,72.4,264,411,0.642,3882,28,8,9.4,51,34,1,0.7,13,11,2,1,0,1,4.79,NA,31.5,103,6.94,4.15,Y
+Kyler Murray,Oklahoma,Big 12,Arizona,2019,1,1,1,Quarterback,70,207,2018,95.4,259,376,0.689,4364,42,7,11.6,140,1001,12,7.2,13,12,1,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Daniel Jones,Duke,ACC,New York,2019,6,1,6,Quarterback,77,221,2018,72.3,237,392,0.605,2674,22,9,6.8,104,319,3,3.1,12,7,5,1,1,0,4.81,NA,33.5,120,7,4.41,Y
+Dwayne Haskins,Ohio State,Big Ten,Washington,2019,15,1,15,Quarterback,75,231,2018,84.3,371,531,0.699,4751,49,8,8.9,79,108,4,1.4,13,12,1,1,1,0,5.04,NA,28.5,NA,NA,NA,Y
+Drew Lock,Missouri,SEC,Denver,2019,42,2,10,Quarterback,76,228,2018,82,275,437,0.629,3498,28,8,8,55,175,6,3.2,12,8,4,1,0,1,4.69,NA,31,112,7.03,4.12,Y
+Will Grier,West Virginia,Big 12,Carolina,2019,100,3,36,Quarterback,75,217,2018,81,266,397,0.67,3864,37,8,9.7,49,-95,3,-1.9,11,8,3,1,0,1,4.84,NA,34,112,7.09,4.28,Y
+Ryan Finley,NC State,ACC,Cincinnati,2019,104,4,2,Quarterback,76,213,2018,78.4,300,447,0.671,3612,21,10,8.1,40,20,1,0.5,12,9,3,1,0,1,4.73,NA,30.5,116,7.2,4.2,Y
+Jarrett Stidham,Auburn,SEC,New England,2019,133,4,31,Quarterback,74,218,2018,60.1,224,369,0.607,2795,18,5,7.6,71,-5,3,-0.1,12,7,5,1,1,0,4.81,NA,31,110,7.28,4.33,Y
+Clayton Thorson,Northwestern,Big Ten,Philadelphia,2019,167,5,29,Quarterback,76,222,2018,62,298,490,0.608,3181,17,15,6.5,78,-110,9,-1.4,13,8,5,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Gardner Minshew,Washington State,Pac-12,Jacksonville,2019,178,6,5,Quarterback,73,225,2018,76.1,468,662,0.707,4776,38,9,7.2,58,119,4,2.1,12,10,2,1,1,0,4.97,NA,33.5,116,7.14,4.45,Y
+Trace McSorley,Penn State,Big Ten,Baltimore,2019,197,6,24,Quarterback,72,202,2018,64.8,192,361,0.532,2513,18,7,7,169,799,12,4.7,12,9,3,1,0,1,4.57,NA,33,115,7.09,4.12,Y
+Joe Burrow,LSU,SEC,Cincinnati,2020,1,1,1,Quarterback,76,221,2019,94.9,402,527,0.763,5671,60,6,10.8,115,369,5,3.2,13,13,0,2,2,0,NA,NA,NA,NA,NA,NA,Y
+Tua Tagovailoa,Alabama,SEC,Miami,2020,5,1,5,Quarterback,72,217,2019,94.8,180,252,0.714,2840,33,3,11.3,23,17,2,0.7,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Justin Herbert,Oregon,Pac-12,Los Angeles,2020,6,1,6,Quarterback,78,236,2019,74.7,286,428,0.668,3471,32,6,8.1,58,50,4,0.9,13,11,2,1,1,0,4.68,NA,35.5,123,7.06,4.46,Y
+Jordan Love,Utah State,Mountain West,Green Bay,2020,26,1,26,Quarterback,76,224,2019,51.7,293,473,0.619,3402,20,17,7.2,81,175,0,2.2,12,7,5,1,0,1,4.74,NA,35.5,118,7.21,4.52,Y
+Jalen Hurts,Oklahoma,Big 12,Philadelphia,2020,53,2,21,Quarterback,73,222,2019,89.7,237,341,0.695,3851,32,8,11.3,233,1298,20,5.6,13,12,1,1,0,1,4.59,NA,35,125,NA,NA,Y
+Jacob Eason,Washington,Pac-12,Indianapolis,2020,122,4,16,Quarterback,78,231,2019,65.9,260,405,0.642,3132,23,8,7.7,46,-69,1,-1.5,12,7,5,1,1,0,4.89,NA,27.5,110,7.5,4.75,Y
+James Morgan,Florida International,Conference USA,New York,2020,125,4,19,Quarterback,76,229,2019,53.7,207,357,0.58,2560,14,5,7.2,31,-34,2,-1.1,12,6,6,1,0,1,4.89,NA,29,112,7.51,4.64,Y
+Jake Fromm,Georgia,SEC,Buffalo,2020,167,5,22,Quarterback,74,219,2019,76.6,234,385,0.608,2860,24,5,7.4,38,-12,0,-0.3,13,11,2,1,1,0,5.01,NA,30,111,7.27,4.51,Y
+Jake Luton,Oregon State,Pac-12,Jacksonville,2020,189,6,10,Quarterback,78,224,2019,68.2,222,358,0.62,2714,28,3,7.6,44,-87,1,-2,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,Y
+Cole McDonald,Hawai'i,Mountain West,Tennessee,2020,224,7,10,Quarterback,75,215,2019,70.8,326,511,0.638,4138,33,14,8.1,103,377,7,3.7,14,9,5,1,1,0,4.58,NA,36,121,7.13,4.52,Y
+Ben DiNucci,James Madison,CAA,Dallas,2020,231,7,17,Quarterback,75,210,2019,,13,20,0.65,156,0,1,7.8,14,36,0,2.6,14,13,1,2,1,1,NA,NA,NA,NA,NA,NA,N
+Tommy Stevens,Mississippi State,SEC,New Orleans,2020,240,7,26,Quarterback,77,235,2019,,97,161,0.602,1155,11,5,7.2,83,381,4,4.6,12,6,6,1,0,1,NA,NA,NA,NA,NA,NA,N
+Nate Stanley,Iowa,Big Ten,Minnesota,2020,244,7,30,Quarterback,76,235,2019,67.6,237,399,0.594,2951,16,7,7.4,76,7,1,0.1,12,9,3,1,1,0,4.81,NA,28.5,108,7.26,4.48,Y
+Trevor Lawrence,Clemson,ACC,Jacksonville,2021,1,1,1,Quarterback,78,213,2020,84,231,334,0.692,3153,24,5,9.4,68,203,8,3,11,10,1,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Zach Wilson,BYU,FBS Independents,New York,2021,2,1,2,Quarterback,74,214,2020,88.6,244,333,0.733,3651,32,3,11,69,265,10,3.8,11,10,1,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Justin Fields,Ohio State,Big Ten,Chicago,2021,11,1,11,Quarterback,75,227,2020,91.7,158,225,0.702,2100,22,6,9.3,81,383,5,4.7,6,6,0,2,1,1,4.45,NA,NA,NA,NA,NA,Y
+Mac Jones,Alabama,SEC,New England,2021,15,1,15,Quarterback,75,217,2020,96.1,311,402,0.774,4500,41,4,11.2,35,16,1,0.5,11,11,0,2,2,0,4.72,NA,32,116,7.04,4.39,Y
+Kyle Trask,Florida,SEC,Tampa Bay,2021,64,2,32,Quarterback,77,236,2020,88.5,301,437,0.689,4283,43,8,9.8,64,50,3,0.8,11,8,3,1,0,1,5.1,NA,31.5,113,7.08,4.6,Y
+Kellen Mond,Texas A&M,SEC,Minnesota,2021,66,3,2,Quarterback,75,211,2020,74.9,187,296,0.632,2208,19,3,7.5,74,294,4,4,9,8,1,1,1,0,NA,NA,NA,NA,NA,NA,N
+Davis Mills,Stanford,Pac-12,Houston,2021,67,3,3,Quarterback,76,217,2020,77.4,127,193,0.658,1510,7,3,7.8,30,37,3,1.2,6,4,2,0,0,0,4.82,NA,32,110,6.95,4.4,Y
+Ian Book,Notre Dame,FBS Independents,New Orleans,2021,133,4,28,Quarterback,72,211,2020,83.9,228,353,0.646,2830,15,3,8,117,486,9,4.2,11,10,1,1,0,1,4.65,NA,32.5,115,6.99,4.19,Y
+Sam Ehlinger,Texas,Big 12,Indianapolis,2021,218,6,34,Quarterback,73,220,2020,76.5,194,322,0.602,2566,26,5,8,113,378,8,3.3,9,6,3,1,1,0,4.84,NA,36.5,114,7.15,4.44,Y
+Kenny Pickett,Pittsburgh,ACC,Pittsburgh,2022,20,1,20,Quarterback,75,217,2021,81.2,334,497,0.672,4319,42,7,8.7,97,241,5,2.5,13,11,2,1,0,1,4.73,NA,33.5,121,NA,4.29,Y
+Desmond Ridder,Cincinnati,American Athletic,Atlanta,2022,74,3,10,Quarterback,75,211,2021,71.9,251,387,0.649,3334,30,8,8.6,110,355,6,3.2,13,13,0,1,0,1,4.52,NA,36,127,7.15,4.29,Y
+Malik Willis,Liberty,FBS Independents,Tennessee,2022,86,3,22,Quarterback,73,219,2021,70.1,207,339,0.611,2857,27,12,8.4,197,878,13,4.5,12,7,5,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Matt Corral,Ole Miss,SEC,Carolina,2022,94,3,30,Quarterback,74,212,2021,80.5,262,386,0.679,3349,20,5,8.7,152,614,11,4,12,10,2,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Bailey Zappe,Western Kentucky,Conference USA,New England,2022,137,4,32,Quarterback,73,215,2021,78.6,475,686,0.692,5967,62,11,8.7,51,17,3,0.3,13,8,5,1,1,0,4.88,NA,30,109,7.19,4.4,Y
+Sam Howell,North Carolina,ACC,Washington,2022,144,5,1,Quarterback,73,218,2021,76.1,217,347,0.625,3056,24,9,8.8,183,828,11,4.5,12,6,6,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Chris Oladokun,South Dakota State,MVFC,Pittsburgh,2022,241,7,20,Quarterback,74,195,2021,,18,28,0.643,224,2,0,8,2,19,1,9.5,14,11,3,1,0,1,NA,NA,NA,NA,NA,NA,N
+Skylar Thompson,Kansas State,Big 12,Miami,2022,247,7,26,Quarterback,74,217,2021,76.1,162,233,0.695,2113,12,4,9.1,47,4,4,0.1,12,7,5,1,1,0,4.91,NA,31,112,7,4.28,Y
+Brock Purdy,Iowa State,Big 12,San Francisco,2022,262,7,41,Quarterback,73,212,2021,70,292,407,0.717,3188,19,8,7.8,85,238,1,2.8,12,7,5,1,0,1,4.84,NA,27,NA,7.21,4.45,Y
+Bryce Young,Alabama,SEC,Carolina,2023,1,1,1,Quarterback,70,204,2022,86.2,245,380,0.645,3328,32,5,8.8,49,185,4,3.8,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,Y
+C.J. Stroud,Ohio State,Big Ten,Houston,2023,2,1,2,Quarterback,75,214,2022,88.9,258,389,0.663,3688,41,6,9.5,47,108,0,2.3,12,11,1,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Anthony Richardson,Florida,SEC,Indianapolis,2023,4,1,4,Quarterback,76,244,2022,71.2,176,327,0.538,2549,17,9,7.8,103,654,9,6.3,12,6,6,1,0,1,4.43,NA,40.5,129,NA,NA,Y
+Will Levis,Kentucky,SEC,Tennessee,2023,33,2,2,Quarterback,76,229,2022,60.9,185,283,0.654,2406,19,10,8.5,73,-103,2,-1.4,12,7,5,1,0,1,NA,NA,34,124,NA,NA,Y
+Hendon Hooker,Tennessee,SEC,Detroit,2023,68,3,5,Quarterback,75,217,2022,89.5,229,329,0.696,3135,27,2,9.5,104,430,5,4.1,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Jake Haener,Fresno State,Mountain West,New Orleans,2023,127,4,25,Quarterback,72,207,2022,71,251,349,0.719,2888,20,3,8.3,45,-116,2,-2.6,13,9,4,1,1,0,NA,NA,35,114,7.01,NA,Y
+Stetson Bennett,Georgia,SEC,Los Angeles,2023,128,4,26,Quarterback,71,192,2022,87.8,310,455,0.681,4127,27,7,9.1,57,205,10,3.6,13,13,0,2,2,0,4.67,NA,33.5,118,NA,4.2,Y
+Aidan O'Connell,Purdue,Big Ten,Las Vegas,2023,135,4,33,Quarterback,75,213,2022,71.8,319,497,0.642,3481,22,13,7,43,-81,1,-1.9,13,8,5,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Clayton Tune,Houston,American Athletic,Arizona,2023,139,5,5,Quarterback,75,220,2022,75.6,334,497,0.672,4074,40,10,8.2,128,547,5,4.3,12,7,5,1,1,0,4.64,NA,37.5,122,6.89,4.25,Y
+Dorian Thompson-Robinson,UCLA,Pac-12,Cleveland,2023,140,5,6,Quarterback,74,203,2022,82,265,381,0.696,3153,27,10,8.3,117,647,12,5.5,12,9,3,1,0,1,4.56,NA,32.5,121,7.28,4.44,Y
+Sean Clifford,Penn State,Big Ten,Green Bay,2023,149,5,15,Quarterback,NA,NA,2022,73.9,226,351,0.644,2822,24,7,8,70,185,5,2.6,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,N
+Jaren Hall,BYU,FBS Independents,Minnesota,2023,164,5,30,Quarterback,72,207,2022,79.3,248,376,0.66,3171,31,6,8.4,86,346,3,4,12,7,5,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Tanner McKee,Stanford,Pac-12,Philadelphia,2023,188,6,11,Quarterback,78,231,2022,53.5,264,426,0.62,2947,13,8,6.9,74,-90,2,-1.2,12,3,9,0,0,0,NA,NA,33,114,7.22,4.41,Y
+Max Duggan,TCU,Big 12,Los Angeles,2023,239,7,22,Quarterback,74,207,2022,78.2,267,419,0.637,3698,32,8,8.8,137,423,9,3.1,13,12,1,2,1,1,4.52,NA,30.5,116,7.26,4.45,Y
+Caleb Williams,USC,Pac-12,Chicago,2024,1,1,1,Quarterback,73,214,2023,82.4,266,388,0.686,3633,30,5,9.4,99,115,11,1.2,12,7,5,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Jayden Daniels,LSU,SEC,Washington,2024,2,1,2,Quarterback,76,210,2023,95.6,236,327,0.722,3812,40,4,11.7,135,1134,10,8.4,12,9,3,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Drake Maye,North Carolina,ACC,New England,2024,3,1,3,Quarterback,76,223,2023,79.2,269,425,0.633,3608,24,9,8.5,112,449,9,4,12,8,4,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Michael Penix Jr.,Washington,Pac-12,Atlanta,2024,8,1,8,Quarterback,74,216,2023,84.1,363,556,0.653,4903,36,11,8.8,35,8,3,0.2,13,13,0,2,1,1,NA,NA,NA,NA,NA,NA,Y
+J.J. McCarthy,Michigan,Big Ten,Minnesota,2024,10,1,10,Quarterback,75,219,2023,88.2,240,332,0.723,2991,22,4,9,64,202,3,3.2,13,13,0,2,2,0,NA,NA,NA,NA,6.82,4.23,Y
+Bo Nix,Oregon,Pac-12,Denver,2024,12,1,12,Quarterback,74,214,2023,91.2,364,470,0.774,4508,45,3,9.6,54,234,6,4.3,13,11,2,1,1,0,NA,NA,NA,NA,NA,NA,Y
+Spencer Rattler,South Carolina,SEC,New Orleans,2024,150,5,15,Quarterback,72,211,2023,66.1,275,399,0.689,3186,19,8,8,98,102,4,1,12,5,7,0,0,0,4.95,NA,32,108,7.21,4.37,Y
+Jordan Travis,Florida State,ACC,New York,2024,171,5,36,Quarterback,73,200,2023,80.1,207,324,0.639,2745,20,2,8.5,73,176,7,2.4,13,13,0,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Joe Milton III,Tennessee,SEC,New England,2024,193,6,17,Quarterback,77,235,2023,70.4,230,355,0.648,2814,20,5,7.9,78,299,7,3.8,12,8,4,1,1,0,NA,NA,35,121,NA,NA,Y
+Devin Leary,Kentucky,SEC,Baltimore,2024,218,6,42,Quarterback,73,215,2023,65.4,209,371,0.563,2746,25,12,7.4,42,-60,1,-1.4,12,7,5,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Michael Pratt,Tulane,American Athletic,Green Bay,2024,245,7,25,Quarterback,75,217,2023,65.5,185,283,0.654,2406,22,5,8.5,98,286,5,2.9,13,11,2,1,0,1,NA,NA,36,114,7.2,4.23,Y

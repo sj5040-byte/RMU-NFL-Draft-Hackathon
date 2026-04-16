@@ -1,0 +1,15 @@
+name,college_team,college_conference,year,position,height,weight,season_before_draft,QBR,passing_completions,passing_att,completion_pct,passing_yds,passing_td,passing_int,passing_ypa,rushing_car,rushing_yds,rushing_td,rushing_ypc,regular_season_games,regular_season_wins,regular_season_losses,postseason_games,postseason_wins,postseason_losses,forty,bench,vertical,broad_jump,cone,shuttle,attended_combine
+Fernando Mendoza,Indiana,Big Ten,2026,Quarterback,77,225,2025,88.4,273,379,0.72,3535,41,6,9.3,90,276,7,3.1,13,13,0,3,3,0,NA,NA,NA,NA,NA,NA,Y
+Ty Simpson,Alabama,SEC,2026,Quarterback,74,208,2025,76.7,305,473,0.645,3567,28,5,7.5,90,93,5,1,13,10,3,2,1,1,NA,NA,NA,NA,NA,NA,Y
+Garrett Nussmeier,LSU,SEC,2026,Quarterback,75,200,2025,71.9,194,288,0.674,1927,12,5,6.7,29,-57,1,-2,13,7,6,0,0,0,NA,NA,NA,NA,NA,NA,Y
+Carson Beck,Miami,ACC,2026,Quarterback,76,220,2025,80.6,338,467,0.724,3813,30,12,8.2,62,43,2,0.7,12,10,2,3,2,1,NA,NA,NA,NA,NA,NA,Y
+Cade Klubnik,Clemson,ACC,2026,Quarterback,74,210,2025,62.7,257,392,0.656,2943,16,6,7.5,83,94,4,1.1,13,7,6,0,0,0,NA,NA,NA,NA,NA,NA,Y
+Sawyer Robertson,Baylor,Big 12,2026,Quarterback,76,220,2025,70.0,304,504,0.603,3681,31,12,7.3,56,17,3,0.3,12,5,7,0,0,0,4.64,NA,37.5,123,7.45,4.46,Y
+Taylen Green,Arkansas,SEC,2026,Quarterback,78,230,2025,83.1,198,326,0.607,2714,19,11,8.3,139,777,8,5.6,12,2,10,0,0,0,4.36,NA,43.5,134,NA,NA,Y
+Diego Pavia,Vanderbilt,SEC,2026,Quarterback,72,207,2025,87.7,267,378,0.706,3539,29,8,9.4,167,862,10,5.2,13,10,3,0,0,0,NA,NA,NA,NA,NA,NA,Y
+Jalon Daniels,Kansas,Big 12,2026,Quarterback,72,220,2025,68.2,198,319,0.621,2531,22,7,7.9,117,404,4,3.5,12,5,7,0,0,0,4.65,NA,NA,NA,NA,NA,Y
+Luke Altmyer,Illinois,Big Ten,2026,Quarterback,74,205,2025,79.4,246,365,0.674,3007,22,5,8.2,100,242,13,2.4,13,9,4,0,0,0,4.72,NA,32,114,NA,NA,Y
+Behren Morton,Texas Tech,Big 12,2026,Quarterback,74,210,2025,72.2,219,332,0.66,2780,22,6,8.4,43,-113,0,-2.6,13,12,1,1,0,1,NA,NA,NA,NA,NA,NA,Y
+Miller Moss,Louisville,ACC,2026,Quarterback,74,205,2025,65.8,244,380,0.642,2679,16,7,7.1,54,-65,9,-0.7,13,9,4,0,0,0,NA,NA,NA,NA,NA,NA,N
+Mark Gronowski,Iowa,Big Ten,2026,Quarterback,74,230,2025,61.0,166,262,0.634,1741,10,7,6.6,130,545,16,4.2,13,9,4,0,0,0,NA,NA,NA,NA,NA,NA,N
+Joey Aguilar,Tennessee,SEC,2026,Quarterback,75,225,2025,76.7,272,404,0.673,3565,24,10,8.8,71,101,4,1.4,13,8,5,0,0,0,NA,NA,NA,NA,NA,NA,Y
