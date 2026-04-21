@@ -1,11 +1,8 @@
 """
-run_qb_pipeline.py
-------------------
 Orchestrates the full QB draft prediction workflow from raw data to
 saved outputs. Run this file directly to reproduce all results.
 
 Pipeline steps
---------------
 1. Data preparation
 2. GKF (Grouped K-Fold) -- primary benchmark
        Chronological year groups. No temporal leakage. Honest F1.
@@ -15,10 +12,6 @@ Pipeline steps
 4. GKF vs SKF comparison table with leakage verdict
 5. Feature importance (from GKF models)
 6. Draft trend analysis
-
-Dependencies
-------------
-    pandas, numpy, xgboost, optuna, scikit-learn, matplotlib, seaborn
 """
 
 import os
@@ -37,13 +30,6 @@ from qb_visualizer import QBDraftVisualizer, QBDraftAnalyzer
 def setup_output_directory() -> str:
     """
     Create (if needed) and return the top-level output directory.
-
-    All CSVs, plots, and comparison tables land here.
-
-    Returns
-    -------
-    str
-        Absolute path to the output directory.
     """
     output_dir = os.path.join(os.path.dirname(__file__), 'Model_Output')
     os.makedirs(output_dir, exist_ok=True)
@@ -153,15 +139,7 @@ def print_comparison_table(gkf_summary: dict, skf_summary: dict):
     """
     Print a side-by-side GKF vs SKF metric table and render a leakage
     interpretation verdict.
-
-    Verdict rules
-    -------------
-    gap > 0.08  ->  SKF is substantially inflated. Trust GKF only.
-    gap > 0.03  ->  Moderate inflation. GKF is preferred; SKF is an
-                    upper bound.
-    gap <= 0.03 ->  Leakage is minimal. GKF remains primary but SKF
-                    tightens the confidence interval.
-
+    
     Parameters
     ----------
     gkf_summary : dict
@@ -183,28 +161,6 @@ def print_comparison_table(gkf_summary: dict, skf_summary: dict):
         print(f"  {name:<30} {s['n_folds']:>5} {s['mean_f1']:>9.4f} "
               f"{s['std_f1']:>8.4f} {s['mean_acc']:>9.4f} {auc_str:>9}")
 
-    f1_gap = skf_summary['mean_f1'] - gkf_summary['mean_f1']
-    print(f"\n  SKF - GKF mean F1 gap: {f1_gap:+.4f}")
-    print(f"\n  Interpretation:")
-
-    if f1_gap > 0.08:
-        print(f"    SKF F1 is substantially higher than GKF ({f1_gap:.4f} gap).")
-        print(f"    Temporal leakage is inflating SKF scores.")
-        print(f"    GKF ({gkf_summary['mean_f1']:.4f}) is the honest real-world estimate.")
-    elif f1_gap > 0.03:
-        print(f"    Moderate gap ({f1_gap:.4f}). Some mild leakage may be present.")
-        print(f"    Prefer GKF as the reported benchmark; SKF is an upper bound.")
-    else:
-        print(f"    SKF ~= GKF (gap = {f1_gap:.4f}). Temporal leakage is minimal.")
-        print(f"    GKF remains the primary benchmark.")
-        print(f"    SKF std ({skf_summary['std_f1']:.4f}) vs GKF std ({gkf_summary['std_f1']:.4f})")
-        print(f"    confirms GKF variance reflects era-level difficulty, not noise.")
-
-    print(f"\n  Reported model performance (GKF): "
-          f"F1 = {gkf_summary['mean_f1']:.4f} +/- {gkf_summary['std_f1']:.4f}, "
-          f"AUC = {gkf_summary['mean_auc']:.4f}")
-
-
 # ----------------------------------------------------------------------
 # Main pipeline
 # ----------------------------------------------------------------------
@@ -212,19 +168,6 @@ def print_comparison_table(gkf_summary: dict, skf_summary: dict):
 def main():
     """
     Run the full QB draft prediction pipeline.
-
-    Order of operations
-    -------------------
-    1.  Set up the output directory.
-    2.  Load and prepare training data.
-    3.  GKF: primary benchmark. Saves cv_results_gkf.csv and plots.
-    4.  SKF: stability check. Saves cv_results_skf.csv and plots.
-    5.  Print comparison table and save cv_strategy_comparison.csv.
-    6.  Re-run GKF (silently) to recover models, then export
-        feature_importance.csv. (SKF overwrites cv_results in memory,
-        so we need to restore the GKF models before computing importance.)
-    7.  Draft trend analysis.
-    8.  Print dataset statistics.
     """
     print("\n" + "=" * 70)
     print(" " * 15 + "QB DRAFT PREDICTION MODEL")
