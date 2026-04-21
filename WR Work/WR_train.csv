@@ -1,0 +1,1000 @@
+college_team,college_conference,nfl_team,year,overall,round,pick,name,position,height,weight,season_before_draft,receiving_rec,receiving_yds,receiving_td,receiving_ypr,regular_season_games,regular_season_wins,regular_season_losses,postseason_games,postseason_wins,postseason_losses,RAS,forty,bench,vertical,broad_jump,cone,shuttle,attended_combine
+Georgia Tech,ACC,Denver,2010,22,1,22,Demaryius Thomas,Wide Receiver,75,224,2009,46,1154,8,25.1,13,11,2,1,0,1,NA,4.52,NA,NA,NA,NA,NA,Y
+Oklahoma State,Big 12,Dallas,2010,24,1,24,Dez Bryant,Wide Receiver,74,225,2009,17,323,4,19,12,9,3,1,0,1,9.05,4.52,NA,NA,NA,NA,NA,Y
+Illinois,Big Ten,Tampa Bay,2010,39,2,7,Arrelious Benn,Wide Receiver,73,219,2009,38,490,2,12.9,12,3,9,0,0,0,8.23,4.57,20,37,118,NA,NA,Y
+Notre Dame,FBS Independents,Seattle,2010,60,2,28,Golden Tate,Wide Receiver,70,199,2009,93,1496,15,16.1,12,6,6,0,0,0,7.49,4.42,17,35,120,7.12,4.34,Y
+USC,Pac-10,Tennessee,2010,77,3,13,Damian Williams,Wide Receiver,73,197,2009,70,1010,6,14.4,12,8,4,1,1,0,8.55,4.52,19,38,118,6.79,4.24,Y
+LSU,SEC,Carolina,2010,78,3,14,Brandon LaFell,Wide Receiver,75,211,2009,57,792,11,13.9,12,9,3,1,0,1,4.88,4.58,NA,36,115,6.81,4.23,Y
+SMU,Conference USA,Pittsburgh,2010,82,3,18,Emmanuel Sanders,Wide Receiver,71,186,2009,98,1339,7,13.7,12,7,5,1,1,0,9.38,4.4,12,39.5,126,6.64,4.1,Y
+Texas,Big 12,Cincinnati,2010,84,3,20,Jordan Shipley,Wide Receiver,71,193,2009,116,1485,13,12.8,13,13,0,1,0,1,6.89,4.6,16,36.5,116,NA,NA,Y
+Minnesota,Big Ten,Denver,2010,87,3,23,Eric Decker,Wide Receiver,75,217,2009,50,758,5,15.2,12,6,6,1,0,1,NA,4.54,15,NA,NA,NA,NA,Y
+Ohio,Mid-American,New England,2010,90,3,26,Taylor Price,Wide Receiver,72,204,2009,56,784,5,14,13,9,4,1,0,1,8.56,4.4,16,37,114,6.82,4.34,Y
+Cincinnati,Big East,Los Angeles,2010,99,4,1,Mardy Gilyard,Wide Receiver,72,187,2009,87,1191,11,13.7,12,12,0,1,0,1,4.28,4.61,NA,39,116,6.92,4.4,Y
+Syracuse,Big East,Tampa Bay,2010,101,4,3,Mike Williams,Wide Receiver,74,221,2009,49,746,6,15.2,12,4,8,0,0,0,7.24,4.53,8,33.5,116,6.9,4.31,Y
+UConn,Big East,Buffalo,2010,107,4,9,Marcus Easley,Wide Receiver,75,210,2009,48,893,8,18.6,12,7,5,1,1,0,8.6,4.39,16,34,123,6.94,4.6,Y
+Clemson,ACC,Las Vegas,2010,108,4,10,Jacoby Ford,Wide Receiver,69,186,2009,56,779,6,13.9,13,8,5,1,1,0,5.79,4.28,15,33.5,115,7,4.44,Y
+Utah,Mountain West,Baltimore,2010,156,5,25,David Reed,Wide Receiver,72,191,2009,81,1188,5,14.7,12,9,3,1,1,0,4.91,4.56,15,37,114,6.95,4.38,Y
+Florida,SEC,Philadelphia,2010,159,5,28,Riley Cooper,Wide Receiver,75,222,2009,51,961,9,18.8,13,12,1,1,1,0,7.75,4.53,NA,33,114,NA,NA,Y
+Kansas,Big 12,Atlanta,2010,165,5,34,Kerry Meier,Wide Receiver,74,224,2009,102,985,8,9.7,12,5,7,0,0,0,7.39,4.62,13,35,115,NA,4.23,Y
+South Florida,Big East,Cleveland,2010,177,6,8,Carlton Mitchell,Wide Receiver,75,215,2009,40,706,4,17.7,12,7,5,1,1,0,8.85,4.46,16,36,122,6.96,4.55,Y
+Kansas,Big 12,Cincinnati,2010,191,6,22,Dezmon Briscoe,Wide Receiver,74,207,2009,84,1337,9,15.9,12,5,7,0,0,0,2.15,4.66,9,33,115,7.1,4.57,Y
+Central Michigan,Mid-American,Pittsburgh,2010,195,6,26,Antonio Brown,Wide Receiver,70,186,2009,110,1198,9,10.9,13,11,2,1,1,0,3.85,4.56,13,33.5,105,6.98,4.18,Y
+Arizona State,Pac-10,San Francisco,2010,206,6,37,Kyle Williams,Wide Receiver,70,188,2009,57,815,8,14.3,12,4,8,0,0,0,6.08,4.4,11,33,118,7,4.19,Y
+UCLA,Pac-10,Washington,2010,219,7,12,Terrence Austin,Wide Receiver,71,176,2009,37,455,4,12.3,12,6,6,1,1,0,4.47,NA,NA,NA,NA,NA,NA,N
+Georgia,SEC,Cincinnati,2011,4,1,4,A.J. Green,Wide Receiver,76,211,2010,57,848,9,14.9,12,6,6,1,0,1,9.34,4.48,18,34.5,126,6.91,4.21,Y
+Alabama,SEC,Atlanta,2011,6,1,6,Julio Jones,Wide Receiver,75,220,2010,78,1133,7,14.5,12,9,3,1,1,0,9.92,4.34,17,38.5,135,6.66,4.25,Y
+Pittsburgh,Big East,Kansas City,2011,26,1,26,Jonathan Baldwin,Wide Receiver,76,228,2010,53,822,5,15.5,12,7,5,1,1,0,9.08,4.49,20,42,129,7.07,4.34,Y
+Boise State,Western Athletic,Detroit,2011,44,2,12,Titus Young,Wide Receiver,71,174,2010,71,1215,9,17.1,12,11,1,1,1,0,5.3,4.43,NA,NA,123,NA,NA,Y
+Maryland,ACC,Baltimore,2011,58,2,26,Torrey Smith,Wide Receiver,73,204,2010,67,1055,12,15.7,12,8,4,1,1,0,9.85,4.41,19,41,126,6.72,4.13,Y
+Kentucky,SEC,Green Bay,2011,64,2,32,Randall Cobb,Wide Receiver,70,191,2010,84,1017,7,12.1,12,6,6,1,0,1,3.65,4.46,16,33.5,115,7.08,4.34,Y
+Boise State,Western Athletic,Los Angeles,2011,78,3,14,Austin Pettis,Wide Receiver,75,209,2010,71,951,10,13.4,12,11,1,1,1,0,7.99,4.56,14,33.5,120,6.68,3.88,Y
+Miami,ACC,Washington,2011,79,3,15,Leonard Hankerson,Wide Receiver,74,209,2010,72,1156,13,16.1,12,7,5,1,0,1,7.35,4.4,14,36,117,6.94,4.21,Y
+San Diego State,Mountain West,Los Angeles,2011,82,3,18,Vincent Brown,Wide Receiver,71,184,2010,69,1352,10,19.6,12,8,4,1,1,0,2.71,4.68,12,33.5,121,6.64,4.25,Y
+Troy,Sun Belt,New York,2011,83,3,19,Jerrel Jernigan,Wide Receiver,69,185,2010,84,822,6,9.8,12,7,5,1,1,0,5.55,4.46,11,37.5,124,7.07,4.25,Y
+Georgia,SEC,Seattle,2011,107,4,10,Kris Durham,Wide Receiver,77,214,2010,32,659,3,20.6,12,6,6,1,0,1,8.24,NA,NA,NA,NA,NA,NA,N
+Indiana,Big Ten,Baltimore,2011,123,4,26,Tandon Doss,Wide Receiver,74,201,2010,63,706,7,11.2,12,5,7,0,0,0,4.85,4.62,14,NA,NA,NA,NA,Y
+Hawai'i,Western Athletic,Carolina,2011,132,5,1,Kealoha Pilares,Wide Receiver,70,199,2010,88,1306,15,14.8,13,10,3,1,0,1,9.55,4.42,19,NA,NA,NA,NA,Y
+Tennessee,SEC,Las Vegas,2011,148,5,17,Denarius Moore,Wide Receiver,72,194,2010,47,981,9,20.9,12,6,6,1,0,1,7.79,4.43,13,36,118,6.78,4.15,Y
+TCU,Mountain West,New York,2011,153,5,22,Jeremy Kerley,Wide Receiver,70,189,2010,56,575,10,10.3,12,12,0,1,1,0,4.95,4.56,16,34.5,120,NA,NA,Y
+Nebraska,Big 12,Washington,2011,155,5,24,Niles Paul,Wide Receiver,73,224,2010,39,516,1,13.2,13,10,3,1,0,1,8.79,4.45,24,34.5,117,6.9,4.14,Y
+Stanford,Pac-10,Cincinnati,2011,167,6,2,Ryan Whalen,Wide Receiver,73,202,2010,41,439,2,10.7,12,11,1,1,1,0,9.2,4.53,18,38.5,123,6.67,4.09,Y
+East Carolina,Conference USA,Dallas,2011,176,6,11,Dwayne Harris,Wide Receiver,70,203,2010,101,1123,10,11.1,12,6,6,1,0,1,2.73,4.53,10,34,111,6.77,4.21,Y
+SMU,Conference USA,Washington,2011,178,6,13,Aldrick Robinson,Wide Receiver,70,184,2010,65,1301,14,20,13,7,6,1,0,1,8.92,4.35,17,40,126,6.65,4.09,Y
+USC,Pac-10,San Francisco,2011,182,6,17,Ronald Johnson,Wide Receiver,71,199,2010,64,692,8,10.8,13,8,5,0,0,0,6.95,4.46,16,NA,NA,NA,NA,Y
+Colorado,Big 12,New York,2011,227,7,24,Scotty McKnight,Wide Receiver,70,182,2010,50,621,7,12.4,12,5,7,0,0,0,7.67,NA,NA,NA,NA,NA,NA,N
+USC,Pac-10,Las Vegas,2011,241,7,38,David Ausberry,Wide Receiver,75,233,2010,20,252,4,12.6,13,8,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,N
+Oklahoma State,Big 12,Jacksonville,2012,5,1,5,Justin Blackmon,Wide Receiver,73,207,2011,121,1522,18,12.6,12,11,1,1,1,0,7.29,4.46,14,NA,NA,NA,NA,Y
+Notre Dame,FBS Independents,Arizona,2012,13,1,13,Michael Floyd,Wide Receiver,75,220,2011,100,1147,9,11.5,12,8,4,1,0,1,7.5,4.4,16,36.5,122,NA,NA,Y
+Baylor,Big 12,Tennessee,2012,20,1,20,Kendall Wright,Wide Receiver,70,196,2011,108,1663,14,15.4,12,9,3,1,1,0,3.04,4.49,NA,38.5,121,6.93,4.18,Y
+Illinois,Big Ten,San Francisco,2012,30,1,30,A.J. Jenkins,Wide Receiver,72,190,2011,90,1276,8,14.2,12,6,6,1,1,0,8.96,4.37,12,38.5,124,NA,NA,Y
+Georgia Tech,ACC,New York,2012,43,2,11,Stephen Hill,Wide Receiver,76,215,2011,28,820,5,29.3,12,8,4,1,0,1,9.63,4.36,14,39.5,133,6.88,4.48,Y
+South Carolina,SEC,Chicago,2012,45,2,13,Alshon Jeffery,Wide Receiver,75,216,2011,49,762,8,15.6,12,10,2,1,1,0,9.01,4.48,NA,NA,NA,NA,NA,Y
+Oklahoma,Big 12,Detroit,2012,54,2,22,Ryan Broyles,Wide Receiver,71,192,2011,83,1157,10,13.9,12,9,3,1,1,0,NA,4.57,21,NA,NA,NA,NA,Y
+LSU,SEC,New York,2012,63,2,31,Rueben Randle,Wide Receiver,75,210,2011,53,917,8,17.3,13,13,0,1,0,1,5.76,4.55,15,31,121,6.99,4.36,Y
+Ohio State,Big Ten,Houston,2012,68,3,5,DeVier Posey,Wide Receiver,74,211,2011,12,162,2,13.5,12,6,6,1,0,1,8.77,4.39,14,36.5,123,7.03,4.15,Y
+Rutgers,Big East,Cincinnati,2012,83,3,20,Mohamed Sanu,Wide Receiver,74,211,2011,115,1206,7,10.5,12,8,4,1,1,0,6.47,4.62,19,36,126,6.88,4.22,Y
+Wake Forest,ACC,Los Angeles,2012,96,4,1,Chris Givens,Wide Receiver,71,198,2011,83,1330,9,16,12,6,6,1,0,1,7.42,4.35,19,33.5,118,6.97,4.23,Y
+Miami,ACC,Cleveland,2012,100,4,5,Travis Benjamin,Wide Receiver,71,172,2011,41,609,3,14.9,12,6,6,0,0,0,6.52,4.31,14,38,119,NA,NA,Y
+Arkansas,SEC,Carolina,2012,104,4,9,Joe Adams,Wide Receiver,71,179,2011,54,652,3,12.1,12,10,2,1,1,0,3.65,4.51,NA,36,123,7.09,NA,Y
+Fresno State,Western Athletic,Kansas City,2012,107,4,12,Devon Wylie,Wide Receiver,69,187,2011,56,716,1,12.8,13,4,9,0,0,0,9,4.36,17,39,123,NA,NA,Y
+Arkansas,SEC,Minnesota,2012,118,4,23,Jarius Wright,Wide Receiver,70,182,2011,66,1117,12,16.9,12,10,2,1,1,0,7.08,4.39,11,38,120,6.93,4.03,Y
+Michigan State,Big Ten,Houston,2012,121,4,26,Keshawn Martin,Wide Receiver,72,188,2011,66,777,4,11.8,13,10,3,1,1,0,7.77,4.42,13,39.5,122,6.85,4.13,Y
+Wisconsin,Big Ten,New Orleans,2012,122,4,27,Nick Toon,Wide Receiver,74,215,2011,64,926,10,14.5,13,11,2,1,0,1,9.17,4.49,18,37.5,NA,NA,NA,Y
+Arkansas,SEC,Minnesota,2012,134,4,39,Greg Childs,Wide Receiver,75,219,2011,21,240,0,11.4,12,10,2,1,1,0,9.65,4.52,19,36.5,125,NA,NA,Y
+Virginia Tech,ACC,Dallas,2012,152,5,17,Danny Coale,Wide Receiver,72,201,2011,60,904,3,15.1,13,11,2,1,0,1,6.69,4.42,12,35,115,6.69,4.15,Y
+Arizona,Pac-12,Las Vegas,2012,168,5,33,Juron Criner,Wide Receiver,75,224,2011,75,956,11,12.7,12,4,8,0,0,0,4.73,4.66,17,38,117,7.15,4.3,Y
+Michigan State,Big Ten,Miami,2012,183,6,13,B.J. Cunningham,Wide Receiver,73,211,2011,79,1306,12,16.5,13,10,3,1,1,0,3.24,4.52,12,31.5,116,7.1,NA,Y
+Iowa,Big Ten,Philadelphia,2012,194,6,24,Marvin McNutt,Wide Receiver,75,216,2011,82,1315,12,16,12,7,5,1,0,1,7.75,4.48,NA,37,122,7.15,4.07,Y
+Miami,ACC,Baltimore,2012,198,6,28,Tommy Streeter,Wide Receiver,77,219,2011,46,811,8,17.6,12,6,6,0,0,0,8.68,4.37,17,33,125,7.08,NA,Y
+Ohio,Mid-American,Indianapolis,2012,206,6,36,LaVon Brazill,Wide Receiver,71,192,2011,72,1150,11,16,13,9,4,1,1,0,5.03,4.43,11,32.5,NA,NA,NA,Y
+Nevada,Western Athletic,Miami,2012,227,7,20,Rishard Matthews,Wide Receiver,72,217,2011,91,1364,8,15,12,7,5,1,0,1,6.28,4.54,20,36,NA,6.88,4.19,Y
+Colorado,Pac-12,Pittsburgh,2012,231,7,24,Toney Clemons,Wide Receiver,74,210,2011,43,680,8,15.8,13,3,10,0,0,0,9.1,NA,NA,NA,NA,NA,NA,N
+Northwestern,Big Ten,New England,2012,235,7,28,Jeremy Ebert,Wide Receiver,70,194,2011,75,1060,11,14.1,12,6,6,1,0,1,7.84,NA,NA,NA,NA,NA,NA,N
+Michigan,Big Ten,Kansas City,2012,238,7,31,Junior Hemingway,Wide Receiver,73,225,2011,33,662,4,20.1,12,10,2,1,1,0,9.72,4.48,21,35.5,124,6.59,3.98,Y
+Western Michigan,Mid-American,New York,2012,244,7,37,Jordan White,Wide Receiver,72,208,2011,128,1792,17,14,12,7,5,1,0,1,4.89,4.63,14,35,119,6.84,4.13,Y
+West Virginia,Big 12,Los Angeles,2013,8,1,8,Tavon Austin,Wide Receiver,69,174,2012,114,1289,12,11.3,12,7,5,1,0,1,6.45,4.34,14,32,120,NA,4.01,Y
+Clemson,ACC,Houston,2013,27,1,27,DeAndre Hopkins,Wide Receiver,73,214,2012,82,1405,18,17.1,12,10,2,1,1,0,4.94,4.57,15,36,115,NA,4.5,Y
+Tennessee,SEC,Minnesota,2013,29,1,29,Cordarrelle Patterson,Wide Receiver,74,216,2012,46,778,5,16.9,12,5,7,0,0,0,7.68,4.42,NA,37,128,NA,NA,Y
+Tennessee,SEC,Tennessee,2013,34,2,2,Justin Hunter,Wide Receiver,76,196,2012,73,1083,9,14.8,12,5,7,0,0,0,8.68,4.44,NA,39.5,136,NA,4.33,Y
+USC,Pac-12,Buffalo,2013,41,2,9,Robert Woods,Wide Receiver,72,201,2012,76,846,11,11.1,12,7,5,1,0,1,3.55,4.51,14,33.5,117,7.15,4.47,Y
+Marshall,Conference USA,New England,2013,59,2,27,Aaron Dobson,Wide Receiver,75,210,2012,57,679,3,11.9,12,5,7,0,0,0,8.52,4.37,NA,NA,NA,NA,NA,Y
+Baylor,Big 12,Dallas,2013,74,3,12,Terrance Williams,Wide Receiver,74,208,2012,97,1832,12,18.9,12,7,5,1,1,0,4.76,4.52,11,32.5,119,7.01,4.32,Y
+California,Pac-12,Los Angeles,2013,76,3,14,Keenan Allen,Wide Receiver,74,206,2012,61,737,6,12.1,12,3,9,0,0,0,NA,4.58,NA,NA,NA,NA,NA,Y
+Texas,Big 12,Buffalo,2013,78,3,16,Marquise Goodwin,Wide Receiver,69,183,2012,26,340,3,13.1,12,8,4,1,1,0,9.27,4.27,13,NA,132,NA,NA,Y
+Oregon State,Pac-12,Pittsburgh,2013,79,3,17,Markus Wheaton,Wide Receiver,71,189,2012,91,1244,11,13.7,12,9,3,1,0,1,8.38,4.45,20,37,120,6.8,4.02,Y
+West Virginia,Big 12,Los Angeles,2013,92,3,30,Stedman Bailey,Wide Receiver,70,193,2012,114,1622,25,14.2,12,7,5,1,0,1,5.64,4.52,11,34.5,117,6.81,4.09,Y
+South Carolina,SEC,Jacksonville,2013,101,4,4,Ace Sanders,Wide Receiver,67,173,2012,45,531,9,11.8,12,10,2,1,1,0,1.89,4.58,7,32,117,6.81,4.37,Y
+TCU,Big 12,New England,2013,102,4,5,Josh Boyce,Wide Receiver,71,206,2012,66,891,7,13.5,12,7,5,1,0,1,9.6,4.38,22,34,131,6.68,4.1,Y
+Kansas State,Big 12,Seattle,2013,123,4,26,Chris Harper,Wide Receiver,73,229,2012,58,857,3,14.8,12,11,1,1,0,1,7.16,4.55,20,35.5,116,6.89,4.39,Y
+Louisiana Tech,Western Athletic,San Francisco,2013,128,4,31,Quinton Patton,Wide Receiver,72,204,2012,104,1392,13,13.4,12,9,3,0,0,0,5.64,4.53,8,33,118,6.91,4.01,Y
+Michigan,Big Ten,Jacksonville,2013,135,5,2,Denard Robinson,Wide Receiver,71,199,2012,3,31,0,10.3,12,8,4,1,0,1,7.02,4.43,NA,36.5,123,7.09,4.22,Y
+Oklahoma,Big 12,New Orleans,2013,144,5,11,Kenny Stills,Wide Receiver,73,194,2012,82,959,11,11.7,12,10,2,1,0,1,7.13,4.38,16,33.5,124,NA,4.35,Y
+Georgia,SEC,Denver,2013,161,5,28,Tavarres King,Wide Receiver,72,189,2012,42,950,9,22.6,13,11,2,1,1,0,6.31,4.47,11,36.5,123,6.91,4.33,Y
+Virginia Tech,ACC,Detroit,2013,171,6,3,Corey Fuller,Wide Receiver,74,204,2012,43,815,6,19,12,6,6,1,1,0,5.83,4.43,12,31.5,120,NA,NA,Y
+Texas A&M,SEC,Arizona,2013,174,6,6,Ryan Swope,Wide Receiver,72,205,2012,72,913,8,12.7,12,10,2,1,1,0,9.54,4.34,16,37,125,6.76,4.25,Y
+Arkansas,SEC,Cincinnati,2013,197,6,29,Cobi Hamilton,Wide Receiver,74,212,2012,90,1335,5,14.8,12,4,8,0,0,0,2.44,4.56,11,29.5,107,NA,4.31,Y
+San Diego State,Mountain West,Las Vegas,2013,209,7,3,Brice Butler,Wide Receiver,75,199,2012,24,347,4,14.5,12,9,3,1,0,1,9.79,NA,NA,NA,NA,NA,NA,N
+Maryland,ACC,Green Bay,2013,224,7,18,Kevin Dorsey,Wide Receiver,73,211,2012,18,311,4,17.3,12,4,8,0,0,0,7.66,NA,NA,NA,NA,NA,NA,N
+Washington State,Pac-12,Chicago,2013,236,7,30,Marquess Wilson,Wide Receiver,75,194,2012,52,813,5,15.6,12,3,9,0,0,0,7.05,4.51,7,34.5,122,6.65,4.33,Y
+Clemson,ACC,Buffalo,2014,4,1,4,Sammy Watkins,Wide Receiver,73,211,2013,101,1464,12,14.5,12,10,2,1,1,0,8.45,4.43,16,34,126,6.95,4.34,Y
+Texas A&M,SEC,Tampa Bay,2014,7,1,7,Mike Evans,Wide Receiver,77,231,2013,69,1394,12,20.2,12,8,4,1,1,0,7,4.53,12,37,NA,7.08,4.26,Y
+LSU,SEC,New York,2014,12,1,12,Odell Beckham Jr.,Wide Receiver,71,198,2013,59,1152,8,19.5,12,9,3,1,1,0,NA,4.38,7,38.5,122,6.69,3.94,Y
+Oregon State,Pac-12,New Orleans,2014,20,1,20,Brandin Cooks,Wide Receiver,70,189,2013,128,1730,16,13.5,12,6,6,1,1,0,9.14,4.33,16,36,120,6.76,3.81,Y
+Florida State,ACC,Carolina,2014,28,1,28,Kelvin Benjamin,Wide Receiver,77,240,2013,54,1011,15,18.7,13,13,0,1,1,0,3.49,4.61,13,32.5,119,7.33,4.39,Y
+USC,Pac-12,Jacksonville,2014,39,2,7,Marqise Lee,Wide Receiver,72,192,2013,57,791,4,13.9,13,9,4,1,1,0,7.11,4.52,NA,38,127,NA,4.01,Y
+Vanderbilt,SEC,Philadelphia,2014,42,2,10,Jordan Matthews,Wide Receiver,75,212,2013,112,1477,7,13.2,12,8,4,1,1,0,9.38,4.46,21,35.5,120,6.95,4.18,Y
+Colorado,Pac-12,Seattle,2014,45,2,13,Paul Richardson,Wide Receiver,72,175,2013,83,1343,10,16.2,12,4,8,0,0,0,7.63,4.4,NA,38,124,7.09,NA,Y
+Fresno State,Mountain West,Green Bay,2014,53,2,21,Davante Adams,Wide Receiver,73,212,2013,131,1718,24,13.1,12,11,1,1,0,1,6.54,4.56,14,39.5,123,6.82,4.3,Y
+Indiana,Big Ten,Denver,2014,56,2,24,Cody Latimer,Wide Receiver,75,215,2013,72,1096,9,15.2,12,5,7,0,0,0,9.93,4.52,23,NA,NA,NA,NA,Y
+Penn State,Big Ten,Jacksonville,2014,61,2,29,Allen Robinson,Wide Receiver,75,220,2013,97,1432,6,14.8,12,7,5,0,0,0,8.86,4.6,NA,39,127,7,4,Y
+LSU,SEC,Miami,2014,63,2,31,Jarvis Landry,Wide Receiver,72,205,2013,77,1193,10,15.5,12,9,3,1,1,0,0.27,4.65,12,28.5,110,NA,NA,Y
+Oregon,Pac-12,Philadelphia,2014,86,3,22,Josh Huff,Wide Receiver,71,206,2013,62,1140,12,18.4,12,10,2,1,1,0,6.61,4.51,14,35.5,116,NA,NA,Y
+Ole Miss,SEC,Indianapolis,2014,90,3,26,Donte Moncrief,Wide Receiver,74,221,2013,59,938,6,15.9,12,7,5,1,1,0,9.46,4.4,13,39.5,132,7.02,4.3,Y
+Oklahoma,Big 12,New York,2014,104,4,4,Jalen Saunders,Wide Receiver,69,165,2013,61,729,8,12,12,10,2,1,1,0,3.96,4.44,NA,34,122,NA,NA,Y
+South Carolina,SEC,San Francisco,2014,106,4,6,Bruce Ellington,Wide Receiver,69,197,2013,49,775,8,15.8,12,10,2,1,1,0,9.22,4.45,15,39.5,120,6.69,3.95,Y
+Clemson,ACC,Pittsburgh,2014,118,4,18,Martavis Bryant,Wide Receiver,76,211,2013,42,828,7,19.7,12,10,2,1,1,0,9.45,4.42,16,39,124,7.18,4.15,Y
+Alabama,SEC,Seattle,2014,123,4,23,Kevin Norwood,Wide Receiver,74,198,2013,38,568,7,14.9,12,11,1,1,0,1,5.91,4.48,8,33,121,6.68,4.32,Y
+Tulane,Conference USA,Washington,2014,142,5,2,Ryan Grant,Wide Receiver,72,199,2013,77,1039,9,13.5,12,7,5,1,0,1,5.09,4.64,8,35.5,119,6.68,4.11,Y
+Pittsburgh,ACC,Dallas,2014,146,5,6,Devin Street,Wide Receiver,75,189,2013,51,854,7,16.7,12,6,6,1,1,0,8.96,4.55,NA,37,124,6.89,4.01,Y
+Wisconsin,Big Ten,Green Bay,2014,176,5,36,Jared Abbrederis,Wide Receiver,73,195,2013,78,1081,7,13.9,12,9,3,1,0,1,4.66,4.5,4,30.5,117,6.8,4.08,Y
+Wyoming,Mountain West,Tampa Bay,2014,185,6,9,Robert Herron,Wide Receiver,69,193,2013,72,937,9,13,12,5,7,0,0,0,6.7,4.48,18,35.5,125,6.84,4.27,Y
+Notre Dame,FBS Independents,Detroit,2014,189,6,13,TJ Jones,Wide Receiver,72,188,2013,70,1108,9,15.8,12,8,4,1,1,0,NA,4.46,NA,33,119,6.82,4.27,Y
+Coastal Carolina,Big South,Miami,2014,190,6,14,Matt Hazel,Wide Receiver,73,198,2013,6,83,0,13.8,13,11,2,0,0,0,6.97,4.5,15,36.5,118,7.08,4.2,Y
+Nebraska,Big Ten,New York,2014,209,6,33,Quincy Enunwa,Wide Receiver,74,225,2013,51,753,12,14.8,12,8,4,1,1,0,9.85,4.41,19,NA,NA,NA,NA,Y
+Wake Forest,ACC,Baltimore,2014,218,7,3,Michael Campanaro,Wide Receiver,69,192,2013,67,803,6,12,12,4,8,0,0,0,9.03,4.46,20,39,122,6.77,4.01,Y
+Baylor,Big 12,Los Angeles,2014,240,7,25,Tevin Reese,Wide Receiver,71,163,2013,38,867,8,22.8,12,11,1,1,0,1,8.99,4.46,NA,41,132,6.63,4.18,Y
+Michigan,Big Ten,New England,2014,244,7,29,Jeremy Gallon,Wide Receiver,68,185,2013,89,1373,9,15.4,12,7,5,1,0,1,5.49,4.49,15,NA,NA,NA,NA,Y
+Alabama,SEC,Las Vegas,2015,4,1,4,Amari Cooper,Wide Receiver,73,211,2014,124,1727,16,13.9,13,12,1,1,0,1,8.57,4.42,NA,33,120,6.71,3.98,Y
+West Virginia,Big 12,Chicago,2015,7,1,7,Kevin White,Wide Receiver,75,215,2014,109,1447,10,13.3,12,7,5,1,0,1,9.72,4.35,23,36.5,123,6.92,4.14,Y
+Louisville,ACC,Miami,2015,14,1,14,DeVante Parker,Wide Receiver,75,209,2014,43,855,5,19.9,12,9,3,1,0,1,9.75,4.45,17,36.5,125,NA,NA,Y
+USC,Pac-12,Philadelphia,2015,20,1,20,Nelson Agholor,Wide Receiver,72,198,2014,104,1313,12,12.6,12,8,4,1,1,0,7.38,4.42,12,NA,NA,NA,NA,Y
+UCF,American Athletic,Baltimore,2015,26,1,26,Breshad Perriman,Wide Receiver,74,212,2014,50,1044,9,20.9,12,9,3,1,0,1,9.95,NA,NA,NA,NA,NA,NA,Y
+Miami,ACC,Indianapolis,2015,29,1,29,Phillip Dorsett,Wide Receiver,70,185,2014,36,871,10,24.2,12,6,6,1,0,1,8.47,4.33,13,37,122,6.7,4.11,Y
+Ohio State,Big Ten,New York,2015,37,2,5,Devin Smith,Wide Receiver,72,196,2014,33,931,12,28.2,13,12,1,2,2,0,8.61,4.42,10,39,122,NA,4.15,Y
+Michigan,Big Ten,Carolina,2015,41,2,9,Devin Funchess,Wide Receiver,76,232,2014,62,733,4,11.8,12,5,7,0,0,0,5.26,4.7,17,38.5,122,NA,NA,Y
+Kansas State,Big 12,Seattle,2015,69,3,5,Tyler Lockett,Wide Receiver,70,182,2014,106,1515,11,14.3,12,9,3,1,0,1,7.71,4.4,NA,35.5,121,6.89,4.07,Y
+Arizona State,Pac-12,Houston,2015,70,3,6,Jaelen Strong,Wide Receiver,74,217,2014,82,1165,10,14.2,12,9,3,1,1,0,9.14,4.44,NA,42,123,NA,NA,Y
+Georgia,SEC,Kansas City,2015,76,3,12,Chris Conley,Wide Receiver,74,211,2014,36,657,8,18.3,12,9,3,1,1,0,9.68,4.35,18,45,139,7.06,4.3,Y
+Auburn,SEC,Pittsburgh,2015,87,3,23,Sammie Coates,Wide Receiver,73,212,2014,34,741,4,21.8,12,8,4,1,0,1,9.86,4.43,23,41,131,6.98,4.06,Y
+Stanford,Pac-12,Green Bay,2015,94,3,30,Ty Montgomery,Wide Receiver,72,221,2014,61,604,3,9.9,12,7,5,1,1,0,7.75,4.55,NA,40.5,121,6.97,4.21,Y
+Duke,ACC,Washington,2015,105,4,6,Jamison Crowder,Wide Receiver,68,185,2014,85,1044,6,12.3,12,9,3,1,0,1,1.31,4.56,10,37,115,7.17,4.32,Y
+East Carolina,American Athletic,Atlanta,2015,107,4,8,Justin Hardy,Wide Receiver,70,192,2014,121,1494,10,12.3,12,8,4,1,0,1,4.87,4.56,11,36.5,114,6.63,4.21,Y
+Washington State,Pac-12,Cleveland,2015,123,4,24,Vince Mayle,Wide Receiver,74,224,2014,106,1483,9,14,12,3,9,0,0,0,4.63,4.67,NA,35.5,117,6.93,4.13,Y
+Georgia Tech,ACC,San Francisco,2015,132,4,33,DeAndre Smelter,Wide Receiver,74,226,2014,35,715,7,20.4,13,10,3,1,1,0,NA,4.52,NA,NA,NA,NA,NA,Y
+Maryland,Big Ten,Minnesota,2015,146,5,10,Stefon Diggs,Wide Receiver,72,195,2014,62,792,5,12.8,12,7,5,1,0,1,5.66,4.46,NA,35,115,7.03,4.32,Y
+Michigan State,Big Ten,Miami,2015,156,5,20,Tony Lippett,Wide Receiver,75,192,2014,65,1198,11,18.4,12,10,2,1,1,0,3.99,4.61,10,36,114,6.92,4.13,Y
+UAB,Conference USA,Arizona,2015,159,5,23,J.J. Nelson,Wide Receiver,NA,156,2014,35,655,4,18.7,12,6,6,0,0,0,7.92,4.28,NA,36,127,7.02,4.15,Y
+Nebraska,Big Ten,Tampa Bay,2015,162,5,26,Kenny Bell,Wide Receiver,73,197,2014,47,788,6,16.8,12,9,3,1,0,1,9.2,4.42,7,41.5,129,6.66,4.15,Y
+Michigan State,Big Ten,Houston,2015,175,5,39,Keith Mumphery,Wide Receiver,72,215,2014,26,495,3,19,12,10,2,1,1,0,4.36,4.54,NA,32.5,121,7.07,4.25,Y
+Utah,Pac-12,Tampa Bay,2015,184,6,8,Kaelin Clay,Wide Receiver,70,195,2014,43,523,4,12.2,12,8,4,1,1,0,2.18,4.51,10,33,113,6.97,4.26,Y
+UConn,American Athletic,New York,2015,186,6,10,Geremy Davis,Wide Receiver,74,216,2014,44,521,3,11.8,12,2,10,0,0,0,9.66,4.49,23,36.5,124,6.86,4.18,Y
+Ohio State,Big Ten,Washington,2015,187,6,11,Evan Spencer,Wide Receiver,73,208,2014,15,149,3,9.9,13,12,1,2,2,0,8.37,NA,NA,NA,NA,NA,NA,N
+Missouri,SEC,Los Angeles,2015,201,6,25,Bud Sasser,Wide Receiver,75,219,2014,77,1003,12,13,13,10,3,1,1,0,7.45,NA,NA,NA,NA,NA,NA,N
+Georgia Tech,ACC,Baltimore,2015,204,6,28,Darren Waller,Wide Receiver,78,238,2014,26,442,6,17,13,10,3,1,1,0,NA,4.46,12,37,125,7.07,4.25,Y
+Florida,SEC,Las Vegas,2015,221,7,4,Andre Debose,Wide Receiver,72,190,2014,1,-3,0,-3,11,6,5,1,1,0,8.13,NA,NA,NA,NA,NA,NA,N
+Northern Illinois,Mid-American,Kansas City,2015,233,7,16,Da'Ron Brown,Wide Receiver,72,205,2014,68,1065,6,15.7,13,11,2,1,0,1,NA,4.54,17,37,120,7.04,4.11,Y
+West Virginia,Big 12,Cincinnati,2015,238,7,21,Mario Alford,Wide Receiver,69,180,2014,65,945,11,14.5,12,7,5,1,0,1,5.4,4.43,13,34,121,6.64,4.07,Y
+Baylor,Big 12,Cleveland,2016,15,1,15,Corey Coleman,Wide Receiver,71,194,2015,74,1363,20,18.4,12,9,3,1,1,0,9.66,4.42,17,40.5,129,NA,NA,Y
+TCU,Big 12,Washington,2016,22,1,22,Josh Doctson,Wide Receiver,74,202,2015,79,1327,14,16.8,12,10,2,1,1,0,9.41,4.5,14,41,131,6.84,4.08,Y
+Ole Miss,SEC,Minnesota,2016,23,1,23,Laquon Treadwell,Wide Receiver,74,221,2015,82,1153,11,14.1,12,9,3,1,1,0,3.33,4.52,12,33,117,NA,NA,Y
+Oklahoma,Big 12,New York,2016,40,2,9,Sterling Shepard,Wide Receiver,70,194,2015,86,1288,11,15,12,11,1,1,0,1,7.62,4.48,20,41,123,7,4.35,Y
+Ohio State,Big Ten,New Orleans,2016,47,2,16,Michael Thomas,Wide Receiver,75,212,2015,56,781,9,13.9,12,11,1,1,1,0,9.11,4.57,18,35,126,6.8,4.13,Y
+Pittsburgh,ACC,Cincinnati,2016,55,2,24,Tyler Boyd,Wide Receiver,74,197,2015,91,926,6,10.2,12,8,4,1,0,1,4.27,4.58,11,34,119,6.9,4.35,Y
+Ohio State,Big Ten,Houston,2016,85,3,22,Braxton Miller,Wide Receiver,73,201,2015,26,341,3,13.1,12,11,1,1,1,0,8.59,4.5,17,35,123,6.65,4.07,Y
+Rutgers,Big Ten,Miami,2016,86,3,23,Leonte Carroo,Wide Receiver,72,211,2015,39,809,10,20.7,12,4,8,0,0,0,6.96,4.5,14,35.5,120,NA,NA,Y
+Cincinnati,American Athletic,Baltimore,2016,107,4,9,Chris Moore,Wide Receiver,73,206,2015,40,870,7,21.8,12,7,5,1,0,1,7.96,4.53,10,37,130,6.76,4.2,Y
+Georgia,SEC,New England,2016,112,4,14,Malcolm Mitchell,Wide Receiver,72,198,2015,58,865,5,14.9,12,9,3,1,1,0,8.08,4.45,15,36,129,6.94,4.34,Y
+Auburn,SEC,Cleveland,2016,114,4,16,Ricardo Louis,Wide Receiver,74,215,2015,46,716,3,15.6,12,6,6,1,1,0,9.23,4.43,18,38,132,NA,NA,Y
+South Carolina,SEC,Los Angeles,2016,117,4,19,Pharoh Cooper,Wide Receiver,71,203,2015,66,973,8,14.7,12,3,9,0,0,0,2.06,4.52,15,31,115,NA,NA,Y
+Florida,SEC,Kansas City,2016,126,4,28,Demarcus Robinson,Wide Receiver,73,203,2015,48,522,2,10.9,13,10,3,1,0,1,5.86,4.59,NA,34.5,123,6.77,4.19,Y
+Massachusetts,Mid-American,Tennessee,2016,140,5,1,Tajae Sharpe,Wide Receiver,74,194,2015,111,1319,5,11.9,12,3,9,0,0,0,5.3,4.55,11,33.5,114,NA,NA,Y
+UCLA,Pac-12,Cleveland,2016,154,5,15,Jordan Payton,Wide Receiver,73,207,2015,78,1106,5,14.2,12,8,4,1,0,1,6.84,4.47,NA,34.5,121,7.08,4.33,Y
+California,Pac-12,Green Bay,2016,163,5,24,Trevor Davis,Wide Receiver,73,188,2015,40,672,2,16.8,12,7,5,1,1,0,9.14,4.42,11,38.5,124,6.6,4.22,Y
+Colorado State,Mountain West,Cleveland,2016,172,5,33,Rashard Higgins,Wide Receiver,73,196,2015,75,1062,8,14.2,12,7,5,1,0,1,1.65,4.64,13,32,116,NA,NA,Y
+Navy,American Athletic,Baltimore,2016,182,6,7,Keenan Reynolds,Wide Receiver,70,190,2015,1,47,0,47,12,10,2,1,1,0,4.55,NA,NA,NA,NA,NA,NA,N
+Texas Tech,Big 12,Miami,2016,186,6,11,Jakeem Grant,Wide Receiver,66,165,2015,90,1268,10,14.1,12,7,5,1,0,1,6.39,NA,NA,NA,NA,NA,NA,N
+TCU,Big 12,Buffalo,2016,192,6,17,Kolby Listenbee,Wide Receiver,72,197,2015,30,597,5,19.9,12,10,2,1,1,0,7.91,4.39,15,35.5,129,NA,NA,Y
+Ole Miss,SEC,Cincinnati,2016,199,6,24,Cody Core,Wide Receiver,75,205,2015,37,644,4,17.4,12,9,3,1,1,0,7.38,4.47,14,31.5,119,NA,NA,Y
+Southern Miss,Conference USA,Los Angeles,2016,206,6,31,Michael Thomas,Wide Receiver,73,193,2015,71,1391,14,19.6,13,9,4,1,0,1,9.11,NA,NA,NA,NA,NA,NA,N
+Michigan State,Big Ten,San Francisco,2016,213,6,38,Aaron Burbridge,Wide Receiver,72,206,2015,85,1258,7,14.8,13,12,1,1,0,1,2.78,4.56,20,30.5,115,7.22,4.31,Y
+Arizona State,Pac-12,New England,2016,225,7,4,Devin Lucien,Wide Receiver,73,201,2015,66,1074,8,16.3,12,6,6,1,0,1,6.68,NA,NA,NA,NA,NA,NA,N
+Houston,American Athletic,Pittsburgh,2016,229,7,8,Demarcus Ayers,Wide Receiver,69,182,2015,98,1222,6,12.5,13,12,1,1,1,0,0.89,4.72,NA,33,123,NA,NA,Y
+Western Michigan,Mid-American,Chicago,2016,230,7,9,Daniel Braverman,Wide Receiver,70,180,2015,108,1367,13,12.7,12,7,5,1,1,0,2.56,NA,NA,NA,NA,NA,NA,N
+UCLA,Pac-12,Miami,2016,231,7,10,Thomas Duarte,Wide Receiver,74,231,2015,53,872,10,16.5,12,8,4,1,0,1,NA,4.72,12,33.5,118,6.97,4.24,Y
+Clemson,ACC,New York,2016,241,7,20,Charone Peake,Wide Receiver,74,209,2015,50,716,5,14.3,13,13,0,2,1,1,5.76,4.45,12,35.5,122,6.96,4.46,Y
+California,Pac-12,Seattle,2016,243,7,22,Kenny Lawler,Wide Receiver,75,203,2015,52,658,13,12.7,12,7,5,1,1,0,2.09,4.64,NA,31,111,7.13,4.2,Y
+Western Michigan,Mid-American,Tennessee,2017,5,1,5,Corey Davis,Wide Receiver,75,209,2016,97,1500,19,15.5,13,13,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,Y
+Clemson,ACC,Los Angeles,2017,7,1,7,Mike Williams,Wide Receiver,76,218,2016,98,1361,11,13.9,13,12,1,2,2,0,7.24,NA,15,32.5,121,NA,NA,Y
+Washington,Pac-12,Cincinnati,2017,9,1,9,John Ross,Wide Receiver,71,188,2016,81,1150,17,14.2,13,12,1,1,0,1,9.5,4.22,NA,37,133,NA,NA,Y
+Ohio State,Big Ten,Carolina,2017,40,2,8,Curtis Samuel,Wide Receiver,71,196,2016,74,865,7,11.7,12,11,1,1,0,1,7.45,4.31,18,37,119,7.09,4.33,Y
+USC,Pac-12,Pittsburgh,2017,62,2,30,JuJu Smith-Schuster,Wide Receiver,73,215,2016,70,914,10,13.1,12,9,3,1,1,0,7.33,4.54,15,32.5,120,NA,NA,Y
+Eastern Washington,Big Sky,Los Angeles,2017,69,3,5,Cooper Kupp,Wide Receiver,74,204,2016,12,206,3,17.2,13,12,1,1,0,1,5,4.62,NA,31,116,6.75,4.08,Y
+Western Kentucky,Conference USA,Tennessee,2017,72,3,8,Taywan Taylor,Wide Receiver,71,203,2016,98,1730,17,17.7,13,10,3,1,1,0,8.7,4.5,13,33.5,132,6.57,4.21,Y
+Alabama,SEC,New York,2017,79,3,15,ArDarius Stewart,Wide Receiver,71,204,2016,54,864,8,16,13,13,0,2,1,1,5.89,4.49,NA,34,124,NA,NA,Y
+Louisiana Tech,Conference USA,Denver,2017,82,3,18,Carlos Henderson,Wide Receiver,71,199,2016,82,1535,19,18.7,13,8,5,1,1,0,5.75,4.46,13,36,131,7.18,4.35,Y
+Penn State,Big Ten,Tampa Bay,2017,84,3,20,Chris Godwin,Wide Receiver,73,209,2016,59,982,11,16.6,13,11,2,1,0,1,9.66,4.42,19,36,126,7.01,4,Y
+Northern Illinois,Mid-American,Detroit,2017,96,3,32,Kenny Golladay,Wide Receiver,76,218,2016,88,1164,8,13.2,12,5,7,0,0,0,8.94,4.5,18,35.5,120,7,4.15,Y
+Grambling,SWAC,Arizona,2017,98,3,34,Chad Williams,Wide Receiver,73,207,2016,13,152,0,11.7,12,11,1,1,1,0,9.01,NA,NA,NA,NA,NA,NA,N
+Michigan,Big Ten,Seattle,2017,106,3,42,Amara Darboh,Wide Receiver,74,214,2016,57,862,7,15.1,12,10,2,1,0,1,9.6,4.45,17,36,124,NA,NA,Y
+Oklahoma,Big 12,Jacksonville,2017,110,4,3,Dede Westbrook,Wide Receiver,72,178,2016,80,1524,17,19.1,12,10,2,1,1,0,4.84,NA,NA,NA,NA,NA,NA,Y
+Texas A&M,SEC,Los Angeles,2017,117,4,10,Josh Reynolds,Wide Receiver,75,194,2016,61,1039,12,17,12,8,4,1,0,1,9.1,4.52,NA,37,124,6.83,4.13,Y
+North Carolina,ACC,Philadelphia,2017,118,4,12,Mack Hollins,Wide Receiver,76,221,2016,16,309,4,19.3,12,8,4,1,0,1,NA,4.53,NA,NA,NA,NA,NA,Y
+Tennessee,SEC,Cincinnati,2017,128,4,22,Josh Malone,Wide Receiver,75,208,2016,50,972,11,19.4,12,8,4,1,1,0,7.03,4.4,10,30.5,121,7.05,4.19,Y
+North Carolina,ACC,Dallas,2017,133,4,27,Ryan Switzer,Wide Receiver,69,181,2016,96,1112,6,11.6,12,8,4,1,0,1,4.83,4.51,11,32,116,6.77,4,Y
+Michigan,Big Ten,Kansas City,2017,139,4,33,Jehu Chesson,Wide Receiver,75,204,2016,35,500,2,14.3,12,10,2,1,0,1,7.94,4.47,10,35.5,132,6.7,4.09,Y
+California,Pac-12,New York,2017,141,4,35,Chad Hansen,Wide Receiver,74,202,2016,92,1249,11,13.6,12,5,7,0,0,0,7.39,4.53,11,35,119,6.74,4.13,Y
+West Virginia,Big 12,Philadelphia,2017,166,5,22,Shelton Gibson,Wide Receiver,71,191,2016,43,951,8,22.1,12,10,2,1,0,1,3.98,4.5,8,32,118,6.83,4.2,Y
+South Florida,American Athletic,Minnesota,2017,170,5,27,Rodney Adams,Wide Receiver,73,189,2016,67,822,5,12.3,12,10,2,1,1,0,6.02,4.44,8,29.5,125,6.98,4.28,Y
+Georgia,SEC,Denver,2017,172,5,29,Isaiah McKenzie,Wide Receiver,68,173,2016,44,633,7,14.4,12,7,5,1,1,0,6.36,4.42,11,36,123,6.64,4.15,Y
+Louisiana Tech,Conference USA,San Francisco,2017,177,5,34,Trent Taylor,Wide Receiver,68,181,2016,136,1803,12,13.3,13,8,5,1,1,0,4,4.63,13,33,117,6.74,4.01,Y
+Georgia State,Sun Belt,Washington,2017,209,6,25,Robert Davis,Wide Receiver,75,219,2016,67,968,5,14.4,12,3,9,0,0,0,9.79,4.44,19,41,136,6.82,4.28,Y
+Miami,ACC,Minnesota,2017,219,7,1,Stacy Coley,Wide Receiver,72,195,2016,63,754,9,12,12,8,4,1,1,0,4.46,4.45,10,34,122,NA,NA,Y
+Virginia Tech,ACC,Miami,2017,237,7,19,Isaiah Ford,Wide Receiver,73,194,2016,79,1094,7,13.8,13,9,4,1,1,0,5.05,4.61,14,35.5,127,6.94,4.34,Y
+Ohio State,Big Ten,Dallas,2017,239,7,21,Noah Brown,Wide Receiver,74,222,2016,32,402,7,12.6,12,11,1,1,0,1,6.88,NA,19,NA,NA,7.07,4.33,Y
+LSU,SEC,Green Bay,2017,247,7,29,Malachi Dupre,Wide Receiver,75,196,2016,41,593,3,14.5,11,7,4,1,1,0,7.2,4.52,11,39.5,135,7.19,4.26,Y
+Maryland,Big Ten,Carolina,2018,24,1,24,D.J. Moore,Wide Receiver,72,210,2017,80,1033,8,12.9,12,4,8,0,0,0,9.65,4.42,15,39.5,132,6.95,4.07,Y
+Alabama,SEC,Atlanta,2018,26,1,26,Calvin Ridley,Wide Receiver,73,189,2017,63,967,5,15.3,12,11,1,2,2,0,5.12,4.43,15,31,110,6.88,4.41,Y
+SMU,American Athletic,Denver,2018,40,2,8,Courtland Sutton,Wide Receiver,75,218,2017,68,1085,12,16,12,7,5,1,0,1,9.81,4.54,18,35.5,124,6.57,4.11,Y
+Washington,Pac-12,San Francisco,2018,44,2,12,Dante Pettis,Wide Receiver,73,186,2017,63,761,7,12.1,12,10,2,1,0,1,NA,NA,NA,NA,NA,NA,NA,Y
+Texas A&M,SEC,Arizona,2018,47,2,15,Christian Kirk,Wide Receiver,70,201,2017,71,919,10,12.9,12,7,5,1,0,1,6.23,4.47,20,35.5,115,7.09,4.45,Y
+Memphis,American Athletic,Chicago,2018,51,2,19,Anthony Miller,Wide Receiver,71,201,2017,96,1462,18,15.2,12,10,2,1,0,1,9.27,NA,22,NA,NA,NA,NA,Y
+Oklahoma State,Big 12,Pittsburgh,2018,60,2,28,James Washington,Wide Receiver,71,213,2017,74,1549,13,20.9,12,9,3,1,1,0,5.55,4.54,14,34.5,120,7.11,4.32,Y
+LSU,SEC,Jacksonville,2018,61,2,29,D.J. Chark,Wide Receiver,75,199,2017,40,874,3,21.9,12,9,3,1,0,1,9.94,4.34,16,40,129,NA,NA,Y
+Colorado State,Mountain West,Dallas,2018,81,3,17,Michael Gallup,Wide Receiver,73,205,2017,100,1413,7,14.1,12,7,5,1,0,1,5.87,4.51,10,36,122,6.95,4.37,Y
+UCF,American Athletic,New Orleans,2018,91,3,27,Tre'Quan Smith,Wide Receiver,74,210,2017,59,1171,13,19.8,12,12,0,1,1,0,6.85,NA,NA,NA,NA,NA,NA,N
+Texas Tech,Big 12,Houston,2018,103,4,3,Keke Coutee,Wide Receiver,70,181,2017,93,1429,10,15.4,12,6,6,1,0,1,5.64,4.43,14,34.5,113,6.93,4.15,Y
+Penn State,Big Ten,Denver,2018,113,4,13,DaeSean Hamilton,Wide Receiver,73,203,2017,53,857,9,16.2,12,10,2,1,1,0,8.09,NA,NA,34.5,118,6.84,4.15,Y
+New Mexico State,Sun Belt,Baltimore,2018,132,4,32,Jaleel Scott,Wide Receiver,77,218,2017,76,1079,9,14.2,12,6,6,1,1,0,7.6,4.56,16,34.5,124,7.2,4.4,Y
+Missouri,SEC,Green Bay,2018,133,4,33,J'Mon Moore,Wide Receiver,75,207,2017,65,1082,10,16.6,12,7,5,1,0,1,8.43,NA,NA,NA,NA,NA,NA,N
+Northern Iowa,MVFC,Indianapolis,2018,159,5,22,Daurice Fountain,Wide Receiver,74,209,2017,3,30,0,10,13,8,5,0,0,0,7.98,NA,NA,NA,NA,NA,NA,N
+UCLA,Pac-12,Baltimore,2018,162,5,25,Jordan Lasley,Wide Receiver,73,203,2017,69,1264,9,18.3,12,6,6,1,0,1,4.47,4.5,8,34.5,112,NA,4.19,Y
+South Florida,American Athletic,Green Bay,2018,174,5,37,Marquez Valdes-Scantling,Wide Receiver,76,206,2017,53,879,6,16.6,11,9,2,1,1,0,9.26,4.37,15,30.5,124,NA,NA,Y
+Texas A&M,SEC,Cleveland,2018,175,6,1,Damion Ratley,Wide Receiver,74,193,2017,30,694,6,23.1,12,7,5,1,0,1,9.02,NA,NA,NA,NA,NA,NA,N
+Clemson,ACC,Indianapolis,2018,185,6,11,Deon Cain,Wide Receiver,74,202,2017,58,734,6,12.7,13,12,1,1,0,1,6.47,4.43,11,33.5,115,6.71,4.37,Y
+Clemson,ACC,Buffalo,2018,187,6,13,Ray-Ray McCloud,Wide Receiver,70,190,2017,49,503,1,10.3,13,12,1,1,0,1,3.71,4.53,13,34.5,113,NA,NA,Y
+Texas Tech,Big 12,Los Angeles,2018,191,6,17,Dylan Cantrell,Wide Receiver,75,226,2017,71,816,7,11.5,12,6,6,1,0,1,9.86,4.59,18,38.5,130,6.56,4.03,Y
+LSU,SEC,Atlanta,2018,194,6,20,Russell Gage,Wide Receiver,72,183,2017,21,285,3,13.6,12,9,3,1,0,1,8,NA,NA,NA,NA,NA,NA,N
+Notre Dame,FBS Independents,Green Bay,2018,207,6,33,Equanimeous St. Brown,Wide Receiver,77,214,2017,33,515,4,15.6,12,9,3,1,1,0,9.85,4.48,20,NA,NA,NA,NA,Y
+Boise State,Mountain West,Dallas,2018,208,6,34,Cedrick Wilson,Wide Receiver,74,188,2017,83,1511,7,18.2,13,10,3,1,1,0,NA,4.55,9,37,121,6.89,4.23,Y
+Miami,ACC,New England,2018,210,6,36,Braxton Berrios,Wide Receiver,69,184,2017,54,670,9,12.4,12,10,2,1,0,1,5.68,NA,11,NA,NA,NA,NA,Y
+Georgia,SEC,Chicago,2018,224,7,6,Javon Wims,Wide Receiver,75,215,2017,46,724,7,15.7,13,12,1,2,1,1,5.44,4.53,NA,33.5,113,7,NA,Y
+Oklahoma State,Big 12,Las Vegas,2018,228,7,10,Marcell Ateman,Wide Receiver,77,216,2017,59,1156,8,19.6,12,9,3,1,1,0,5.18,4.62,13,34,121,7.07,4.25,Y
+Middle Tennessee,Conference USA,San Francisco,2018,240,7,22,Richie James,Wide Receiver,70,185,2017,31,290,3,9.4,12,6,6,1,1,0,5.99,4.48,6,35.5,122,6.87,4.16,Y
+Florida State,ACC,Cincinnati,2018,253,7,35,Auden Tate,Wide Receiver,77,228,2017,40,548,10,13.7,12,6,6,1,1,0,1.82,4.68,NA,31,112,NA,NA,Y
+North Carolina,ACC,Buffalo,2018,255,7,37,Austin Proehl,Wide Receiver,69,175,2017,21,337,1,16,12,3,9,0,0,0,3.62,NA,NA,NA,NA,NA,NA,N
+SMU,American Athletic,Washington,2018,256,7,38,Trey Quinn,Wide Receiver,71,203,2017,114,1236,13,10.8,12,7,5,1,0,1,7.01,4.55,17,33.5,116,6.91,4.19,Y
+Oklahoma,Big 12,Baltimore,2019,25,1,25,Marquise Brown,Wide Receiver,69,166,2018,75,1318,10,17.6,13,12,1,1,0,1,NA,NA,NA,NA,NA,NA,NA,Y
+Arizona State,Pac-12,New England,2019,32,1,32,N'Keal Harry,Wide Receiver,74,228,2018,73,1088,9,14.9,12,7,5,1,0,1,8.44,4.53,27,38.5,122,NA,NA,Y
+South Carolina,SEC,San Francisco,2019,36,2,4,Deebo Samuel,Wide Receiver,71,214,2018,62,882,11,14.2,12,7,5,1,0,1,7.91,4.48,15,39,122,7.03,4.14,Y
+Ole Miss,SEC,Tennessee,2019,51,2,19,A.J. Brown,Wide Receiver,73,226,2018,85,1355,6,15.9,12,5,7,0,0,0,8.59,4.49,19,36.5,120,NA,NA,Y
+Georgia,SEC,Kansas City,2019,56,2,24,Mecole Hardman,Wide Receiver,70,187,2018,34,532,7,15.6,13,11,2,1,0,1,8.3,4.33,17,36.5,119,NA,NA,Y
+Stanford,Pac-12,Philadelphia,2019,57,2,25,JJ Arcega-Whiteside,Wide Receiver,74,225,2018,62,1040,14,16.8,12,8,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,Y
+Ohio State,Big Ten,Indianapolis,2019,59,2,27,Parris Campbell,Wide Receiver,72,205,2018,88,983,11,11.2,13,12,1,1,1,0,9.76,4.31,11,40,135,NA,4.03,Y
+Massachusetts,FBS Independents,Arizona,2019,62,2,30,Andy Isabella,Wide Receiver,69,188,2018,101,1697,13,16.8,12,4,8,0,0,0,7.26,4.31,15,36.5,121,6.95,4.15,Y
+Ole Miss,SEC,Seattle,2019,64,2,32,DK Metcalf,Wide Receiver,75,228,2018,26,569,5,21.9,12,5,7,0,0,0,9.66,4.33,27,40.5,134,7.38,4.5,Y
+Toledo,Mid-American,Pittsburgh,2019,66,3,2,Diontae Johnson,Wide Receiver,71,183,2018,49,761,8,15.5,12,7,5,1,0,1,4.18,4.53,15,33.5,123,7.09,4.45,Y
+Baylor,Big 12,San Francisco,2019,67,3,3,Jalen Hurd,Wide Receiver,77,226,2018,69,946,4,13.7,12,6,6,1,1,0,8.21,NA,23,NA,NA,NA,NA,Y
+Ohio State,Big Ten,Washington,2019,76,3,12,Terry McLaurin,Wide Receiver,72,208,2018,35,701,11,20,13,12,1,1,1,0,9.56,4.35,18,37.5,125,7.01,4.15,Y
+Notre Dame,FBS Independents,Baltimore,2019,93,3,29,Miles Boykin,Wide Receiver,76,220,2018,59,872,8,14.8,12,12,0,1,0,1,9.94,4.42,12,43.5,140,6.77,4.07,Y
+Iowa State,Big 12,Arizona,2019,103,4,1,Hakeem Butler,Wide Receiver,77,227,2018,60,1318,9,22,12,8,4,1,0,1,9.47,4.48,18,36,128,NA,NA,Y
+West Virginia,Big 12,Seattle,2019,120,4,18,Gary Jennings Jr.,Wide Receiver,73,214,2018,54,917,13,17,11,8,3,1,0,1,NA,4.42,20,37,127,7.32,4.15,Y
+Georgia,SEC,Chicago,2019,126,4,24,Riley Ridley,Wide Receiver,73,199,2018,44,570,9,13,13,11,2,1,0,1,4.53,4.58,13,30.5,124,7.22,4.28,Y
+Clemson,ACC,Las Vegas,2019,149,5,11,Hunter Renfrow,Wide Receiver,70,184,2018,49,544,1,11.1,13,13,0,2,2,0,2.91,4.59,7,35,116,6.8,4.19,Y
+Auburn,SEC,New York,2019,171,5,33,Darius Slayton,Wide Receiver,73,190,2018,35,670,5,19.1,12,7,5,1,1,0,8.91,4.39,11,40.5,135,7,4.15,Y
+Fresno State,Mountain West,Arizona,2019,174,6,1,Keesean Johnson,Wide Receiver,73,201,2018,95,1340,8,14.1,13,11,2,1,1,0,3.18,4.6,14,30,117,7.28,4.23,Y
+Old Dominion,Conference USA,Detroit,2019,184,6,11,Travis Fulgham,Wide Receiver,75,215,2018,63,1083,9,17.2,12,4,8,0,0,0,8.01,4.58,15,36.5,126,NA,NA,Y
+Colorado,Pac-12,Denver,2019,187,6,14,Juwann Winfree,Wide Receiver,75,215,2018,28,324,2,11.6,12,5,7,0,0,0,7.14,NA,NA,NA,NA,NA,NA,N
+UL Monroe,Sun Belt,Atlanta,2019,203,6,30,Marcus Green,Wide Receiver,68,190,2018,50,855,8,17.1,12,6,6,0,0,0,7.22,NA,NA,NA,NA,NA,NA,N
+NC State,ACC,Washington,2019,206,6,33,Kelvin Harmon,Wide Receiver,75,221,2018,74,1086,6,14.7,12,9,3,1,0,1,4.88,4.6,18,32.5,117,7.15,4.32,Y
+Bowling Green,Mid-American,Tampa Bay,2019,208,6,35,Scott Miller,Wide Receiver,69,174,2018,70,1106,9,15.8,12,3,9,0,0,0,7.76,NA,NA,NA,NA,NA,NA,N
+Hawai'i,Mountain West,Seattle,2019,236,7,22,John Ursua,Wide Receiver,69,178,2018,89,1343,16,15.1,13,8,5,1,0,1,6.44,NA,NA,NA,NA,NA,NA,N
+Georgia,SEC,Carolina,2019,237,7,23,Terry Godwin,Wide Receiver,71,184,2018,22,373,3,17,13,11,2,1,0,1,5.26,4.55,NA,36.5,117,6.96,NA,Y
+Oregon,Pac-12,Minnesota,2019,239,7,25,Dillon Mitchell,Wide Receiver,73,197,2018,75,1184,10,15.8,12,8,4,1,1,0,7.96,4.46,12,36.5,122,NA,4.29,Y
+Colorado State,Mountain West,Minnesota,2019,247,7,33,Olabisi Johnson,Wide Receiver,73,204,2018,54,796,4,14.7,12,3,9,0,0,0,NA,4.51,14,38,124,6.88,4.16,Y
+Alabama,SEC,Las Vegas,2020,12,1,12,Henry Ruggs III,Wide Receiver,71,188,2019,40,746,7,18.7,12,10,2,1,1,0,9.54,4.27,NA,42,131,NA,NA,Y
+Alabama,SEC,Denver,2020,15,1,15,Jerry Jeudy,Wide Receiver,73,193,2019,77,1163,10,15.1,12,10,2,1,1,0,6.76,4.45,NA,35,120,NA,4.53,Y
+Oklahoma,Big 12,Dallas,2020,17,1,17,CeeDee Lamb,Wide Receiver,74,198,2019,62,1327,14,21.4,13,12,1,1,0,1,7.44,4.5,11,34.5,124,NA,NA,Y
+TCU,Big 12,Philadelphia,2020,21,1,21,Jalen Reagor,Wide Receiver,71,206,2019,43,611,5,14.2,12,5,7,0,0,0,6.03,4.47,17,42,138,7.31,4.46,Y
+LSU,SEC,Minnesota,2020,22,1,22,Justin Jefferson,Wide Receiver,73,202,2019,111,1540,18,13.9,13,13,0,2,2,0,9.69,4.43,NA,37.5,126,NA,NA,Y
+Arizona State,Pac-12,San Francisco,2020,25,1,25,Brandon Aiyuk,Wide Receiver,72,205,2019,65,1192,8,18.3,12,7,5,1,1,0,8.47,4.5,11,40,128,NA,NA,Y
+Clemson,ACC,Cincinnati,2020,33,2,1,Tee Higgins,Wide Receiver,76,216,2019,59,1167,13,19.8,13,13,0,2,1,1,4.12,NA,NA,NA,NA,NA,NA,Y
+USC,Pac-12,Indianapolis,2020,34,2,2,Michael Pittman Jr.,Wide Receiver,76,223,2019,101,1275,11,12.6,12,8,4,1,0,1,8.27,4.52,13,36.5,121,6.96,4.14,Y
+Colorado,Pac-12,Jacksonville,2020,42,2,10,Laviska Shenault Jr.,Wide Receiver,73,227,2019,56,764,4,13.6,12,5,7,0,0,0,6.97,4.58,17,NA,NA,NA,NA,Y
+Penn State,Big Ten,Denver,2020,46,2,14,KJ Hamler,Wide Receiver,69,176,2019,56,904,8,16.1,12,10,2,1,1,0,NA,NA,15,NA,NA,NA,NA,Y
+Notre Dame,FBS Independents,Pittsburgh,2020,49,2,17,Chase Claypool,Wide Receiver,76,238,2019,66,1037,13,15.7,12,10,2,1,1,0,9.98,4.42,19,40.5,126,NA,NA,Y
+Florida,SEC,Los Angeles,2020,57,2,25,Van Jefferson,Wide Receiver,74,200,2019,49,657,6,13.4,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,NA,Y
+Baylor,Big 12,New York,2020,59,2,27,Denzel Mims,Wide Receiver,75,207,2019,66,1020,12,15.5,13,11,2,1,0,1,9.77,4.38,16,38.5,131,6.66,4.43,Y
+Memphis,American Athletic,Washington,2020,66,3,2,Antonio Gibson,Wide Receiver,72,228,2019,38,735,8,19.3,13,12,1,1,0,1,9.29,4.39,16,35,118,NA,NA,Y
+Kentucky,SEC,Las Vegas,2020,80,3,16,Lynn Bowden Jr.,Wide Receiver,71,204,2019,30,348,1,11.6,12,7,5,1,1,0,NA,NA,13,NA,NA,NA,NA,Y
+South Carolina,SEC,Las Vegas,2020,81,3,17,Bryan Edwards,Wide Receiver,75,212,2019,71,816,6,11.5,12,4,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,Y
+Texas,Big 12,Baltimore,2020,92,3,28,Devin Duvernay,Wide Receiver,71,200,2019,106,1386,9,13.1,12,7,5,1,1,0,7.86,4.39,NA,35.5,123,7.13,4.2,Y
+UCF,American Athletic,Buffalo,2020,128,4,22,Gabriel Davis,Wide Receiver,74,216,2019,72,1241,12,17.2,12,9,3,1,1,0,6.85,4.54,14,35,124,7.08,4.59,Y
+Liberty,FBS Independents,Washington,2020,142,4,36,Antonio Gandy-Golden,Wide Receiver,76,223,2019,79,1396,10,17.7,12,7,5,1,1,0,6.13,4.6,22,36,127,7.33,4.55,Y
+Virginia,ACC,Los Angeles,2020,151,5,5,Joe Reed,Wide Receiver,73,224,2019,77,679,7,8.8,13,9,4,1,0,1,9.35,4.47,21,38,123,NA,NA,Y
+Minnesota,Big Ten,Tampa Bay,2020,161,5,16,Tyler Johnson,Wide Receiver,73,206,2019,86,1318,13,15.3,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,NA,Y
+Texas,Big 12,Jacksonville,2020,165,5,20,Collin Johnson,Wide Receiver,78,222,2019,38,559,3,14.7,12,7,5,1,1,0,NA,NA,17,NA,NA,NA,NA,Y
+Wisconsin,Big Ten,Detroit,2020,166,5,21,Quintez Cephus,Wide Receiver,73,202,2019,59,901,7,15.3,13,10,3,1,0,1,4.5,4.73,23,38.5,124,7.2,4.33,Y
+Boise State,Mountain West,Philadelphia,2020,168,5,23,John Hightower,Wide Receiver,74,189,2019,51,943,8,18.5,13,12,1,1,0,1,8.02,4.43,NA,38.5,122,7.07,4.21,Y
+Rhode Island,CAA,Houston,2020,171,5,26,Isaiah Coulter,Wide Receiver,74,198,2019,11,205,1,18.6,12,2,10,0,0,0,6.68,4.45,NA,36,121,7.28,4.62,Y
+Tulane,American Athletic,Chicago,2020,173,5,28,Darnell Mooney,Wide Receiver,70,176,2019,48,713,5,14.9,12,6,6,1,1,0,7.04,4.38,9,37,124,NA,NA,Y
+Miami,ACC,Minnesota,2020,176,5,31,K.J. Osborn,Wide Receiver,72,203,2019,50,547,5,10.9,12,6,6,1,0,1,8,4.48,18,37.5,123,7,4.35,Y
+Michigan,Big Ten,Cleveland,2020,187,6,8,Donovan Peoples-Jones,Wide Receiver,74,212,2019,34,438,6,12.9,12,9,3,1,0,1,9.63,4.48,NA,44.5,139,NA,NA,Y
+Southern Miss,Conference USA,Philadelphia,2020,200,6,21,Quez Watkins,Wide Receiver,72,185,2019,64,1178,6,18.4,12,7,5,1,0,1,7.4,4.35,NA,36.5,125,7.28,4.36,Y
+SMU,American Athletic,Baltimore,2020,201,6,22,James Proche,Wide Receiver,71,201,2019,111,1225,15,11,12,10,2,1,0,1,4.04,NA,20,34.5,NA,7.27,4.4,Y
+Oregon State,Pac-12,Buffalo,2020,207,6,28,Isaiah Hodgins,Wide Receiver,76,210,2019,86,1171,13,13.6,12,5,7,0,0,0,7.56,4.61,9,36.5,124,7.01,4.12,Y
+Washington State,Pac-12,Indianapolis,2020,212,6,33,Dezmon Patmon,Wide Receiver,76,225,2019,58,762,8,13.1,12,6,6,1,0,1,8.46,4.48,15,36,132,7.28,4.38,Y
+Florida,SEC,Seattle,2020,214,6,36,Freddie Swain,Wide Receiver,72,197,2019,38,517,7,13.6,12,10,2,1,1,0,8.29,4.46,16,36.5,124,7.05,4.26,Y
+Tennessee,SEC,San Francisco,2020,217,7,3,Jauan Jennings,Wide Receiver,75,215,2019,59,969,8,16.4,12,7,5,1,1,0,2.7,4.72,NA,29,119,NA,NA,Y
+Ohio State,Big Ten,Los Angeles,2020,220,7,6,K.J. Hill,Wide Receiver,72,196,2019,57,636,10,11.2,13,13,0,1,0,1,3.89,4.6,17,32.5,114,NA,NA,Y
+Navy,American Athletic,Miami,2020,246,7,32,Malcolm Perry,Wide Receiver,69,186,2019,NA,NA,NA,NA,12,10,2,1,1,0,1.88,4.63,10,36,122,7.12,4.31,Y
+Florida,SEC,Denver,2020,252,7,38,Tyrie Cleveland,Wide Receiver,74,209,2019,25,351,1,14,12,10,2,1,1,0,9.65,4.46,13,39.5,126,NA,NA,Y
+Alabama,SEC,Miami,2021,6,1,6,Jaylen Waddle,Wide Receiver,70,180,2020,28,591,4,21.1,11,11,0,2,2,0,NA,NA,NA,NA,NA,NA,NA,N
+Alabama,SEC,Philadelphia,2021,10,1,10,DeVonta Smith,Wide Receiver,72,170,2020,117,1856,23,15.9,11,11,0,2,2,0,NA,NA,NA,NA,NA,NA,NA,N
+Florida,SEC,New York,2021,20,1,20,Kadarius Toney,Wide Receiver,72,193,2020,70,984,10,14.1,11,8,3,1,0,1,8.99,4.39,9,39.5,136,6.88,4.25,Y
+Minnesota,Big Ten,Baltimore,2021,27,1,27,Rashod Bateman,Wide Receiver,72,190,2020,36,472,2,13.1,7,3,4,0,0,0,8.04,4.39,NA,36,123,NA,NA,Y
+Ole Miss,SEC,New York,2021,34,2,2,Elijah Moore,Wide Receiver,70,178,2020,86,1193,8,13.9,9,4,5,1,1,0,8.69,4.35,17,36,121,6.63,4.07,Y
+Purdue,Big Ten,Arizona,2021,49,2,17,Rondale Moore,Wide Receiver,67,181,2020,35,270,0,7.7,6,2,4,0,0,0,9.33,4.28,NA,42.5,NA,6.65,4.06,Y
+Western Michigan,Mid-American,Seattle,2021,56,2,24,D'Wayne Eskridge,Wide Receiver,69,190,2020,33,768,8,23.3,6,4,2,0,0,0,6.71,4.38,NA,35,124,6.93,4.22,Y
+Louisville,ACC,Los Angeles,2021,57,2,25,Tutu Atwell,Wide Receiver,69,155,2020,46,625,7,13.6,11,4,7,0,0,0,6.25,4.42,NA,33,117,6.89,4.14,Y
+LSU,SEC,Carolina,2021,59,2,27,Terrace Marshall Jr.,Wide Receiver,75,205,2020,48,731,10,15.2,10,5,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,N
+Tennessee,SEC,Los Angeles,2021,77,3,14,Josh Palmer,Wide Receiver,73,210,2020,33,475,4,14.4,10,3,7,0,0,0,7.59,NA,NA,NA,NA,NA,NA,N
+North Carolina,ACC,Washington,2021,82,3,19,Dyami Brown,Wide Receiver,73,189,2020,54,1084,8,20.1,11,8,3,1,0,1,8.38,4.46,18,35,128,6.87,4.35,Y
+Clemson,ACC,Green Bay,2021,85,3,22,Amari Rodgers,Wide Receiver,70,212,2020,77,1020,7,13.2,11,10,1,1,0,1,5.35,4.52,19,33,121,7.07,4.31,Y
+Auburn,SEC,Cleveland,2021,91,3,28,Anthony Schwartz,Wide Receiver,72,186,2020,54,652,3,12.1,10,6,4,1,0,1,6.89,4.27,NA,32,123,7.13,4.25,Y
+Louisville,ACC,Tennessee,2021,109,4,4,Dez Fitzpatrick,Wide Receiver,74,208,2020,43,833,3,19.4,11,4,7,0,0,0,NA,4.43,NA,35,NA,7.09,4.26,Y
+USC,Pac-12,Detroit,2021,112,4,7,Amon-Ra St. Brown,Wide Receiver,72,197,2020,41,478,7,11.7,6,5,1,0,0,0,7.13,4.51,20,38.5,127,6.88,4.17,Y
+North Texas,Conference USA,Tampa Bay,2021,129,4,24,Jaelon Darden,Wide Receiver,68,174,2020,74,1190,19,16.1,9,4,5,1,0,1,7.14,4.47,NA,35.5,122,6.66,3.98,Y
+Oklahoma State,Big 12,Baltimore,2021,131,4,26,Tylan Wallace,Wide Receiver,71,194,2020,59,917,6,15.5,10,7,3,1,1,0,4.71,4.48,11,33,112,6.97,4.25,Y
+UCF,American Athletic,Los Angeles,2021,141,4,36,Jacob Harris,Wide Receiver,77,211,2020,30,539,8,18,9,6,3,1,0,1,9.88,NA,NA,NA,NA,NA,NA,N
+Iowa,Big Ten,Minnesota,2021,157,5,13,Ihmir Smith-Marsette,Wide Receiver,73,181,2020,25,345,4,13.8,8,6,2,0,0,0,6.81,4.43,NA,37,124,7,4.2,Y
+Stanford,Pac-12,Dallas,2021,179,5,35,Simi Fehoko,Wide Receiver,76,222,2020,37,584,3,15.8,6,4,2,0,0,0,9.18,4.44,16,34.5,120,6.78,4.26,Y
+Clemson,ACC,Kansas City,2021,181,5,37,Cornell Powell,Wide Receiver,72,204,2020,53,882,7,16.6,11,10,1,1,0,1,7.57,4.53,16,36.5,128,7.03,4.21,Y
+Arizona State,Pac-12,Atlanta,2021,187,6,3,Frank Darby,Wide Receiver,72,201,2020,6,46,1,7.7,4,2,2,0,0,0,5.89,4.56,19,34.5,117,7.05,4.25,Y
+Houston,American Athletic,Buffalo,2021,203,6,19,Marquez Stevenson,Wide Receiver,70,180,2020,20,307,4,15.4,7,3,4,1,0,1,5.37,4.48,NA,33,122,6.76,4.14,Y
+South Carolina,SEC,Carolina,2021,204,6,20,Shi Smith,Wide Receiver,70,186,2020,55,621,4,11.3,10,2,8,0,0,0,6.78,NA,NA,NA,NA,NA,NA,N
+LSU,SEC,Tennessee,2021,205,6,21,Racey McMath,Wide Receiver,75,211,2020,14,195,1,13.9,10,5,5,0,0,0,7.43,4.36,NA,34,124,7.38,4.38,Y
+Georgia Tech,ACC,Jacksonville,2021,209,6,25,Jalen Camp,Wide Receiver,74,220,2020,25,392,4,15.7,10,3,7,0,0,0,9.75,NA,NA,NA,NA,NA,NA,N
+UCLA,Pac-12,Cleveland,2021,211,6,27,Demetric Felton,Wide Receiver,69,189,2020,22,159,3,7.2,7,3,4,0,0,0,0.87,4.55,NA,NA,NA,NA,NA,Y
+Auburn,SEC,Denver,2021,219,6,35,Seth Williams,Wide Receiver,75,211,2020,47,744,4,15.8,10,6,4,1,0,1,6.86,4.49,12,37,124,7.2,4.43,Y
+North Carolina,ACC,Chicago,2021,221,6,37,Dazz Newsome,Wide Receiver,70,190,2020,54,684,6,12.7,11,8,3,1,0,1,2.13,4.59,12,34,121,7.38,4.38,Y
+UCF,American Athletic,New England,2021,242,7,15,Tre Nixon,Wide Receiver,72,187,2020,18,258,2,14.3,9,6,3,1,0,1,8.97,4.44,18,35.5,125,6.81,4.27,Y
+Notre Dame,FBS Independents,Los Angeles,2021,249,7,22,Ben Skowronek,Wide Receiver,75,220,2020,29,439,5,15.1,11,10,1,1,0,1,NA,NA,NA,NA,NA,NA,NA,N
+South Alabama,Sun Belt,New Orleans,2021,255,7,28,Kawaan Baker,Wide Receiver,73,215,2020,50,656,8,13.1,11,4,7,0,0,0,9.08,NA,NA,NA,NA,NA,NA,N
+BYU,FBS Independents,Washington,2021,258,7,31,Dax Milne,Wide Receiver,73,193,2020,70,1189,8,17,11,10,1,1,1,0,4.56,4.54,14,31,114,NA,4.19,Y
+USC,Pac-12,Atlanta,2022,8,1,8,Drake London,Wide Receiver,76,219,2021,88,1084,7,12.3,12,4,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,Y
+Ohio State,Big Ten,New York,2022,10,1,10,Garrett Wilson,Wide Receiver,72,183,2021,70,1058,12,15.1,12,10,2,1,1,0,7.77,4.38,NA,36,123,NA,4.36,Y
+Ohio State,Big Ten,New Orleans,2022,11,1,11,Chris Olave,Wide Receiver,72,187,2021,65,936,13,14.4,12,10,2,1,1,0,8.64,4.39,NA,32,124,NA,NA,Y
+Alabama,SEC,Detroit,2022,12,1,12,Jameson Williams,Wide Receiver,74,179,2021,79,1572,15,19.9,13,12,1,2,1,1,NA,NA,NA,NA,NA,NA,NA,Y
+Penn State,Big Ten,Washington,2022,16,1,16,Jahan Dotson,Wide Receiver,71,178,2021,91,1182,12,13,12,7,5,1,0,1,6.33,4.43,NA,36,121,7.28,NA,Y
+Arkansas,SEC,Tennessee,2022,18,1,18,Treylon Burks,Wide Receiver,74,225,2021,66,1104,11,16.7,12,8,4,1,1,0,5.79,4.55,NA,33,122,7.28,NA,Y
+Kentucky,SEC,New York,2022,43,2,11,Wan'Dale Robinson,Wide Receiver,68,178,2021,104,1334,7,12.8,12,9,3,1,1,0,7.36,4.44,NA,34.5,118,NA,NA,Y
+Alabama,SEC,Houston,2022,44,2,12,John Metchie III,Wide Receiver,71,187,2021,96,1142,8,11.9,13,12,1,2,1,1,NA,NA,NA,NA,NA,NA,NA,Y
+Baylor,Big 12,New England,2022,50,2,18,Tyquan Thornton,Wide Receiver,74,181,2021,62,948,10,15.3,13,11,2,1,1,0,8.54,4.28,NA,36.5,130,NA,NA,Y
+Georgia,SEC,Pittsburgh,2022,52,2,20,George Pickens,Wide Receiver,75,195,2021,5,107,0,21.4,13,12,1,2,2,0,9.35,4.47,NA,33,125,NA,NA,Y
+Cincinnati,American Athletic,Indianapolis,2022,53,2,21,Alec Pierce,Wide Receiver,75,211,2021,52,884,8,17,13,13,0,1,0,1,9.83,4.41,NA,40.5,129,7.13,4.28,Y
+Western Michigan,Mid-American,Kansas City,2022,54,2,22,Skyy Moore,Wide Receiver,70,195,2021,95,1292,10,13.6,12,7,5,1,1,0,7.58,4.41,NA,34.5,125,7.13,4.32,Y
+Tennessee,SEC,Chicago,2022,71,3,7,Velus Jones Jr.,Wide Receiver,72,204,2021,62,807,7,13,12,7,5,1,0,1,7.1,4.31,NA,33,121,NA,NA,Y
+South Alabama,Sun Belt,Dallas,2022,88,3,24,Jalen Tolbert,Wide Receiver,73,194,2021,82,1474,8,18,12,5,7,0,0,0,8.62,4.49,NA,36,123,7.08,NA,Y
+Purdue,Big Ten,Cleveland,2022,99,3,35,David Bell,Wide Receiver,73,212,2021,93,1286,6,13.8,12,8,4,1,1,0,3.98,4.65,NA,33,118,7.14,4.57,Y
+SMU,American Athletic,San Francisco,2022,105,3,41,Danny Gray,Wide Receiver,72,186,2021,49,803,9,16.4,12,8,4,0,0,0,6.76,4.33,NA,34,126,NA,NA,Y
+Texas Tech,Big 12,Miami,2022,125,4,20,Erik Ezukanma,Wide Receiver,74,209,2021,48,705,4,14.7,12,6,6,1,1,0,7.03,NA,NA,36.5,126,NA,4.38,Y
+Nevada,Mountain West,Green Bay,2022,132,4,27,Romeo Doubs,Wide Receiver,74,201,2021,80,1109,11,13.9,12,8,4,1,0,1,NA,NA,NA,NA,NA,NA,NA,Y
+Memphis,American Athletic,Pittsburgh,2022,138,4,33,Calvin Austin III,Wide Receiver,68,170,2021,74,1149,8,15.5,12,6,6,0,0,0,9.05,4.32,NA,39,135,6.65,4.07,Y
+Boise State,Mountain West,Buffalo,2022,148,5,5,Khalil Shakir,Wide Receiver,72,196,2021,77,1117,7,14.5,12,7,5,0,0,0,8.31,4.43,NA,34.5,124,7.28,4.21,Y
+Samford,Southern,Denver,2022,162,5,19,Montrell Washington,Wide Receiver,70,170,2021,10,124,1,12.4,11,4,7,0,0,0,4.32,NA,NA,NA,NA,NA,NA,N
+UCLA,Pac-12,Tennessee,2022,163,5,20,Kyle Philips,Wide Receiver,71,189,2021,59,739,10,12.5,12,8,4,0,0,0,8.31,4.58,NA,33.5,124,NA,NA,Y
+Michigan State,Big Ten,Minnesota,2022,191,6,12,Jalen Nailor,Wide Receiver,71,186,2021,37,695,6,18.8,12,10,2,1,1,0,8.09,4.5,NA,38,128,7.03,4.28,Y
+Oklahoma,Big 12,Cleveland,2022,202,6,24,Michael Woods II,Wide Receiver,73,198,2021,35,400,2,11.4,12,10,2,1,1,0,NA,4.55,NA,34.5,125,NA,NA,Y
+Rutgers,Big Ten,Seattle,2022,229,7,8,Bo Melton,Wide Receiver,71,189,2021,55,618,3,11.2,12,5,7,1,0,1,9.23,4.34,NA,38,121,6.98,NA,Y
+Nebraska,Big Ten,Green Bay,2022,258,7,37,Samori Toure,Wide Receiver,75,190,2021,46,898,5,19.5,12,3,9,0,0,0,6.14,NA,NA,NA,NA,NA,NA,N
+Ohio State,Big Ten,Seattle,2023,20,1,20,Jaxon Smith-Njigba,Wide Receiver,73,196,2022,5,43,0,8.6,12,11,1,1,0,1,8.34,NA,NA,35,125,6.57,3.93,Y
+TCU,Big 12,Los Angeles,2023,21,1,22,Quentin Johnston,Wide Receiver,75,208,2022,60,1069,6,17.8,13,12,1,2,1,1,8.68,NA,NA,40.5,134,NA,NA,Y
+Boston College,ACC,Baltimore,2023,22,1,23,Zay Flowers,Wide Receiver,69,182,2022,78,1077,12,13.8,12,3,9,0,0,0,8.29,4.42,NA,35.5,127,NA,NA,Y
+USC,Pac-12,Minnesota,2023,23,1,24,Jordan Addison,Wide Receiver,71,173,2022,59,875,8,14.8,13,11,2,1,0,1,5.94,4.49,NA,34,122,NA,NA,Y
+Ole Miss,SEC,Carolina,2023,39,2,8,Jonathan Mingo,Wide Receiver,74,220,2022,51,862,5,16.9,12,8,4,1,0,1,9.87,4.46,22,39.5,129,NA,NA,Y
+Michigan State,Big Ten,Green Bay,2023,50,2,19,Jayden Reed,Wide Receiver,71,187,2022,55,636,5,11.6,12,5,7,0,0,0,6.74,4.45,NA,33.5,121,NA,4.29,Y
+SMU,American Athletic,Kansas City,2023,55,2,24,Rashee Rice,Wide Receiver,73,204,2022,96,1355,10,14.1,12,7,5,1,0,1,9.53,4.51,NA,41,128,NA,NA,Y
+Oklahoma,Big 12,Denver,2023,63,2,32,Marvin Mims,Wide Receiver,71,183,2022,54,1083,6,20.1,12,6,6,1,0,1,NA,4.38,NA,39.5,129,6.9,NA,Y
+Houston,American Athletic,Houston,2023,69,3,6,Nathaniel Dell,Wide Receiver,68,165,2022,109,1398,17,12.8,12,7,5,1,1,0,5.82,4.49,NA,NA,121,NA,NA,Y
+Tennessee,SEC,New York,2023,73,3,10,Jalin Hyatt,Wide Receiver,72,176,2022,67,1267,15,18.9,12,10,2,1,1,0,8.76,4.4,NA,40,135,NA,NA,Y
+Tennessee,SEC,Cleveland,2023,74,3,11,Cedric Tillman,Wide Receiver,75,213,2022,37,417,3,11.3,12,10,2,1,1,0,8.67,4.54,NA,37,128,NA,NA,Y
+North Carolina,ACC,Indianapolis,2023,79,3,16,Josh Downs,Wide Receiver,69,171,2022,94,1029,11,10.9,13,9,4,1,0,1,8.99,4.48,NA,38.5,131,NA,NA,Y
+Stanford,Pac-12,Arizona,2023,94,3,31,Michael Wilson,Wide Receiver,74,213,2022,26,418,4,16.1,12,3,9,0,0,0,9.55,4.58,23,37.5,125,NA,4.27,Y
+Cincinnati,American Athletic,Las Vegas,2023,100,3,37,Tre Tucker,Wide Receiver,69,182,2022,52,672,3,12.9,12,9,3,1,0,1,7.16,4.4,NA,37.5,124,NA,NA,Y
+TCU,Big 12,Los Angeles,2023,125,4,23,Derius Davis,Wide Receiver,68,165,2022,42,531,5,12.6,13,12,1,2,1,1,4.29,4.36,NA,NA,NA,NA,4.38,Y
+Purdue,Big Ten,Cincinnati,2023,131,4,29,Charlie Jones,Wide Receiver,71,175,2022,110,1361,12,12.4,13,8,5,1,0,1,NA,4.43,13,36.5,124,NA,NA,Y
+Cincinnati,American Athletic,Chicago,2023,133,4,31,Tyler Scott,Wide Receiver,70,177,2022,55,899,9,16.3,12,9,3,1,0,1,8.61,4.44,NA,39.5,133,NA,NA,Y
+Florida,SEC,Buffalo,2023,150,5,16,Justin Shorter,Wide Receiver,76,229,2022,29,577,2,19.9,12,6,6,1,0,1,7.94,4.55,18,35.5,126,NA,NA,Y
+Virginia,ACC,Green Bay,2023,159,5,25,Dontayvion Wicks,Wide Receiver,73,206,2022,30,430,2,14.3,10,3,7,0,0,0,9.17,4.62,NA,39,130,NA,NA,Y
+BYU,FBS Independents,Los Angeles,2023,177,5,43,Puka Nacua,Wide Receiver,74,201,2022,48,625,5,13,12,7,5,1,1,0,5.18,NA,NA,NA,NA,NA,NA,Y
+Penn State,Big Ten,Jacksonville,2023,185,6,8,Parker Washington,Wide Receiver,70,204,2022,46,611,2,13.3,12,10,2,1,1,0,NA,NA,16,NA,NA,NA,NA,Y
+LSU,SEC,New England,2023,187,6,10,Kayshon Boutte,Wide Receiver,71,195,2022,48,538,2,11.2,13,9,4,1,1,0,4.99,4.5,NA,29,118,NA,4.25,Y
+Nebraska,Big Ten,Tampa Bay,2023,191,6,14,Trey Palmer,Wide Receiver,72,192,2022,71,1043,9,14.7,12,4,8,0,0,0,6.18,4.33,NA,NA,NA,NA,NA,Y
+Wake Forest,ACC,New Orleans,2023,195,6,18,A.T. Perry,Wide Receiver,76,198,2022,81,1096,11,13.5,12,7,5,1,1,0,9.62,4.47,NA,35,133,NA,NA,Y
+Stanford,Pac-12,Miami,2023,197,6,20,Elijah Higgins,Wide Receiver,75,235,2022,59,704,2,11.9,12,3,9,0,0,0,8.94,4.54,NA,35,126,7.01,NA,Y
+Iowa State,Big 12,Houston,2023,205,6,28,Xavier Hutchinson,Wide Receiver,74,203,2022,107,1171,6,10.9,12,4,8,0,0,0,7.27,4.53,NA,36,116,6.91,4.35,Y
+Princeton,Ivy,Cincinnati,2023,206,6,29,Andrei Iosivas,Wide Receiver,75,205,2022,66,943,7,14.3,10,8,2,0,0,0,9.96,NA,NA,NA,NA,NA,NA,N
+Liberty,FBS Independents,New England,2023,210,6,33,Demario Douglas,Wide Receiver,68,179,2022,78,993,6,12.7,12,8,4,1,0,1,7.34,NA,NA,NA,NA,NA,NA,N
+North Carolina,ACC,Detroit,2023,219,7,2,Antoine Green,Wide Receiver,74,199,2022,43,798,7,18.6,13,9,4,1,0,1,8.68,4.47,NA,33.5,123,6.99,4.27,Y
+UT Martin,OVC,Tennessee,2023,228,7,11,Colton Dowell,Wide Receiver,NA,NA,2022,67,1032,6,15.4,11,7,4,0,0,0,9.78,NA,NA,NA,NA,NA,NA,N
+South Carolina,SEC,Dallas,2023,244,7,27,Jalen Brooks,Wide Receiver,74,205,2022,33,504,1,15.3,12,8,4,1,0,1,5.6,4.69,NA,35,130,7.15,4.31,Y
+Michigan,Big Ten,San Francisco,2023,253,7,36,Ronnie Bell,Wide Receiver,72,191,2022,62,889,4,14.3,13,13,0,1,0,1,8.2,4.54,14,38.5,120,6.98,4.15,Y
+Charlotte,Conference USA,Green Bay,2023,256,7,39,Grant DuBose,Wide Receiver,74,201,2022,64,792,9,12.4,12,3,9,0,0,0,8.79,NA,NA,NA,NA,NA,NA,N
+Ohio State,Big Ten,Arizona,2024,4,1,4,Marvin Harrison Jr.,Wide Receiver,75,209,2023,67,1211,14,18.1,12,11,1,1,0,1,NA,NA,NA,NA,NA,NA,NA,Y
+LSU,SEC,New York,2024,6,1,6,Malik Nabers,Wide Receiver,72,199,2023,89,1569,14,17.6,12,9,3,1,1,0,9.67,NA,NA,NA,NA,NA,NA,Y
+Washington,Pac-12,Chicago,2024,9,1,9,Rome Odunze,Wide Receiver,75,212,2023,92,1640,13,17.8,13,13,0,2,1,1,9.92,4.45,NA,39,124,6.88,4.03,Y
+LSU,SEC,Jacksonville,2024,23,1,23,Brian Thomas Jr.,Wide Receiver,75,209,2023,68,1177,17,17.3,12,9,3,1,1,0,9.84,4.33,11,38.5,126,NA,NA,Y
+Texas,Big 12,Kansas City,2024,28,1,28,Xavier Worthy,Wide Receiver,71,165,2023,75,1014,5,13.5,13,12,1,1,0,1,9.41,4.21,NA,41,131,NA,NA,Y
+Florida,SEC,San Francisco,2024,31,1,31,Ricky Pearsall,Wide Receiver,73,189,2023,64,970,4,15.2,12,5,7,0,0,0,9.91,4.41,17,42,129,6.64,4.05,Y
+South Carolina,SEC,Carolina,2024,32,1,32,Xavier Legette,Wide Receiver,73,221,2023,71,1255,7,17.7,12,5,7,0,0,0,9.9,4.39,NA,40,126,NA,NA,Y
+Florida State,ACC,Buffalo,2024,33,2,1,Keon Coleman,Wide Receiver,75,213,2023,50,658,11,13.2,13,13,0,1,0,1,8.18,4.61,NA,38,127,NA,NA,Y
+Georgia,SEC,Los Angeles,2024,34,2,2,Ladd McConkey,Wide Receiver,72,186,2023,30,478,2,15.9,13,12,1,1,1,0,9.34,4.39,13,36,124,NA,NA,Y
+Washington,Pac-12,New England,2024,37,2,5,Ja'Lynn Polk,Wide Receiver,73,203,2023,69,1159,9,16.8,13,13,0,2,1,1,8.85,4.52,NA,37.5,129,NA,NA,Y
+Texas,Big 12,Indianapolis,2024,52,2,20,Adonai Mitchell,Wide Receiver,74,205,2023,55,845,11,15.4,13,12,1,1,0,1,9.99,4.34,NA,39.5,136,NA,NA,Y
+Western Kentucky,Conference USA,New York,2024,65,3,1,Malachi Corley,Wide Receiver,71,207,2023,79,984,11,12.5,12,7,5,1,1,0,7.76,NA,NA,NA,NA,NA,NA,Y
+Alabama,SEC,Cincinnati,2024,80,3,16,Jermaine Burton,Wide Receiver,72,196,2023,39,798,8,20.5,13,12,1,1,0,1,9.09,4.45,NA,38.5,133,NA,NA,Y
+Michigan,Big Ten,Pittsburgh,2024,84,3,20,Roman Wilson,Wide Receiver,71,185,2023,48,789,12,16.4,13,13,0,2,2,0,8.59,4.39,12,NA,NA,NA,NA,Y
+Washington,Pac-12,Tampa Bay,2024,92,3,29,Jalen McMillan,Wide Receiver,73,197,2023,45,559,5,12.4,13,13,0,2,1,1,8.67,4.47,NA,37,127,6.94,4.18,Y
+Rice,American Athletic,Washington,2024,100,3,37,Luke McCaffrey,Wide Receiver,74,198,2023,71,992,13,14,12,6,6,1,0,1,9.44,4.46,NA,36,121,6.7,4.02,Y
+Oregon,Pac-12,Denver,2024,102,4,2,Troy Franklin,Wide Receiver,74,176,2023,81,1383,14,17.1,13,11,2,1,1,0,9.02,4.41,NA,39,124,6.9,4.31,Y
+UCF,Big 12,New England,2024,110,4,10,Javon Baker,Wide Receiver,73,202,2023,52,1139,7,21.9,12,6,6,1,0,1,7.84,4.54,NA,37,121,NA,NA,Y
+North Carolina,ACC,Baltimore,2024,113,4,13,Devontez Walker,Wide Receiver,74,193,2023,41,699,7,17,12,8,4,1,0,1,9.76,4.36,NA,40.5,134,NA,NA,Y
+Arizona,Pac-12,San Francisco,2024,135,4,35,Jacob Cowing,Wide Receiver,68,168,2023,89,839,13,9.4,12,9,3,1,1,0,6.28,4.38,NA,36,119,7.02,4.32,Y
+Oregon State,Pac-12,Indianapolis,2024,142,5,7,Anthony Gould,Wide Receiver,68,174,2023,44,718,2,16.3,12,8,4,1,0,1,8.87,4.39,NA,39.5,129,NA,4.16,Y
+Texas A&M,SEC,Philadelphia,2024,152,5,17,Ainias Smith,Wide Receiver,70,200,2023,53,795,2,15,12,7,5,1,0,1,7.36,NA,21,NA,NA,NA,NA,Y
+Louisville,ACC,Cleveland,2024,156,5,21,Jamari Thrash,Wide Receiver,72,188,2023,63,858,6,13.6,13,10,3,1,0,1,6.77,4.46,NA,34,120,7.16,NA,Y
+Pittsburgh,ACC,New Orleans,2024,170,5,35,Bub Means,Wide Receiver,73,212,2023,41,721,6,17.6,12,3,9,0,0,0,9.35,4.43,19,39.5,122,NA,NA,Y
+Tulane,American Athletic,Tennessee,2024,182,6,6,Jha'Quan Jackson,Wide Receiver,69,188,2023,26,439,4,16.9,13,11,2,1,0,1,5.34,4.42,12,32,118,NA,NA,Y
+Virginia,ACC,Miami,2024,184,6,8,Malik Washington,Wide Receiver,69,191,2023,110,1426,9,13,12,3,9,0,0,0,8.63,4.47,19,42.5,126,NA,NA,Y
+Florida State,ACC,Philadelphia,2024,185,6,9,Johnny Wilson,Wide Receiver,78,231,2023,41,617,2,15,13,13,0,1,0,1,9.7,4.52,NA,37,128,NA,4.11,Y
+Illinois,Big Ten,Atlanta,2024,187,6,11,Casey Washington,Wide Receiver,74,200,2023,49,670,4,13.7,12,5,7,0,0,0,7.15,NA,NA,NA,NA,NA,NA,N
+UAB,American Athletic,Arizona,2024,191,6,15,Tejhaun Palmer,Wide Receiver,74,210,2023,47,858,7,18.3,12,4,8,0,0,0,9.57,NA,NA,NA,NA,NA,NA,N
+Texas,Big 12,Los Angeles,2024,213,6,37,Jordan Whittington,Wide Receiver,73,205,2023,42,505,1,12,13,12,1,1,0,1,NA,NA,18,NA,NA,NA,NA,Y
+Southeast Missouri State,Big South-OVC,Dallas,2024,216,6,40,Ryan Flournoy,Wide Receiver,73,202,2023,57,839,6,14.7,11,4,7,0,0,0,9.89,NA,NA,NA,NA,NA,NA,N
+USC,Pac-12,Los Angeles,2024,225,7,5,Brenden Rice,Wide Receiver,74,208,2023,45,791,12,17.6,12,7,5,1,1,0,7.17,4.5,13,36.5,119,NA,NA,Y
+Utah,Pac-12,Denver,2024,235,7,15,Devaughn Vele,Wide Receiver,76,203,2023,43,593,3,13.8,12,8,4,1,0,1,8.47,4.47,NA,36,126,NA,NA,Y
+USC,Pac-12,Miami,2024,241,7,21,Tahj Washington,Wide Receiver,70,174,2023,59,1062,8,18,12,7,5,1,1,0,5.13,NA,NA,NA,NA,NA,NA,N
+Michigan,Big Ten,Los Angeles,2024,253,7,33,Cornelius Johnson,Wide Receiver,75,212,2023,47,604,1,12.9,13,13,0,2,2,0,9.46,4.44,NA,37.5,127,NA,NA,Y
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
