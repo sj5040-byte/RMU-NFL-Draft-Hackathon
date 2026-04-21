@@ -1,11 +1,7 @@
 """
-wr_neural_inference.py
------------------------
 Inference script for scoring a new cohort of WR prospects using the
 trained GKF model checkpoint.
 
-Workflow
---------
 1. Load the pickled checkpoint from Model_Output/model_checkpoint.pkl.
 2. Prepare WR_test.csv using the same preprocessing the training run
    applied (imputation statistics from WR_train.csv, label encoders
@@ -33,8 +29,8 @@ def load_checkpoint(model_path: str) -> dict:
     Load the pickled model checkpoint from disk.
 
     The checkpoint is a plain Python dict containing:
-        cv_strategy   : str -- 'GKF' (always, for inference)
-        cv_results    : list[dict] -- one dict per fold, each with
+        cv_strategy: str -- 'GKF' (always, for inference)
+        cv_results: list[dict] -- one dict per fold, each with
                          'model', 'scaler', 'best_threshold', etc.
         feature_names : list[str] -- ordered feature column names
         label_encoders: dict -- {col: fitted LabelEncoder}
@@ -165,22 +161,22 @@ def main():
     output_dir = os.path.join(cwd, 'Predictions')
     os.makedirs(output_dir, exist_ok=True)
 
-    # --- Step 1: Load checkpoint ---
+    #  Step 1: Load checkpoint 
     print("\n[1] Loading checkpoint...")
     checkpoint = load_checkpoint(os.path.join(cwd, 'Model_Output', 'model_checkpoint.pkl'))
     print(f"    Strategy:    {checkpoint['cv_strategy']}")
     print(f"    Fold models: {len(checkpoint['cv_results'])}")
     print(f"    Features:    {len(checkpoint['feature_names'])}")
 
-    # --- Step 2: Preprocess test data ---
+    #  Step 2: Preprocess test data 
     print("\n[2] Preparing test data...")
     X_test, test_df = prepare_test_data('WR_test.csv', 'WR_train.csv', checkpoint)
 
-    # --- Step 3: Generate predictions ---
+    #  Step 3: Generate predictions 
     print("\n[3] Making predictions...")
     mean_proba, std_proba, all_preds = predict(X_test, checkpoint)
 
-    # --- Step 4: Build results DataFrame ---
+    #  Step 4: Build results DataFrame 
     print("\n[4] Results")
     print("=" * 90)
 
@@ -201,7 +197,7 @@ def main():
     print(f"Mean confidence:  {mean_proba.mean():.4f}")
     print(f"Threshold used:   {threshold:.3f}")
 
-    # --- Step 5: Print top 15 ---
+    #  Step 5: Print top 15 
     print(f"\nTop 15 by R1 probability:")
     top = results_df.nlargest(15, 'pred_r1_probability')
     for idx, (_, row) in enumerate(top.iterrows(), 1):
@@ -209,7 +205,7 @@ def main():
         print(f"  {idx:2d}. [{symbol}] {row['name']:<25} {row['college_team']:<20} "
               f"{row['pred_r1_probability']:.4f}")
 
-    # --- Step 6: Save ---
+    #  Step 6: Save 
     results_df.to_csv(os.path.join(output_dir, 'predictions_full.csv'), index=False)
     print(f"\nResults saved to {output_dir}/")
     print("=" * 90)
