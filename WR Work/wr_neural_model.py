@@ -1,17 +1,16 @@
 """
-    WRDraftNetwork
+WRDraftNetwork
         A configurable feed-forward neural network built with PyTorch.
         Architecture: BatchNorm -> [Linear -> BatchNorm -> LeakyReLU ->
         Dropout] x N layers -> single logit output. The network outputs
         raw logits, not probabilities. Callers apply sigmoid manually.
 
-    WRDraftPredictor
+WRDraftPredictor
         Wraps WRDraftNetwork with the full ML workflow: data preparation,
         SMOTE oversampling, training with early stopping, threshold
         search, and two cross-validation strategies.
 
 Cross-validation strategies
-----------------------------
     GKF (Grouped K-Fold) -- PRIMARY
         Chronological year blocks. Strict temporal separation. This is
         the honest, reported benchmark.
@@ -21,10 +20,9 @@ Cross-validation strategies
         and check that GKF variance is real, not fold-size noise.
 
 Class imbalance handling
-------------------------
+
 First-round WRs make up roughly 15-20% of all drafted WRs. Two
 mechanisms work together to handle this:
-
     1. SMOTE: oversample the minority class in feature space before
        each training run. k_neighbors is clipped to avoid errors on
        folds with very few positive examples.
@@ -66,7 +64,7 @@ class WRDraftNetwork(nn.Module):
     Feed-forward neural network for binary WR draft classification.
 
     Architecture
-    ------------
+    
     Input -> BatchNorm1d -> [Linear -> BatchNorm1d -> LeakyReLU(0.1) ->
     Dropout] x len(hidden_dims) -> Linear(1)
 
@@ -115,9 +113,6 @@ class WRDraftPredictor:
         self.cv_results = []
         self.cv_strategy = None
 
-    # ------------------------------------------------------------------
-    # Data preparation
-    # ------------------------------------------------------------------
 
     def prepare_data(self):
         """
@@ -192,10 +187,7 @@ class WRDraftPredictor:
 
         return X, y, df
 
-    # ------------------------------------------------------------------
-    # Single-fold training helper
-    # ------------------------------------------------------------------
-
+ 
     def _train_single_fold(self, X_train_fold, y_train_fold,
                            X_test_fold, y_test_fold,
                            fold_label: str,
@@ -216,7 +208,7 @@ class WRDraftPredictor:
         8. Restore the best model state and re-evaluate on the test set.
         """
 
-        # --- Impute and scale ---
+        #  Impute and scale 
         X_train_fold = X_train_fold.fillna(X_train_fold.median())
         X_test_fold  = X_test_fold.fillna(X_test_fold.median())
 
@@ -228,7 +220,7 @@ class WRDraftPredictor:
         X_train_scaled = np.nan_to_num(X_train_scaled, nan=0.0)
         X_test_scaled  = np.nan_to_num(X_test_scaled,  nan=0.0)
 
-        # --- SMOTE oversampling ---
+        #  SMOTE oversampling 
         print(f"    Before SMOTE: {len(X_train_scaled)} samples")
         smote = SMOTE(
             random_state=42,
@@ -238,7 +230,7 @@ class WRDraftPredictor:
         print(f"    After SMOTE:  {len(X_train_smote)} samples "
               f"(pos: {y_train_smote.sum()}, neg: {(1 - y_train_smote).sum()})")
 
-        # --- Convert to tensors ---
+        #  Convert to tensors 
         X_train_tensor = torch.FloatTensor(X_train_smote).to(DEVICE)
         y_train_tensor = torch.FloatTensor(y_train_smote).reshape(-1, 1).to(DEVICE)
         X_test_tensor  = torch.FloatTensor(X_test_scaled).to(DEVICE)
@@ -247,7 +239,7 @@ class WRDraftPredictor:
         train_dataset = TensorDataset(X_train_tensor, y_train_tensor)
         train_loader  = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 
-        # --- Build model ---
+        #  Build model 
         input_dim = X_train_scaled.shape[1]
         model = WRDraftNetwork(input_dim=input_dim).to(DEVICE)
 
@@ -258,7 +250,7 @@ class WRDraftPredictor:
         criterion  = nn.BCEWithLogitsLoss(pos_weight=torch.tensor(pos_weight).to(DEVICE))
         optimizer  = optim.AdamW(model.parameters(), lr=0.001, weight_decay=1e-3)
 
-        # --- Training loop with early stopping ---
+        #  Training loop with early stopping 
         best_f1          = -1
         best_threshold   = 0.5
         best_model_state = None
@@ -309,11 +301,11 @@ class WRDraftPredictor:
             if patience_counter >= patience:
                 break
 
-        # --- Restore best weights ---
+        #  Restore best weights 
         if best_model_state is not None:
             model.load_state_dict(best_model_state)
 
-        # --- Final evaluation pass ---
+        #  Final evaluation pass 
         model.eval()
         with torch.no_grad():
             test_logits  = model(X_test_tensor).cpu().numpy()
@@ -352,9 +344,9 @@ class WRDraftPredictor:
             'X_test':           X_test_fold,
         }
 
-    # ------------------------------------------------------------------
+    # 
     # PRIMARY: Grouped K-Fold
-    # ------------------------------------------------------------------
+    # 
 
     def evaluate_gkf(self, X, y, df, n_splits: int = 5):
         """
@@ -405,9 +397,9 @@ class WRDraftPredictor:
         print("GKF EVALUATION COMPLETE")
         print(f"{'=' * 70}")
 
-    # ------------------------------------------------------------------
+    # 
     # STABILITY CHECK: Stratified K-Fold
-    # ------------------------------------------------------------------
+    # 
 
     def evaluate_skf(self, X, y, n_splits: int = 5):
         """
@@ -447,9 +439,9 @@ class WRDraftPredictor:
         print("SKF EVALUATION COMPLETE")
         print(f"{'=' * 70}")
 
-    # ------------------------------------------------------------------
+    # 
     # Summary printing
-    # ------------------------------------------------------------------
+    # 
 
     def print_cross_validation_summary(self):
         """
@@ -502,9 +494,9 @@ class WRDraftPredictor:
         print(f"  FN: {int(total_cm[1, 0])}, TP: {int(total_cm[1, 1])}")
         print(f"  Overall Accuracy: {total_acc:.4f}")
 
-    # ------------------------------------------------------------------
+    # 
     # Feature importance
-    # ------------------------------------------------------------------
+    # 
 
     def get_feature_importance_from_gradients(self):
         """
