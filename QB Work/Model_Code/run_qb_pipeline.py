@@ -20,7 +20,6 @@ import numpy as np
 import pandas as pd
 
 from qb_draft_model import QBDraftPredictor
-from qb_visualizer import QBDraftVisualizer, QBDraftAnalyzer
 
 
 def setup_output_directory() -> str:
@@ -37,7 +36,7 @@ def run_cv_strategy(predictor: QBDraftPredictor,
                     X, y, df,
                     output_dir: str) -> dict:
     """
-    Run one CV strategy end-to-end: train, evaluate, visualise, save CSV.
+    Run one CV strategy end-to-end: train, evaluate, and save CSV.
     Reuses the same predictor instance across GKF and SKF so both
     strategies share identical hyperparameters and feature preprocessing.
 
@@ -98,20 +97,6 @@ def run_cv_strategy(predictor: QBDraftPredictor,
     csv_path = os.path.join(output_dir, f"cv_results_{strategy.lower()}.csv")
     pd.DataFrame(rows).to_csv(csv_path, index=False)
     print(f"Saved: cv_results_{strategy.lower()}.csv")
-
-    # Generate visualizations 
-    # Each strategy writes into its own subdirectory so GKF and SKF
-    # plots never overwrite each other.
-    vis = QBDraftVisualizer(
-        cv_results=predictor.cv_results,
-        feature_names=predictor.feature_names,
-        output_dir=output_dir,
-        strategy=strategy.lower()
-    )
-    vis.plot_fold_performance()
-    vis.plot_roc_curves()
-    vis.plot_aggregated_confusion_matrix()
-    vis.plot_threshold_distribution()
 
     # Build summary dict 
     f1s  = [r['f1_score'] for r in predictor.cv_results]
