@@ -9,7 +9,6 @@ Workflow
 4. Save predictions to QB_Test_Predictions.csv.
 
 Why re-train instead of loading a saved model?
--
 XGBoost models are serialised separately from the predictor's Python
 state (label encoders, feature names, thresholds). Re-training via GKF
 is the simplest way to recover everything in one shot without a separate
@@ -28,13 +27,10 @@ def run_inference(train_file='Model_Code/QB_train.csv', test_file='QB_Test.csv')
     """
 
     # Step 1: Fit preprocessing on training data 
-    # prepare_data fits the label encoders. They must be fitted on the
-    # training set before we can transform the test set consistently.
     predictor = QBDraftPredictor(train_file)
     X_train, y_train, df_train = predictor.prepare_data()
 
     # Step 2: Train via GKF to recover the fold models 
-    # The last fold model (most training data) is used for inference.
     print("\nRestoring trained models via GKF...")
     predictor.train_and_evaluate_grouped(X_train, y_train, df_train)
 
@@ -45,7 +41,6 @@ def run_inference(train_file='Model_Code/QB_train.csv', test_file='QB_Test.csv')
 
     print(f"\nProcessing predictions for: {test_file}")
 
-    # Pull names from the raw test file before the predictor drops them.
     test_names = pd.read_csv(test_file)['name']
 
     predictions_df = predictor.generate_predictions_for_new_qbs(test_file)
@@ -54,11 +49,6 @@ def run_inference(train_file='Model_Code/QB_train.csv', test_file='QB_Test.csv')
         # Re-attach names. generate_predictions_for_new_qbs returns a
         # DataFrame sorted by probability, so we use .values to align
         # with the sorted order after the fact.
-        # Note: names stay in original CSV order here because we insert
-        # before any re-sorting. The sort inside generate_predictions
-        # happens on the probability column, which is already sorted
-        # in the returned DataFrame. We insert at position 0 to match
-        # the row order of the returned DataFrame.
         predictions_df.insert(0, 'name', test_names.values)
 
         predictions_df = predictions_df.sort_values('probability_first_round', ascending=False)
