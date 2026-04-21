@@ -1,6 +1,4 @@
 """
-Inference script for scoring a new cohort of QB prospects.
-
 Workflow
 1. Load the training data and fit the label encoders via prepare_data.
 2. Re-train the GKF models (same hyperparameter tuning + cross-validation as the main pipeline). This recovers the final fold model, which has 
