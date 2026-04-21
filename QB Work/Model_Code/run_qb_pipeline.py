@@ -23,10 +23,6 @@ from qb_draft_model import QBDraftPredictor
 from qb_visualizer import QBDraftVisualizer, QBDraftAnalyzer
 
 
-# ----------------------------------------------------------------------
-# Helpers
-# ----------------------------------------------------------------------
-
 def setup_output_directory() -> str:
     """
     Create (if needed) and return the top-level output directory.
@@ -42,27 +38,25 @@ def run_cv_strategy(predictor: QBDraftPredictor,
                     output_dir: str) -> dict:
     """
     Run one CV strategy end-to-end: train, evaluate, visualise, save CSV.
-
     Reuses the same predictor instance across GKF and SKF so both
     strategies share identical hyperparameters and feature preprocessing.
 
     Parameters
-    ----------
-    predictor : QBDraftPredictor
+    predictor: QBDraftPredictor
         Instantiated and data-prepared predictor.
-    strategy : str
+    strategy: str
         'GKF' or 'SKF'.
-    X : pd.DataFrame
+    X: pd.DataFrame
         Feature matrix.
-    y : pd.Series
+    y: pd.Series
         Binary target.
-    df : pd.DataFrame
+    df: pd.DataFrame
         Full DataFrame (used by GKF for year-based grouping).
-    output_dir : str
+    output_dir: str
         Directory where CSVs and plots are saved.
 
     Returns
-    -------
+    -
     dict
         Aggregate metrics: strategy, mean_f1, std_f1, mean_acc, std_acc,
         mean_auc, n_folds.
@@ -84,7 +78,7 @@ def run_cv_strategy(predictor: QBDraftPredictor,
 
     predictor.print_cross_validation_summary()
 
-    # --- Save per-fold results to CSV ---
+    # Save per-fold results to CSV 
     rows = []
     for r in predictor.cv_results:
         rows.append({
@@ -105,7 +99,7 @@ def run_cv_strategy(predictor: QBDraftPredictor,
     pd.DataFrame(rows).to_csv(csv_path, index=False)
     print(f"Saved: cv_results_{strategy.lower()}.csv")
 
-    # --- Generate visualizations ---
+    # Generate visualizations 
     # Each strategy writes into its own subdirectory so GKF and SKF
     # plots never overwrite each other.
     vis = QBDraftVisualizer(
@@ -119,7 +113,7 @@ def run_cv_strategy(predictor: QBDraftPredictor,
     vis.plot_aggregated_confusion_matrix()
     vis.plot_threshold_distribution()
 
-    # --- Build summary dict ---
+    # Build summary dict 
     f1s  = [r['f1_score'] for r in predictor.cv_results]
     accs = [r['accuracy'] for r in predictor.cv_results]
     aucs = [r['roc_auc']  for r in predictor.cv_results if not np.isnan(r['roc_auc'])]
@@ -141,7 +135,7 @@ def print_comparison_table(gkf_summary: dict, skf_summary: dict):
     interpretation verdict.
     
     Parameters
-    ----------
+    -
     gkf_summary : dict
         Output of run_cv_strategy for 'GKF'.
     skf_summary : dict
@@ -161,9 +155,6 @@ def print_comparison_table(gkf_summary: dict, skf_summary: dict):
         print(f"  {name:<30} {s['n_folds']:>5} {s['mean_f1']:>9.4f} "
               f"{s['std_f1']:>8.4f} {s['mean_acc']:>9.4f} {auc_str:>9}")
 
-# ----------------------------------------------------------------------
-# Main pipeline
-# ----------------------------------------------------------------------
 
 def main():
     """
@@ -182,7 +173,7 @@ def main():
         print(f"\nERROR: {data_file} not found in current directory")
         sys.exit(1)
 
-    # --- Step 1: Data preparation ---
+    # Step 1: Data preparation 
     print("\n" + "--" * 35)
     print("STEP 1: DATA PREPARATION")
     print("--" * 35)
@@ -190,28 +181,28 @@ def main():
     predictor = QBDraftPredictor(data_file)
     X, y, df  = predictor.prepare_data()
 
-    # --- Step 2: GKF primary benchmark ---
+    # Step 2: GKF primary benchmark 
     print("\n" + "--" * 35)
     print("STEP 2: PRIMARY BENCHMARK -- Grouped K-Fold")
     print("--" * 35)
 
     gkf_summary = run_cv_strategy(predictor, 'GKF', X, y, df, output_dir)
 
-    # --- Step 3: SKF stability check ---
+    # Step 3: SKF stability check 
     print("\n" + "--" * 35)
     print("STEP 3: STABILITY CHECK -- Stratified K-Fold")
     print("--" * 35)
 
     skf_summary = run_cv_strategy(predictor, 'SKF', X, y, df, output_dir)
 
-    # --- Step 4: Compare and interpret ---
+    # Step 4: Compare and interpret 
     print_comparison_table(gkf_summary, skf_summary)
 
     comparison_df = pd.DataFrame([gkf_summary, skf_summary])
     comparison_df.to_csv(os.path.join(output_dir, 'cv_strategy_comparison.csv'), index=False)
     print(f"\nSaved: cv_strategy_comparison.csv")
 
-    # --- Step 5: Feature importance ---
+    # Step 5: Feature importance 
     # SKF overwrote cv_results in memory. Re-run GKF (params already
     # tuned) to restore the GKF models before computing importance.
     print("\n" + "--" * 35)
@@ -229,13 +220,13 @@ def main():
         imp_df.to_csv(os.path.join(output_dir, 'feature_importance.csv'), index=False)
         print("Saved: feature_importance.csv")
 
-    # --- Step 6: Draft trend analysis ---
+    # Step 6: Draft trend analysis 
     print("\n" + "--" * 35)
     print("STEP 5: DRAFT TREND ANALYSIS")
     print("--" * 35)
     QBDraftAnalyzer.analyze_draft_trends(df, output_dir)
 
-    # --- Dataset statistics ---
+    # Dataset statistics 
     print("\n" + "=" * 70)
     print("DATASET STATISTICS")
     print("=" * 70)
