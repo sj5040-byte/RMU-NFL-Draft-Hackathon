@@ -64,7 +64,7 @@ def run_cv_strategy(predictor: WRDraftPredictor,
 
     predictor.print_cross_validation_summary()
 
-    # --- Save per-fold results CSV ---
+    #  Save per-fold results CSV 
     rows = []
     for r in predictor.cv_results:
         rows.append({
@@ -85,7 +85,7 @@ def run_cv_strategy(predictor: WRDraftPredictor,
     pd.DataFrame(rows).to_csv(csv_path, index=False)
     print(f"Saved: cv_results_{strategy_name}.csv")
 
-    # --- Build aggregate summary ---
+    #  Build aggregate summary 
     f1s  = [r['f1_score'] for r in predictor.cv_results]
     accs = [r['accuracy'] for r in predictor.cv_results]
     aucs = [r['roc_auc']  for r in predictor.cv_results if not np.isnan(r['roc_auc'])]
@@ -151,7 +151,7 @@ def main():
         print(f"\nERROR: {data_file} not found in current directory")
         sys.exit(1)
 
-    # --- Step 1: Data preparation (summary only) ---
+    #  Step 1: Data preparation (summary only) 
     print("\n" + "-" * 90)
     print("STEP 1: DATA PREPARATION")
     print("-" * 90)
@@ -161,7 +161,7 @@ def main():
     predictor_base = WRDraftPredictor(data_file)
     X, y, df       = predictor_base.prepare_data()
 
-    # --- Step 2: Run both CV strategies ---
+    #  Step 2: Run both CV strategies 
     print("\n" + "-" * 90)
     print("STEP 2: EVALUATION -- TWO CROSS-VALIDATION STRATEGIES")
     print("-" * 90)
@@ -189,14 +189,14 @@ def main():
     summary_skf = run_cv_strategy(predictor_skf, 'skf', X_skf, y_skf, df_skf, output_dir)
     summaries.append(summary_skf)
 
-    # --- Step 3: Compare strategies ---
+    #  Step 3: Compare strategies 
     print_strategy_comparison(summaries)
 
     comparison_df = pd.DataFrame(summaries)
     comparison_df.to_csv(os.path.join(output_dir, 'strategy_comparison.csv'), index=False)
     print(f"\nSaved: strategy_comparison.csv")
 
-    # --- Step 4: Feature importance from GKF models ---
+    #  Step 4: Feature importance from GKF models 
     print("\n" + "-" * 90)
     print("STEP 3: FEATURE IMPORTANCE (from GKF primary benchmark)")
     print("-" * 90)
@@ -210,7 +210,7 @@ def main():
         imp_df.to_csv(os.path.join(output_dir, 'feature_importance.csv'), index=False)
         print("Saved: feature_importance.csv")
 
-    # --- Step 5: Save GKF checkpoint for inference ---
+    #  Step 5: Save GKF checkpoint for inference 
     # The checkpoint bundles everything wr_neural_inference.py needs:
     # the trained models (one per fold), their fitted scalers, the
     # feature name list, and the label encoders.
@@ -229,7 +229,7 @@ def main():
         pickle.dump(checkpoint, f)
     print(f"Saved model checkpoint to: model_checkpoint.pkl")
 
-    # --- Dataset statistics ---
+    #  Dataset statistics 
     print("\n" + "=" * 90)
     print("DATASET STATISTICS")
     print("=" * 90)
