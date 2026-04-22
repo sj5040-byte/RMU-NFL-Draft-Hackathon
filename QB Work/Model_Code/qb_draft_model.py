@@ -1,6 +1,4 @@
 """
-qb_draft_model.py
------------------
 Core model class for predicting whether a college QB gets drafted
 in the first round of the NFL Draft.
 
@@ -43,9 +41,6 @@ np.random.seed(42)
 class QBDraftPredictor:
     """
     XGBoost model to predict first-round QB draft outcomes.
-
-    Attributes
-    ----------
     df : pd.DataFrame
         Raw training data loaded from CSV.
     label_encoders : dict
@@ -66,12 +61,6 @@ class QBDraftPredictor:
     """
 
     def __init__(self, csv_path: str):
-        """
-        Parameters
-        ----------
-        csv_path : str
-            Path to the QB training CSV.
-        """
         self.df = pd.read_csv(csv_path)
         self.label_encoders = {}
         self.feature_names = None
@@ -79,17 +68,12 @@ class QBDraftPredictor:
         self.best_params = None
         self.all_predictions = []
         self.cv_strategy = None
-
-    # ------------------------------------------------------------------
-    # Data preparation
-    # ------------------------------------------------------------------
+        
 
     def prepare_data(self):
         """
         Clean, encode, and engineer features from the raw DataFrame.
 
-        Steps
-        -----
         1. Create binary target: first_round = 1 if round == 1.
         2. Drop columns that are either identifiers, post-draft info,
            or combine drills excluded by design (vertical, broad jump,
@@ -97,15 +81,6 @@ class QBDraftPredictor:
         3. Median-impute missing numeric values.
         4. Mode-impute missing categorical values.
         5. Label-encode categoricals. Encoders are stored for reuse.
-
-        Returns
-        -------
-        X : pd.DataFrame
-            Feature matrix.
-        y : pd.Series
-            Binary target (1 = first round).
-        df : pd.DataFrame
-            Full cleaned DataFrame, including 'year' for GKF grouping.
         """
         df = self.df.copy()
 
@@ -165,25 +140,18 @@ class QBDraftPredictor:
     def _objective(self, trial, X_train, y_train) -> float:
         """
         Optuna objective function.
-
         Maximises AUCPR (area under the precision-recall curve) via an
         internal 5-fold stratified CV on the training data. AUCPR is
         preferred over log-loss for imbalanced targets because it focuses
         on the minority class (first-round QBs).
 
         Parameters
-        ----------
         trial : optuna.Trial
             Optuna trial object that suggests hyperparameter values.
         X_train : array-like
             Training features for this outer fold.
         y_train : array-like
             Training labels for this outer fold.
-
-        Returns
-        -------
-        float
-            Best mean AUCPR across the internal 5-fold CV.
         """
         # scale_pos_weight balances the class imbalance.
         # We search a range centered on the natural ratio but allow
@@ -231,18 +199,12 @@ class QBDraftPredictor:
         keeps wall-clock time reasonable at 50 trials.
 
         Parameters
-        ----------
         X_train : array-like
             Feature matrix used for internal CV during tuning.
         y_train : array-like
             Target labels.
         n_trials : int
             Number of Optuna trials. Default 50 balances coverage vs. time.
-
-        Returns
-        -------
-        dict
-            Best hyperparameter dictionary (stored in self.best_params).
         """
         print("\n" + "=" * 60)
         print("HYPERPARAMETER TUNING")
@@ -272,10 +234,7 @@ class QBDraftPredictor:
         print(f"Best validation score (aucpr): {study.best_value:.4f}")
 
         return self.best_params
-
-    # ------------------------------------------------------------------
-    # Single-fold training helper
-    # ------------------------------------------------------------------
+        
 
     def _run_single_fold(self, X_train_fold, y_train_fold,
                          X_test_fold, y_test_fold,
@@ -285,7 +244,6 @@ class QBDraftPredictor:
         Train XGBoost on one fold and evaluate on the held-out set.
 
         Threshold tuning
-        ----------------
         The classification threshold is tuned to maximise F1. We prefer
         a separate validation set for this so the test set stays clean.
         Priority order:
@@ -309,13 +267,6 @@ class QBDraftPredictor:
             Optional validation features for threshold tuning.
         val_y : array-like or None
             Optional validation labels for threshold tuning.
-
-        Returns
-        -------
-        dict
-            Keys: fold_label, train_size, test_size, accuracy, f1_score,
-            roc_auc, best_threshold, model, y_test, y_pred, y_pred_proba,
-            confusion_matrix.
         """
         print(f"Training samples: {len(X_train_fold)} | Test samples: {len(X_test_fold)}")
         print(f"First-round QBs in test set: {int(y_test_fold.sum())}")
@@ -333,9 +284,7 @@ class QBDraftPredictor:
 
         y_pred_proba = model.predict(dtest)
 
-        # --- Threshold selection ---
-        # Prefer the explicit validation set. Fall back to a stratified
-        # 20% slice of the training data.
+
         if val_X is not None and val_y is not None and len(val_y) > 0 and val_y.sum() > 0:
             thresh_X, thresh_y = val_X, val_y
         else:
@@ -393,17 +342,12 @@ class QBDraftPredictor:
 
     def train_and_evaluate_grouped(self, X, y, df, n_splits: int = 5):
         """
-        PRIMARY BENCHMARK -- Grouped K-Fold by year.
-
-        How it works
-        ------------
+        Grouped K-Fold by year.
         All unique draft years are sorted chronologically and divided
         into k roughly equal-sized blocks. Each block (2-3 years) is
         held out once as the test set; all other years form the training
         set.
 
-        Why this is the primary benchmark
-        ----------------------------------
         - Strictly respects temporal order. A model trained on 2010-2018
           data cannot see 2019+ picks. That is how it will work in reality.
         - Each fold contains 6-11 first-round QBs, enough for a stable F1.
@@ -415,7 +359,6 @@ class QBDraftPredictor:
         threshold decision.
 
         Parameters
-        ----------
         X : pd.DataFrame
             Full feature matrix.
         y : pd.Series
@@ -424,11 +367,6 @@ class QBDraftPredictor:
             Full DataFrame with a 'year' column for grouping.
         n_splits : int
             Number of chronological groups. Default 5.
-
-        Returns
-        -------
-        list[dict]
-            One result dict per fold (see _run_single_fold for keys).
         """
         print("\n" + "=" * 60)
         print(f"GROUPED K-FOLD (PRIMARY BENCHMARK) -- k={n_splits}, chronological year groups")
@@ -495,39 +433,28 @@ class QBDraftPredictor:
 
         return fold_results
 
-    # ------------------------------------------------------------------
-    # STABILITY CHECK: Stratified K-Fold
-    # ------------------------------------------------------------------
 
     def train_and_evaluate_skf(self, X, y, n_splits: int = 5):
         """
         STABILITY CHECK -- Stratified K-Fold.
-
         Each fold is a random stratified split that preserves the
         overall first-round QB ratio (~27%). This is NOT the primary
         benchmark because it allows QBs from later years to appear in
         training while earlier-year QBs appear in the test set.
 
         When to trust SKF
-        -----------------
         - If SKF F1 ~= GKF F1: leakage is minimal. SKF gives a tighter
           confidence interval on model skill.
         - If SKF F1 >> GKF F1: temporal leakage is inflating SKF. Trust
           GKF only.
 
         Parameters
-        ----------
         X : pd.DataFrame
             Full feature matrix.
         y : pd.Series
             Full binary target.
         n_splits : int
             Number of stratified folds. Default 5.
-
-        Returns
-        -------
-        list[dict]
-            One result dict per fold.
         """
         print("\n" + "=" * 60)
         print(f"STRATIFIED K-FOLD (STABILITY CHECK) -- k={n_splits}")
@@ -570,14 +497,6 @@ class QBDraftPredictor:
     # ------------------------------------------------------------------
 
     def print_cross_validation_summary(self):
-        """
-        Print per-fold metrics and aggregated statistics for the last
-        CV run.
-
-        Aggregated confusion matrix counts all TP/FP/TN/FN across folds
-        to give an overall accuracy figure that accounts for fold size
-        differences.
-        """
         label_map = {
             'GKF': 'Grouped K-Fold -- Primary Benchmark',
             'SKF': 'Stratified K-Fold -- Stability Check',
@@ -641,13 +560,6 @@ class QBDraftPredictor:
 
         Call this after GKF so the importance reflects the primary
         benchmark models.
-
-        Returns
-        -------
-        dict
-            {feature_key: mean_importance} across folds. Feature keys
-            are XGBoost's internal 'f0', 'f1', ... notation. The printed
-            output maps these back to column names.
         """
         print("\n" + "=" * 60)
         print("FEATURE IMPORTANCE ANALYSIS (from GKF models)")
@@ -691,19 +603,11 @@ class QBDraftPredictor:
         the current player pool.
 
         Parameters
-        ----------
         new_qbs_csv : str or None
             Path to a CSV of new QBs. Must contain the same columns used
             during training (after dropping the excluded columns).
             If None, falls back to the test set from the last fold
             (mainly useful for debugging).
-
-        Returns
-        -------
-        pd.DataFrame or None
-            Columns: probability_first_round, predicted_first_round.
-            Sorted descending by probability. Returns None if no models
-            are available or no data can be found.
         """
         print("\n" + "=" * 60)
         print("PREDICTION GENERATION FOR NEW QBs")
