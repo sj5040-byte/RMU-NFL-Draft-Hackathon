@@ -21,6 +21,8 @@ import numpy as np
 import pandas as pd
 
 from rb_draft_model import RBDraftPredictor
+from rb_visualizer import RBDraftAnalyzer, RBDraftVisualizer
+from rb_visualizer import RBDraftAnalyzer, RBDraftVisualizer
 
 
 def _build_summary(predictor: RBDraftPredictor, strategy: str) -> dict:
@@ -111,8 +113,11 @@ def main():
     print(" " * 5 + "XGBoost + Optuna | GKF Primary | SKF Stability Check")
     print("=" * 70)
 
+    script_dir = os.path.dirname(__file__)
+    project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
+
     # Output directory sits one level up from the script location.
-    output_dir = os.path.join(os.path.dirname(__file__), '../Model_Output')
+    output_dir = os.path.join(script_dir, '../Model_Output')
     os.makedirs(output_dir, exist_ok=True)
     print(f"\nOutput directory: {output_dir}")
 
@@ -121,7 +126,8 @@ def main():
     print("STEP 1: DATA PREPARATION")
     print("--" * 35)
 
-    predictor = RBDraftPredictor('RB_train.csv')
+    train_data_path = os.path.join(project_root, 'TrainingData', 'RB_train.csv')
+    predictor = RBDraftPredictor(train_data_path)
     X, y, df  = predictor.prepare_data()
 
     # --- Step 2: GKF primary benchmark ---
@@ -155,6 +161,28 @@ def main():
     gkf_csv_path = os.path.join(output_dir, 'cv_results_gkf.csv')
     pd.DataFrame(gkf_rows).to_csv(gkf_csv_path, index=False)
     print(f"Saved: {gkf_csv_path}")
+
+    gkf_viz = RBDraftVisualizer(
+        cv_results=gkf_results,
+        feature_names=predictor.feature_names,
+        output_dir=output_dir,
+        strategy='gkf'
+    )
+    gkf_viz.plot_fold_performance()
+    gkf_viz.plot_roc_curves()
+    gkf_viz.plot_aggregated_confusion_matrix()
+    gkf_viz.plot_threshold_distribution()
+
+    gkf_viz = RBDraftVisualizer(
+        cv_results=gkf_results,
+        feature_names=predictor.feature_names,
+        output_dir=output_dir,
+        strategy='gkf'
+    )
+    gkf_viz.plot_fold_performance()
+    gkf_viz.plot_roc_curves()
+    gkf_viz.plot_aggregated_confusion_matrix()
+    gkf_viz.plot_threshold_distribution()
 
     # --- Step 3: Feature importance (must run before SKF) ---
     # GKF models are still in predictor.cv_results at this point.
@@ -204,6 +232,32 @@ def main():
     pd.DataFrame(skf_rows).to_csv(skf_csv_path, index=False)
     print(f"Saved: {skf_csv_path}")
 
+    skf_viz = RBDraftVisualizer(
+        cv_results=skf_results,
+        feature_names=predictor.feature_names,
+        output_dir=output_dir,
+        strategy='skf'
+    )
+    skf_viz.plot_fold_performance()
+    skf_viz.plot_roc_curves()
+    skf_viz.plot_aggregated_confusion_matrix()
+    skf_viz.plot_threshold_distribution()
+
+    RBDraftAnalyzer.analyze_draft_trends(df, output_dir=output_dir)
+
+    skf_viz = RBDraftVisualizer(
+        cv_results=skf_results,
+        feature_names=predictor.feature_names,
+        output_dir=output_dir,
+        strategy='skf'
+    )
+    skf_viz.plot_fold_performance()
+    skf_viz.plot_roc_curves()
+    skf_viz.plot_aggregated_confusion_matrix()
+    skf_viz.plot_threshold_distribution()
+
+    RBDraftAnalyzer.analyze_draft_trends(df, output_dir=output_dir)
+
     # --- Step 5: Strategy comparison ---
     print("\n" + "--" * 35)
     print("STEP 5: STRATEGY COMPARISON")
@@ -224,7 +278,7 @@ def main():
     print("STEP 6: PREDICTIONS FOR NEW RBs")
     print("--" * 35)
 
-    test_data_path = os.path.join(os.path.dirname(__file__), 'RB_Test.csv')
+    test_data_path = os.path.join(project_root, 'TestingData', 'RB_Test.csv')
     if os.path.exists(test_data_path):
         predictions_df = predictor.generate_predictions_for_new_rbs(test_data_path)
         if predictions_df is not None:
