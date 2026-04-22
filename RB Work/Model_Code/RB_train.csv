@@ -1,0 +1,1000 @@
+,college_team,college_conference,nfl_team,year,overall,round,pick,name,position,height,weight,season_before_draft,rushing_car,rushing_yds,rushing_td,rushing_ypc,receiving_rec,receiving_yds,receiving_td,receiving_ypr,regular_season_games,regular_season_wins,regular_season_losses,postseason_games,postseason_wins,postseason_losses,forty,bench,vertical,broad_jump,cone,shuttle,attended_combine
+1,Clemson,ACC,Buffalo,2010,9,1,9,C.J. Spiller,Running Back,71,196,2009,216,1212,12,5.6,36,503,4,14,13,8,5,1,1,0,4.37,18,NA,NA,NA,NA,Y
+2,Fresno State,Western Athletic,Los Angeles,2010,12,1,12,Ryan Mathews,Running Back,72,218,2009,276,1808,19,6.6,11,122,0,11.1,12,8,4,1,0,1,4.37,19,36,121,7,4.33,Y
+3,California,Pac-10,Detroit,2010,30,1,30,Jahvid Best,Running Back,70,199,2009,141,867,12,6.1,22,213,4,9.7,12,8,4,1,0,1,4.34,18,32.5,113,6.75,4.17,Y
+4,Ole Miss,SEC,Kansas City,2010,36,2,4,Dexter McCluster,Running Back,69,172,2009,181,1169,8,6.5,44,520,3,11.8,12,8,4,1,1,0,4.53,20,37.5,118,NA,4.06,Y
+5,Stanford,Pac-10,Minnesota,2010,51,2,19,Toby Gerhart,Running Back,72,231,2009,343,1871,27,5.5,11,157,0,14.3,12,8,4,1,0,1,4.5,22,38,118,6.94,4.25,Y
+6,Auburn,SEC,Houston,2010,58,2,26,Ben Tate,Running Back,71,220,2009,263,1362,10,5.2,20,105,0,5.3,12,7,5,1,1,0,4.34,26,40.5,124,6.91,4.12,Y
+7,Tennessee,SEC,Cleveland,2010,59,2,27,Montario Hardesty,Running Back,72,225,2009,282,1345,13,4.8,25,302,1,12.1,12,7,5,1,0,1,4.49,21,41,124,6.87,4.14,Y
+8,USC,Pac-10,New York,2010,112,4,14,Joe McKnight,Running Back,71,198,2009,164,1014,8,6.2,22,146,0,6.6,12,8,4,1,1,0,4.4,18,36.5,120,NA,NA,Y
+9,Georgia Tech,ACC,Pittsburgh,2010,188,6,19,Jonathan Dwyer,Running Back,71,229,2009,235,1395,14,5.9,5,37,0,7.4,13,11,2,1,0,1,4.64,15,33,107,7.56,4.67,Y
+10,LSU,SEC,Philadelphia,2010,200,6,31,Charles Scott,Running Back,71,238,2009,116,542,4,4.7,8,54,1,6.8,12,9,3,1,0,1,4.68,NA,30.5,111,6.98,4.47,Y
+11,Alabama,SEC,New Orleans,2011,28,1,28,Mark Ingram,Running Back,69,215,2010,158,875,13,5.5,21,282,1,13.4,12,9,3,1,1,0,4.62,21,31.5,118,7.13,4.62,Y
+12,Virginia Tech,ACC,Arizona,2011,38,2,6,Ryan Williams,Running Back,69,212,2010,110,477,9,4.3,10,109,1,10.9,13,11,2,1,0,1,4.59,19,40,123,6.96,4.18,Y
+13,California,Pac-10,New England,2011,56,2,24,Shane Vereen,Running Back,69,203,2010,231,1167,13,5.1,22,209,3,9.5,12,5,7,0,0,0,4.49,31,34,115,6.95,4.28,Y
+14,Illinois,Big Ten,Detroit,2011,57,2,25,Mikel Leshoure,Running Back,72,227,2010,281,1697,17,6,17,196,3,11.5,12,6,6,1,1,0,4.56,21,38,122,6.82,4.4,Y
+15,Kansas State,Big 12,Miami,2011,62,2,30,Daniel Thomas,Running Back,72,230,2010,298,1585,19,5.3,27,171,0,6.3,12,7,5,1,0,1,4.62,21,NA,NA,NA,NA,Y
+16,LSU,SEC,New England,2011,73,3,9,Stevan Ridley,Running Back,71,225,2010,249,1147,15,4.6,11,61,0,5.5,12,10,2,1,1,0,4.65,18,36,118,6.78,4.21,Y
+17,Oklahoma State,Big 12,San Francisco,2011,115,4,18,Kendall Hunter,Running Back,67,199,2010,271,1548,16,5.7,20,101,0,5.1,12,10,2,1,1,0,4.46,24,35,122,6.74,4.21,Y
+18,Syracuse,Big East,Indianapolis,2011,119,4,22,Delone Carter,Running Back,69,225,2010,231,1233,9,5.3,8,45,0,5.6,12,7,5,1,1,0,4.54,27,37,120,6.92,4.07,Y
+19,Louisville,Big East,New York,2011,126,4,29,Bilal Powell,Running Back,71,207,2010,229,1405,11,6.1,18,158,3,8.8,12,6,6,1,1,0,4.51,18,NA,NA,NA,NA,Y
+20,Clemson,ACC,Tennessee,2011,130,4,33,Jamie Harper,Running Back,71,233,2010,197,760,7,3.9,37,320,3,8.6,12,6,6,1,0,1,4.53,24,36.5,120,7.16,4.39,Y
+21,North Carolina,ACC,Buffalo,2011,133,5,2,Johnny White,Running Back,70,209,2010,130,720,7,5.5,24,288,0,12,12,7,5,1,1,0,4.5,NA,32.5,117,7.07,4.31,Y
+22,Oregon State,Pac-10,Atlanta,2011,145,5,14,Jacquizz Rodgers,Running Back,66,196,2010,256,1184,14,4.6,44,287,3,6.5,12,5,7,0,0,0,4.59,NA,33,113,7.31,4.26,Y
+23,Pittsburgh,Big East,Philadelphia,2011,149,5,18,Dion Lewis,Running Back,67,193,2010,219,1061,13,4.8,27,216,0,8,12,7,5,1,1,0,4.56,17,34.5,112,6.9,4.18,Y
+24,Penn State,Big Ten,Washington,2011,177,6,12,Evan Royster,Running Back,72,212,2010,208,1014,6,4.9,25,202,1,8.1,12,7,5,1,0,1,4.65,20,34,113,7.07,4.18,Y
+25,UConn,Big East,Los Angeles,2011,183,6,18,Jordan Todman,Running Back,69,203,2010,334,1695,14,5.1,19,94,0,4.9,12,8,4,1,0,1,4.4,25,38,126,7.24,4.18,Y
+26,USC,Pac-10,Tampa Bay,2011,187,6,22,Allen Bradford,Running Back,72,242,2010,110,794,5,7.2,3,74,1,24.7,13,8,5,0,0,0,4.53,28,29,113,6.97,4.39,Y
+27,Maryland,ACC,New York,2011,221,7,18,Da'Rel Scott,Running Back,71,211,2010,122,708,5,5.8,14,170,3,12.1,12,8,4,1,1,0,4.4,19,34,117,7.15,4.2,Y
+28,Georgia Tech,ACC,Baltimore,2011,225,7,22,Anthony Allen,Running Back,73,228,2010,240,1316,7,5.5,3,88,1,29.3,12,6,6,1,0,1,4.56,24,41.5,120,6.79,4.06,Y
+29,Texas Tech,Big 12,Pittsburgh,2011,232,7,29,Baron Batch,Running Back,69,202,2010,177,816,5,4.6,32,226,3,7.1,12,7,5,1,1,0,NA,NA,NA,NA,NA,NA,N
+30,Baylor,Big 12,Cincinnati,2011,246,7,43,Jay Finley,Running Back,71,198,2010,195,1218,12,6.2,9,76,0,8.4,12,7,5,1,0,1,NA,NA,NA,NA,NA,NA,N
+31,Alabama,SEC,Cleveland,2012,3,1,3,Trent Richardson,Running Back,69,228,2011,283,1679,21,5.9,29,338,3,11.7,12,11,1,1,1,0,4.48,NA,NA,NA,NA,NA,Y
+32,Boise State,Mountain West,Tampa Bay,2012,31,1,31,Doug Martin,Running Back,69,223,2011,263,1299,16,4.9,28,255,2,9.1,12,11,1,1,1,0,4.46,28,36,120,6.79,4.16,Y
+33,Virginia Tech,ACC,New York,2012,32,1,32,David Wilson,Running Back,70,206,2011,290,1709,9,5.9,22,129,1,5.9,13,11,2,1,0,1,4.38,NA,41,132,7.09,4.12,Y
+34,Cincinnati,Big East,Los Angeles,2012,50,2,18,Isaiah Pead,Running Back,70,197,2011,237,1259,12,5.3,39,319,3,8.2,12,9,3,1,1,0,4.39,NA,33,116,6.95,4.32,Y
+35,San Diego State,Mountain West,Denver,2012,67,3,4,Ronnie Hillman,Running Back,69,200,2011,311,1711,19,5.5,24,270,1,11.3,12,8,4,1,0,1,4.42,17,37,NA,NA,NA,Y
+36,Temple,Mid-American,Baltimore,2012,84,3,21,Bernard Pierce,Running Back,72,218,2011,249,1292,24,5.2,3,52,0,17.3,12,8,4,1,1,0,4.45,17,36.5,123,7.07,4.28,Y
+37,Miami,ACC,Miami,2012,97,4,2,Lamar Miller,Running Back,71,212,2011,227,1272,9,5.6,17,85,1,5,12,6,6,0,0,0,4.34,NA,33,NA,NA,NA,Y
+38,Utah State,Western Athletic,Seattle,2012,106,4,11,Robert Turbin,Running Back,70,222,2011,249,1517,19,6.1,17,171,4,10.1,12,7,5,1,0,1,4.42,28,36,122,7.16,4.31,Y
+39,Florida,SEC,Pittsburgh,2012,159,5,24,Chris Rainey,Running Back,68,180,2011,171,861,2,5,31,381,2,12.3,12,6,6,1,1,0,4.36,16,36.5,120,6.5,3.93,Y
+40,Mississippi State,SEC,Indianapolis,2012,170,5,35,Vick Ballard,Running Back,70,219,2011,193,1189,10,6.2,20,187,1,9.4,12,6,6,1,1,0,4.59,23,33,115,7.03,4.19,Y
+41,Florida Atlantic,Sun Belt,Washington,2012,173,6,3,Alfred Morris,Running Back,70,219,2011,214,1114,9,5.2,14,133,1,9.5,12,1,11,0,0,0,4.63,16,35.5,117,7.01,4.19,Y
+42,Texas A&M,Big 12,Kansas City,2012,182,6,12,Cyrus Gray,Running Back,70,206,2011,198,1045,12,5.3,31,239,3,7.7,12,6,6,1,1,0,4.4,21,32.5,114,7.17,NA,Y
+43,Baylor,Big 12,New York,2012,202,6,32,Terrance Ganaway,Running Back,72,239,2011,250,1547,21,6.2,6,52,1,8.7,12,9,3,1,1,0,4.61,NA,37.5,119,7.15,4.25,Y
+44,Utah State,Western Athletic,Tampa Bay,2012,212,7,5,Michael Smith,Running Back,68,206,2011,114,870,9,7.6,16,181,2,11.3,12,7,5,1,0,1,NA,NA,NA,NA,NA,NA,N
+45,Kansas State,Big 12,Philadelphia,2012,229,7,22,Bryce Brown,Running Back,72,219,2011,3,16,0,5.3,1,3,0,3,12,10,2,1,0,1,NA,NA,NA,NA,NA,NA,N
+46,Michigan State,Big Ten,Los Angeles,2012,250,7,43,Edwin Baker,Running Back,68,204,2011,170,665,5,3.9,5,60,1,12,13,10,3,1,1,0,4.44,20,35,111,7.27,4.31,Y
+47,North Carolina,ACC,Cincinnati,2013,37,2,5,Giovani Bernard,Running Back,68,202,2012,184,1228,12,6.7,47,490,5,10.4,12,8,4,0,0,0,4.53,19,33.5,122,6.91,4.12,Y
+48,Wisconsin,Big Ten,Denver,2013,58,2,26,Montee Ball,Running Back,71,214,2012,356,1830,22,5.1,10,72,0,7.2,13,8,5,1,0,1,4.66,15,32,118,6.88,4.4,Y
+49,Alabama,SEC,Green Bay,2013,61,2,29,Eddie Lacy,Running Back,71,231,2012,204,1322,17,6.5,22,189,2,8.6,13,12,1,1,1,0,4.55,NA,NA,NA,NA,NA,Y
+50,Texas A&M,SEC,Seattle,2013,62,2,30,Christine Michael,Running Back,70,220,2012,88,417,12,4.7,8,48,0,6,12,10,2,1,1,0,4.54,27,43,125,6.69,4.02,Y
+51,Arkansas,SEC,Kansas City,2013,96,3,34,Knile Davis,Running Back,71,227,2012,112,377,2,3.4,11,157,1,14.3,12,4,8,0,0,0,4.37,31,33.5,121,6.96,4.38,Y
+52,UCLA,Pac-12,Green Bay,2013,125,4,28,Johnathan Franklin,Running Back,70,205,2012,282,1734,13,6.1,33,323,2,9.8,13,9,4,1,0,1,4.49,18,31.5,115,6.89,4.31,Y
+53,South Carolina,SEC,San Francisco,2013,131,4,34,Marcus Lattimore,Running Back,71,221,2012,143,662,11,4.6,26,173,0,6.7,12,10,2,1,1,0,4.65,NA,NA,NA,NA,NA,Y
+54,Stanford,Pac-12,Arizona,2013,140,5,7,Stepfan Taylor,Running Back,69,214,2012,322,1530,13,4.8,41,287,2,7,13,11,2,1,1,0,4.76,17,30,110,7.13,4.5,Y
+55,Oklahoma State,Big 12,Dallas,2013,151,5,18,Joseph Randle,Running Back,72,204,2012,274,1417,14,5.2,28,224,0,8,12,7,5,1,1,0,4.63,NA,35,123,NA,NA,Y
+56,Florida State,ACC,Washington,2013,154,5,21,Chris Thompson,Running Back,67,192,2012,91,687,5,7.5,21,248,0,11.8,13,11,2,1,1,0,4.42,21,NA,NA,NA,NA,Y
+57,Florida,SEC,Miami,2013,164,5,31,Mike Gillislee,Running Back,71,208,2012,244,1152,10,4.7,16,159,1,9.9,12,11,1,1,0,1,4.55,15,30.5,119,7.12,4.4,Y
+58,UCF,Conference USA,Las Vegas,2013,181,6,13,Latavius Murray,Running Back,75,224,2012,198,1106,15,5.6,27,231,4,8.6,13,9,4,1,1,0,NA,NA,NA,NA,NA,NA,N
+59,Oregon,Pac-12,Carolina,2013,182,6,14,Kenjon Barner,Running Back,69,196,2012,278,1767,21,6.4,20,256,2,12.8,12,11,1,1,1,0,4.52,20,35.5,122,6.87,4.2,Y
+60,Clemson,ACC,Arizona,2013,187,6,19,Andre Ellington,Running Back,69,199,2012,212,1081,8,5.1,14,232,1,16.6,12,10,2,1,1,0,4.61,NA,34,122,NA,NA,Y
+61,Miami,ACC,Tampa Bay,2013,189,6,21,Mike James,Running Back,62,223,2012,147,621,6,4.2,30,344,3,11.5,12,7,5,0,0,0,4.53,28,35,115,NA,4.62,Y
+62,Nebraska,Big Ten,Cincinnati,2013,190,6,22,Rex Burkhead,Running Back,70,214,2012,98,675,5,6.9,11,92,2,8.4,13,10,3,1,0,1,4.73,21,39,125,6.85,4.09,Y
+63,LSU,SEC,Seattle,2013,194,6,26,Spencer Ware,Running Back,70,228,2012,94,367,1,3.9,18,230,1,12.8,12,10,2,1,0,1,4.62,NA,NA,NA,NA,NA,Y
+64,Notre Dame,FBS Independents,Detroit,2013,199,6,31,Theo Riddick,Running Back,NA,201,2012,190,917,5,4.8,36,370,2,10.3,12,12,0,1,0,1,4.68,NA,32,118,NA,NA,Y
+65,Rutgers,Big East,Washington,2013,228,7,22,Jawan Jamison,Running Back,67,203,2012,255,1075,4,4.2,28,323,2,11.5,12,9,3,1,0,1,4.68,20,29,110,NA,NA,Y
+66,Utah State,Western Athletic,Indianapolis,2013,230,7,24,Kerwynn Williams,Running Back,68,195,2012,218,1512,15,6.9,45,697,5,15.5,12,10,2,1,1,0,4.48,17,35,118,7.15,4.15,Y
+67,Massachusetts,Mid-American,New York,2013,253,7,47,Michael Cox,Running Back,72,220,2012,198,710,5,3.6,13,63,0,4.8,12,1,11,0,0,0,NA,NA,NA,NA,NA,NA,N
+68,Washington,Pac-12,Tennessee,2014,54,2,22,Bishop Sankey,Running Back,70,209,2013,327,1870,20,5.7,28,304,1,10.9,12,8,4,1,1,0,4.49,26,35.5,126,6.75,4,Y
+69,LSU,SEC,Cincinnati,2014,55,2,23,Jeremy Hill,Running Back,73,233,2013,203,1401,16,6.9,18,181,0,10.1,12,9,3,1,1,0,4.56,20,29,113,NA,NA,Y
+70,Ohio State,Big Ten,San Francisco,2014,57,2,25,Carlos Hyde,Running Back,72,230,2013,208,1521,15,7.3,16,147,3,9.2,13,12,1,1,0,1,4.62,19,34.5,114,NA,NA,Y
+71,West Virginia,Big 12,Tampa Bay,2014,69,3,5,Charles Sims,Running Back,72,214,2013,208,1095,11,5.3,45,401,3,8.9,12,4,8,0,0,0,4.48,17,37.5,126,7.16,4.3,Y
+72,Auburn,SEC,Los Angeles,2014,75,3,11,Tre Mason,Running Back,69,207,2013,317,1816,23,5.7,12,163,1,13.6,13,12,1,1,0,1,4.5,NA,38.5,126,NA,4.15,Y
+73,Towson,CAA,Cleveland,2014,94,3,30,Terrance West,Running Back,69,225,2013,36,156,2,4.3,1,2,0,2,12,10,2,2,1,1,4.56,16,33.5,120,NA,NA,Y
+74,Georgia Southern,Southern,Minnesota,2014,96,3,32,Jerick McKinnon,Running Back,69,209,2013,9,125,1,13.9,NA,NA,NA,NA,11,7,4,0,0,0,4.41,32,40.5,132,6.83,4.12,Y
+75,Kent State,Mid-American,Pittsburgh,2014,97,3,33,Dri Archer,Running Back,68,173,2013,68,527,6,7.8,25,327,4,13.1,12,4,8,0,0,0,4.26,20,38,122,6.86,4.06,Y
+76,Florida State,ACC,Atlanta,2014,103,4,3,Devonta Freeman,Running Back,68,206,2013,173,1016,14,5.9,22,278,1,12.6,13,13,0,1,1,0,4.58,NA,31.5,118,7.11,4.26,Y
+77,Boston College,ACC,New York,2014,113,4,13,Andre Williams,Running Back,71,230,2013,355,2177,18,6.1,NA,NA,NA,NA,12,7,5,1,0,1,4.56,NA,38,129,7.27,4.06,Y
+78,Arizona,Pac-12,Chicago,2014,117,4,17,Ka'Deem Carey,Running Back,69,207,2013,349,1885,19,5.4,26,173,1,6.7,12,7,5,1,1,0,4.69,19,32.5,115,7.08,4.38,Y
+79,Oregon,Pac-12,Kansas City,2014,124,4,24,De'Anthony Thomas,Running Back,69,174,2013,96,594,8,6.2,22,246,1,11.2,12,10,2,1,1,0,4.39,8,32,124,NA,NA,Y
+80,Wisconsin,Big Ten,New England,2014,130,4,30,James White,Running Back,69,204,2013,221,1444,13,6.5,39,300,2,7.7,12,9,3,1,0,1,4.57,23,32,114,7.05,4.2,Y
+81,Coastal Carolina,Big South,Baltimore,2014,138,4,38,Lorenzo Taliaferro,Running Back,72,229,2013,10,21,0,2.1,4,11,1,2.8,13,11,2,0,0,0,4.58,18,33,118,6.88,4.22,Y
+82,LSU,SEC,Houston,2014,181,6,5,Alfred Blue,Running Back,74,223,2013,71,343,1,4.8,5,62,0,12.4,12,9,3,1,1,0,4.63,13,32,121,7.15,4.5,Y
+83,Baylor,Big 12,Washington,2014,186,6,10,Lache Seastrunk,Running Back,70,201,2013,158,1177,11,7.4,NA,NA,NA,NA,12,11,1,1,0,1,4.51,15,41.5,134,NA,NA,Y
+84,Arizona State,Pac-12,Los Angeles,2014,201,6,25,Marion Grice,Running Back,72,208,2013,191,996,14,5.2,50,438,6,8.8,13,10,3,1,0,1,4.67,NA,NA,NA,NA,NA,Y
+85,Stanford,Pac-12,Carolina,2014,204,6,28,Tyler Gaffney,Running Back,72,220,2013,330,1709,21,5.2,15,86,1,5.7,13,11,2,1,0,1,4.49,NA,36.5,116,6.78,4.18,Y
+86,UCF,American Athletic,Jacksonville,2014,222,7,7,Storm Johnson,Running Back,72,209,2013,213,1139,14,5.3,30,260,3,8.7,12,11,1,1,1,0,4.6,16,35.5,118,NA,NA,Y
+87,Wisconsin,Big Ten,Los Angeles,2015,15,1,15,Melvin Gordon,Running Back,73,215,2014,343,2587,29,7.5,19,153,3,8.1,13,10,3,1,1,0,4.52,19,35,126,7.04,4.07,Y
+88,Alabama,SEC,Jacksonville,2015,36,2,4,T.J. Yeldon,Running Back,73,226,2014,194,979,11,5,15,180,1,12,13,12,1,1,0,1,4.61,22,36,117,7.19,4.22,Y
+89,Nebraska,Big Ten,Detroit,2015,54,2,22,Ameer Abdullah,Running Back,69,205,2014,264,1611,19,6.1,22,269,3,12.2,12,9,3,1,0,1,4.6,24,42.5,130,6.79,3.95,Y
+90,Indiana,Big Ten,Atlanta,2015,73,3,9,Tevin Coleman,Running Back,71,206,2014,270,2036,15,7.5,25,141,0,5.6,12,4,8,0,0,0,4.4,22,NA,NA,NA,NA,Y
+91,Northern Iowa,MVFC,Arizona,2015,86,3,22,David Johnson,Running Back,73,224,2014,31,80,0,2.6,10,276,1,27.6,14,9,5,0,0,0,4.5,25,41.5,127,6.82,4.27,Y
+92,Florida,SEC,Washington,2015,95,3,31,Matt Jones,Running Back,74,231,2014,166,817,6,4.9,11,65,1,5.9,11,6,5,1,1,0,4.61,20,31.5,112,NA,4.2,Y
+93,Michigan State,Big Ten,Chicago,2015,106,4,7,Jeremy Langford,Running Back,72,208,2014,276,1522,22,5.5,11,62,0,5.6,12,10,2,1,1,0,4.42,NA,34.5,118,7.22,4.32,Y
+94,South Carolina,SEC,San Francisco,2015,126,4,27,Mike Davis,Running Back,69,217,2014,199,982,9,4.9,32,368,2,11.5,12,6,6,1,1,0,4.61,17,34,116,7,4.18,Y
+95,Minnesota,Big Ten,Tennessee,2015,138,5,2,David Cobb,Running Back,71,229,2014,315,1629,13,5.2,16,162,0,10.1,12,8,4,1,0,1,4.81,17,38.5,121,NA,NA,Y
+96,Boise State,Mountain West,Miami,2015,149,5,13,Jay Ajayi,Running Back,72,221,2014,347,1823,28,5.3,50,535,4,10.7,13,11,2,1,1,0,4.57,19,39,121,7.1,4.1,Y
+97,Florida State,ACC,Buffalo,2015,155,5,19,Karlos Williams,Running Back,73,230,2014,150,689,11,4.6,29,265,1,9.1,13,13,0,1,0,1,4.48,16,33.5,117,7.16,4.46,Y
+98,Auburn,SEC,Carolina,2015,174,5,38,Cameron Artis-Payne,Running Back,70,212,2014,303,1608,13,5.3,13,147,0,11.3,12,8,4,1,0,1,4.53,NA,36.5,118,7.13,NA,Y
+99,Mississippi State,SEC,Indianapolis,2015,205,6,29,Josh Robinson,Running Back,68,217,2014,190,1203,11,6.3,28,370,1,13.2,12,10,2,1,0,1,4.7,21,32,113,NA,NA,Y
+100,Missouri,SEC,New Orleans,2015,230,7,13,Marcus Murphy,Running Back,68,193,2014,177,924,4,5.2,28,212,1,7.6,13,10,3,1,1,0,4.61,11,29,109,NA,4.4,Y
+101,Hawai'i,Mountain West,Tampa Bay,2015,231,7,14,Joey Iosefa,Running Back,NA,247,2014,151,617,8,4.1,11,76,0,6.9,13,4,9,0,0,0,5.02,30,31.5,110,7.24,4.33,Y
+102,LSU,SEC,Houston,2015,235,7,18,Kenny Hilliard,Running Back,72,226,2014,90,447,6,5,4,35,0,8.8,12,8,4,1,0,1,4.83,NA,27,111,7.17,4.4,Y
+103,Ohio State,Big Ten,Dallas,2016,4,1,4,Ezekiel Elliott,Running Back,72,225,2015,289,1821,23,6.3,27,206,0,7.6,12,11,1,1,1,0,4.47,NA,32.5,118,NA,NA,Y
+104,Alabama,SEC,Tennessee,2016,45,2,14,Derrick Henry,Running Back,75,247,2015,395,2219,28,5.6,11,91,0,8.3,13,12,1,2,2,0,4.54,22,37,130,7.2,4.38,Y
+105,Alabama,SEC,Miami,2016,73,3,10,Kenyan Drake,Running Back,73,210,2015,77,408,1,5.3,29,276,1,9.5,13,12,1,2,2,0,4.45,10,34.5,123,7.04,4.21,Y
+106,Notre Dame,FBS Independents,Seattle,2016,90,3,27,C.J. Prosise,Running Back,73,220,2015,156,1032,11,6.6,26,308,1,11.8,12,10,2,1,0,1,4.48,NA,35.5,121,NA,NA,Y
+107,San José State,Mountain West,Houston,2016,119,4,21,Tyler Ervin,Running Back,70,192,2015,294,1601,13,5.4,45,334,2,7.4,12,5,7,1,1,0,4.41,17,39,130,NA,NA,Y
+108,Louisiana Tech,Conference USA,Baltimore,2016,134,4,36,Kenneth Dixon,Running Back,70,215,2015,197,1070,19,5.4,34,467,7,13.7,12,8,4,1,1,0,4.56,18,37.5,121,6.97,4.28,Y
+109,Utah,Pac-12,Denver,2016,136,4,38,Devontae Booker,Running Back,71,219,2015,268,1261,11,4.7,37,318,0,8.6,12,9,3,1,1,0,4.56,22,NA,NA,NA,NA,Y
+110,UCLA,Pac-12,New York,2016,149,5,10,Paul Perkins,Running Back,70,208,2015,237,1343,14,5.7,30,242,1,8.1,12,8,4,1,0,1,4.54,19,32,124,NA,NA,Y
+111,Indiana,Big Ten,Chicago,2016,150,5,11,Jordan Howard,Running Back,72,230,2015,196,1213,9,6.2,11,106,1,9.6,12,6,6,1,0,1,4.57,16,34,122,NA,NA,Y
+112,West Virginia,Big 12,Philadelphia,2016,153,5,14,Wendell Smallwood,Running Back,71,208,2015,238,1519,9,6.4,26,160,0,6.2,12,7,5,1,1,0,4.47,14,33.5,120,6.83,4.28,Y
+113,Arkansas,SEC,Seattle,2016,171,5,32,Alex Collins,Running Back,70,217,2015,271,1577,20,5.8,13,95,0,7.3,12,7,5,1,1,0,4.59,18,28.5,113,NA,NA,Y
+114,Florida,SEC,San Francisco,2016,211,6,36,Kelvin Taylor,Running Back,70,207,2015,259,1035,13,4,17,150,0,8.8,13,10,3,1,0,1,4.6,15,32,113,NA,NA,Y
+115,Eastern Michigan,Mid-American,Dallas,2016,216,6,41,Darius Jackson,Running Back,72,220,2015,208,1078,14,5.2,21,201,2,9.6,12,1,11,0,0,0,NA,NA,NA,NA,NA,NA,N
+116,Washington,Pac-12,Detroit,2016,236,7,15,Dwayne Washington,Running Back,73,220,2015,47,282,4,6,25,315,3,12.6,12,6,6,1,1,0,NA,NA,NA,NA,NA,NA,N
+117,California,Pac-12,New Orleans,2016,237,7,16,Daniel Lasco,Running Back,72,209,2015,65,331,3,5.1,4,24,0,6,12,7,5,1,1,0,4.46,23,41.5,135,7.22,4.26,Y
+118,Georgia,SEC,Washington,2016,242,7,21,Keith Marshall,Running Back,71,219,2015,68,350,3,5.1,4,28,1,7,12,9,3,1,1,0,4.31,25,30.5,NA,NA,NA,Y
+119,Clemson,ACC,Seattle,2016,247,7,26,Zac Brooks,Running Back,72,200,2015,41,234,3,5.7,9,113,2,12.6,13,13,0,2,1,1,NA,NA,NA,NA,NA,NA,N
+120,LSU,SEC,Jacksonville,2017,4,1,4,Leonard Fournette,Running Back,73,240,2016,129,843,8,6.5,15,146,0,9.7,11,7,4,1,1,0,4.51,NA,28.5,NA,NA,NA,Y
+121,Stanford,Pac-12,Carolina,2017,8,1,8,Christian McCaffrey,Running Back,71,202,2016,253,1603,13,6.3,37,310,3,8.4,12,9,3,1,1,0,4.48,10,37.5,121,6.57,4.22,Y
+122,Florida State,ACC,Minnesota,2017,41,2,9,Dalvin Cook,Running Back,70,210,2016,288,1765,19,6.1,33,488,1,14.8,12,9,3,1,1,0,4.49,22,30.5,116,7.27,4.53,Y
+123,Oklahoma,Big 12,Cincinnati,2017,48,2,16,Joe Mixon,Running Back,73,228,2016,187,1274,10,6.8,37,538,5,14.5,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,N
+124,Tennessee,SEC,New Orleans,2017,67,3,3,Alvin Kamara,Running Back,70,214,2016,103,596,9,5.8,40,392,4,9.8,12,8,4,1,1,0,4.56,15,39.5,131,NA,NA,Y
+125,Toledo,Mid-American,Kansas City,2017,86,3,22,Kareem Hunt,Running Back,71,216,2016,262,1475,10,5.6,41,403,1,9.8,12,9,3,1,0,1,4.62,18,36.5,119,NA,NA,Y
+126,Texas,Big 12,Houston,2017,89,3,25,D'Onta Foreman,Running Back,72,233,2016,323,2028,15,6.3,7,75,0,10.7,12,5,7,0,0,0,NA,18,NA,NA,NA,NA,Y
+127,Pittsburgh,ACC,Pittsburgh,2017,105,3,41,James Conner,Running Back,74,233,2016,216,1092,16,5.1,21,302,4,14.4,12,8,4,1,0,1,4.65,20,29,113,NA,NA,Y
+128,Oklahoma,Big 12,Washington,2017,114,4,7,Samaje Perine,Running Back,71,233,2016,196,1060,12,5.4,10,106,1,10.6,12,10,2,1,1,0,4.65,30,33,116,7.26,4.37,Y
+129,North Carolina A&T,MEAC,Chicago,2017,119,4,13,Tarik Cohen,Running Back,67,179,2016,28,149,1,5.3,9,125,0,13.9,12,9,3,0,0,0,4.42,11,31.5,118,NA,NA,Y
+130,Utah,Pac-12,San Francisco,2017,121,4,15,Joe Williams,Running Back,71,210,2016,210,1407,10,6.7,9,107,0,11.9,12,8,4,1,1,0,4.41,14,35,125,7.19,4.19,Y
+131,San Diego State,Mountain West,Philadelphia,2017,132,4,26,Donnel Pumphrey,Running Back,68,176,2016,349,2133,17,6.1,27,231,0,8.6,13,10,3,1,1,0,4.48,5,33.5,117,NA,NA,Y
+132,BYU,FBS Independents,Green Bay,2017,134,4,28,Jamaal Williams,Running Back,72,212,2016,234,1375,12,5.9,7,80,0,11.4,12,8,4,1,1,0,4.59,NA,30,123,7.25,4.53,Y
+133,Clemson,ACC,New York,2017,140,4,34,Wayne Gallman,Running Back,73,215,2016,232,1133,17,4.9,20,152,0,7.6,13,12,1,2,2,0,4.6,21,29.5,120,7.17,4.28,Y
+134,South Florida,American Athletic,Indianapolis,2017,143,4,37,Marlon Mack,Running Back,71,213,2016,174,1187,15,6.8,28,227,0,8.1,12,10,2,1,1,0,4.5,15,35.5,125,NA,NA,Y
+135,Wyoming,Mountain West,Atlanta,2017,156,5,12,Brian Hill,Running Back,73,219,2016,349,1860,22,5.3,8,67,0,8.4,13,8,5,1,0,1,4.54,15,34,125,7.03,4.32,Y
+136,Boise State,Mountain West,Tampa Bay,2017,162,5,18,Jeremy McNichols,Running Back,69,214,2016,314,1709,23,5.4,37,474,4,12.8,12,10,2,1,0,1,4.49,NA,35.5,121,6.93,4.28,Y
+137,North Carolina,ACC,Arizona,2017,179,5,36,T.J. Logan,Running Back,70,196,2016,120,650,7,5.4,29,244,3,8.4,12,8,4,1,0,1,4.37,17,33.5,121,NA,NA,Y
+138,UTEP,Conference USA,Green Bay,2017,182,5,39,Aaron Jones,Running Back,70,208,2016,229,1773,17,7.7,28,233,3,8.3,12,4,8,0,0,0,4.56,16,37.5,127,6.82,4.2,Y
+139,Louisiana,Sun Belt,New York,2017,188,6,4,Elijah McGuire,Running Back,70,214,2016,232,1127,7,4.9,29,238,2,8.2,12,6,6,1,0,1,4.53,15,36,120,7.26,4.56,Y
+140,Utah State,Mountain West,Green Bay,2017,238,7,20,Devante Mays,Running Back,70,230,2016,37,259,3,7,1,8,0,8,12,3,9,0,0,0,NA,NA,NA,NA,NA,NA,N
+141,North Carolina,ACC,Las Vegas,2017,242,7,24,Elijah Hood,Running Back,71,232,2016,145,858,8,5.9,25,142,0,5.7,12,8,4,1,0,1,NA,18,NA,NA,NA,NA,Y
+142,Oklahoma State,Big 12,Seattle,2017,249,7,31,Christopher Carson,Running Back,72,218,2016,82,559,9,6.8,13,128,1,9.8,12,9,3,1,1,0,4.58,23,37,130,NA,NA,Y
+143,NC State,ACC,Cleveland,2017,252,7,34,Matthew Dayes,Running Back,69,205,2016,249,1166,10,4.7,32,267,0,8.3,12,6,6,1,1,0,4.47,18,28,109,NA,NA,Y
+144,Penn State,Big Ten,New York,2018,2,1,2,Saquon Barkley,Running Back,72,233,2017,217,1271,18,5.9,54,632,3,11.7,12,10,2,1,1,0,4.4,29,41,NA,NA,4.24,Y
+145,San Diego State,Mountain West,Seattle,2018,27,1,27,Rashaad Penny,Running Back,71,220,2017,289,2248,23,7.8,19,135,2,7.1,12,10,2,1,0,1,4.46,13,32.5,120,NA,NA,Y
+146,Georgia,SEC,New England,2018,31,1,31,Sony Michel,Running Back,71,214,2017,156,1227,16,7.9,9,96,1,10.7,13,12,1,2,1,1,4.54,22,NA,NA,NA,4.21,Y
+147,Georgia,SEC,Cleveland,2018,35,2,3,Nick Chubb,Running Back,71,227,2017,223,1345,15,6,4,30,0,7.5,13,12,1,2,1,1,4.52,29,38.5,128,7.09,4.25,Y
+148,USC,Pac-12,Tampa Bay,2018,38,2,6,Ronald Jones II,Running Back,71,205,2017,261,1550,19,5.9,14,187,1,13.4,13,11,2,1,0,1,4.65,NA,36.5,NA,NA,NA,Y
+149,Auburn,SEC,Detroit,2018,43,2,11,Kerryon Johnson,Running Back,72,213,2017,285,1391,18,4.9,24,194,2,8.1,13,10,3,1,0,1,NA,11,40,126,7.07,4.29,Y
+150,LSU,SEC,Washington,2018,59,2,27,Derrius Guice,Running Back,71,224,2017,237,1251,11,5.3,18,124,2,6.9,12,9,3,1,0,1,4.49,15,31.5,NA,NA,NA,Y
+151,Oregon,Pac-12,Denver,2018,71,3,7,Royce Freeman,Running Back,72,229,2017,244,1475,16,6,14,164,0,11.7,12,7,5,1,0,1,4.54,17,34,118,6.9,4.16,Y
+152,NC State,ACC,Indianapolis,2018,104,4,4,Nyheim Hines,Running Back,68,198,2017,197,1112,12,5.6,26,152,0,5.8,12,8,4,1,1,0,4.38,NA,35.5,119,7.18,4.35,Y
+153,Miami,ACC,Cincinnati,2018,112,4,12,Mark Walton,Running Back,70,202,2017,56,428,3,7.6,7,91,0,13,12,10,2,1,0,1,4.6,18,31.5,118,NA,NA,Y
+154,Southern Miss,Conference USA,Atlanta,2018,126,4,26,Ito Smith,Running Back,69,198,2017,248,1413,13,5.7,40,396,2,9.9,12,8,4,1,0,1,NA,NA,NA,NA,NA,NA,N
+155,Arizona State,Pac-12,Miami,2018,131,4,31,Kalen Ballage,Running Back,74,228,2017,157,669,6,4.3,20,91,0,4.6,12,7,5,1,0,1,4.46,15,33.5,122,6.91,4.35,Y
+156,Fordham,Patriot,Arizona,2018,134,4,34,Chase Edmonds,Running Back,69,205,2017,15,42,1,2.8,2,21,0,10.5,11,4,7,0,0,0,4.55,19,34,122,6.79,4.07,Y
+157,Ole Miss,SEC,Indianapolis,2018,169,5,32,Jordan Wilkins,Running Back,73,216,2017,155,1011,9,6.5,26,241,1,9.3,12,6,6,0,0,0,NA,16,36,117,NA,4.27,Y
+158,Tennessee,SEC,Los Angeles,2018,176,6,2,John Kelly,Running Back,70,216,2017,189,778,9,4.1,37,299,0,8.1,12,4,8,0,0,0,NA,15,35,120,7.13,4.51,Y
+159,Louisiana Tech,Conference USA,New Orleans,2018,201,6,27,Boston Scott,Running Back,67,197,2017,182,1040,8,5.7,20,181,1,9.1,12,6,6,1,1,0,NA,NA,NA,NA,NA,NA,N
+160,Arkansas,SEC,Denver,2018,226,7,8,David Williams,Running Back,72,226,2017,117,656,8,5.6,10,171,2,17.1,12,4,8,0,0,0,NA,NA,NA,NA,NA,NA,N
+161,Alabama,SEC,Dallas,2018,236,7,18,Bo Scarbrough,Running Back,73,228,2017,124,596,8,4.8,17,109,0,6.4,12,11,1,2,2,0,4.52,14,40,129,NA,4.34,Y
+162,Northwestern,Big Ten,Los Angeles,2018,251,7,33,Justin Jackson,Running Back,72,193,2017,287,1311,11,4.6,44,276,0,6.3,12,9,3,1,1,0,4.52,13,38.5,122,6.81,4.07,Y
+163,Alabama,SEC,Las Vegas,2019,24,1,24,Josh Jacobs,Running Back,70,220,2018,120,640,11,5.3,20,247,3,12.4,13,13,0,2,1,1,NA,NA,NA,NA,NA,NA,Y
+164,Penn State,Big Ten,Philadelphia,2019,53,2,21,Miles Sanders,Running Back,71,211,2018,219,1271,9,5.8,24,139,0,5.8,12,9,3,1,0,1,4.49,20,36,124,6.89,4.19,Y
+165,Memphis,American Athletic,Los Angeles,2019,70,3,6,Darrell Henderson,Running Back,68,208,2018,214,1909,22,8.9,19,295,3,15.5,13,8,5,1,0,1,4.49,22,33.5,121,NA,NA,Y
+166,Iowa State,Big 12,Chicago,2019,73,3,9,David Montgomery,Running Back,70,222,2018,255,1185,13,4.6,22,157,0,7.1,12,8,4,1,0,1,4.63,15,28.5,121,NA,NA,Y
+167,Florida Atlantic,Conference USA,Buffalo,2019,74,3,10,Devin Singletary,Running Back,68,203,2018,261,1348,22,5.2,6,36,0,6,12,5,7,0,0,0,4.66,15,35,117,7.32,4.4,Y
+168,Alabama,SEC,New England,2019,87,3,23,Damien Harris,Running Back,70,216,2018,150,876,9,5.8,22,204,0,9.3,13,13,0,2,1,1,4.57,16,37,121,NA,NA,Y
+169,Boise State,Mountain West,Minnesota,2019,102,3,38,Alexander Mattison,Running Back,71,221,2018,302,1412,17,4.7,27,173,0,6.4,13,10,3,0,0,0,4.67,22,35,127,7.13,4.29,Y
+170,Stanford,Pac-12,Washington,2019,112,4,10,Bryce Love,Running Back,69,200,2018,165,736,6,4.5,20,99,0,5,12,8,4,1,1,0,NA,18,NA,NA,NA,NA,Y
+171,Oklahoma State,Big 12,Baltimore,2019,113,4,11,Justice Hill,Running Back,70,198,2018,158,930,9,5.9,13,68,0,5.2,12,6,6,1,1,0,4.4,21,40,130,NA,NA,Y
+172,Kentucky,SEC,Pittsburgh,2019,122,4,20,Benny Snell Jr.,Running Back,70,224,2018,288,1434,16,5,17,105,0,6.2,12,9,3,1,1,0,4.66,16,29.5,119,7.07,4.33,Y
+173,Memphis,American Athletic,Dallas,2019,128,4,26,Tony Pollard,Running Back,72,210,2018,79,553,6,7,38,444,3,11.7,13,8,5,1,0,1,4.52,13,35,121,NA,NA,Y
+174,Temple,American Athletic,Jacksonville,2019,140,5,2,Ryquell Armstead,Running Back,71,220,2018,210,1098,13,5.2,8,52,0,6.5,12,8,4,1,0,1,4.45,22,30,114,7.02,4.29,Y
+175,Pittsburgh,ACC,Atlanta,2019,152,5,14,Qadree Ollison,Running Back,73,228,2018,194,1213,11,6.3,11,66,0,6,13,7,6,1,0,1,4.58,19,29.5,114,7.53,4.31,Y
+176,Florida,SEC,Carolina,2019,154,5,16,Jordan Scarlett,Running Back,71,208,2018,131,776,5,5.9,10,84,0,8.4,12,9,3,1,1,0,4.47,21,30,116,7.37,4.63,Y
+177,Texas A&M,SEC,Cincinnati,2019,182,6,9,Trayveon Williams,Running Back,68,206,2018,271,1760,18,6.5,27,277,1,10.3,12,8,4,1,1,0,4.51,19,33,121,7.44,4.44,Y
+178,Maryland,Big Ten,Detroit,2019,186,6,13,Ty Johnson,Running Back,71,210,2018,66,506,3,7.7,6,22,0,3.7,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+179,Notre Dame,FBS Independents,Green Bay,2019,194,6,21,Dexter Williams,Running Back,71,212,2018,158,995,12,6.3,16,133,1,8.3,12,12,0,1,0,1,4.57,17,36,130,7,4.16,Y
+180,Miami,ACC,Seattle,2019,204,6,31,Travis Homer,Running Back,70,201,2018,164,985,4,6,19,186,0,9.8,12,7,5,1,0,1,4.48,17,39.5,130,7.07,4.31,Y
+181,Oklahoma,Big 12,Cincinnati,2019,211,6,38,Rodney Anderson,Running Back,72,224,2018,11,119,3,10.8,NA,NA,NA,NA,13,12,1,1,0,1,NA,25,NA,NA,NA,NA,Y
+182,Utah State,Mountain West,Kansas City,2019,214,6,41,Darwin Thompson,Running Back,68,198,2018,153,1044,14,6.8,23,351,2,15.3,12,10,2,1,1,0,NA,NA,NA,NA,NA,NA,N
+183,Ohio State,Big Ten,Dallas,2019,218,7,4,Mike Weber,Running Back,70,211,2018,171,954,5,5.6,21,112,1,5.3,13,12,1,1,1,0,4.47,22,33.5,NA,NA,NA,Y
+184,Texas A&M,SEC,Houston,2019,220,7,6,Cullen Gillaspia,Running Back,73,234,2018,5,33,1,6.6,5,52,0,10.4,12,8,4,1,1,0,NA,NA,NA,NA,NA,NA,N
+185,Florida Atlantic,Conference USA,Chicago,2019,222,7,8,Kerrith Whyte Jr.,Running Back,70,197,2018,134,866,8,6.5,10,160,2,16,12,5,7,0,0,0,NA,NA,NA,NA,NA,NA,N
+186,Washington,Pac-12,Miami,2019,234,7,20,Myles Gaskin,Running Back,69,205,2018,257,1269,12,4.9,21,77,1,3.7,13,10,3,1,0,1,4.58,24,35.5,118,7.19,4.27,Y
+187,LSU,SEC,Kansas City,2020,32,1,32,Clyde Edwards-Helaire,Running Back,67,207,2019,215,1414,16,6.6,55,453,1,8.2,13,13,0,2,2,0,4.6,15,39.5,123,NA,NA,Y
+188,Georgia,SEC,Detroit,2020,35,2,3,D'Andre Swift,Running Back,68,212,2019,196,1218,7,6.2,24,216,1,9,13,11,2,1,1,0,4.48,NA,35.5,121,NA,NA,Y
+189,Wisconsin,Big Ten,Indianapolis,2020,41,2,9,Jonathan Taylor,Running Back,70,226,2019,320,2003,21,6.3,26,252,5,9.7,13,10,3,1,0,1,4.39,17,36,123,7.01,4.24,Y
+190,Florida State,ACC,Los Angeles,2020,52,2,20,Cam Akers,Running Back,70,217,2019,231,1144,14,5,30,225,4,7.5,12,6,6,1,0,1,4.47,20,35.5,122,NA,4.42,Y
+191,Ohio State,Big Ten,Baltimore,2020,55,2,23,J.K. Dobbins,Running Back,70,209,2019,301,2003,21,6.7,23,247,2,10.7,13,13,0,1,0,1,NA,23,NA,NA,NA,NA,Y
+192,Boston College,ACC,Green Bay,2020,62,2,30,AJ Dillon,Running Back,72,247,2019,318,1685,14,5.3,13,195,1,15,12,6,6,1,0,1,4.53,23,41,131,7.19,NA,Y
+193,Vanderbilt,SEC,Tampa Bay,2020,76,3,12,Ke'Shawn Vaughn,Running Back,70,214,2019,198,1028,9,5.2,28,270,1,9.6,12,3,9,0,0,0,4.51,NA,32,117,NA,NA,Y
+194,Utah,Pac-12,Buffalo,2020,86,3,22,Zack Moss,Running Back,69,223,2019,235,1416,15,6,28,388,2,13.9,13,11,2,1,0,1,4.65,19,33,NA,NA,4.37,Y
+195,App State,Sun Belt,Tennessee,2020,93,3,29,Darrynton Evans,Running Back,70,203,2019,255,1479,18,5.8,21,198,5,9.4,13,12,1,1,1,0,4.41,20,37,125,NA,NA,Y
+196,UCLA,Pac-12,Los Angeles,2020,112,4,6,Joshua Kelley,Running Back,71,212,2019,229,1060,12,4.6,11,71,1,6.5,12,4,8,0,0,0,4.49,23,31,121,6.95,4.28,Y
+197,Florida,SEC,New York,2020,120,4,14,La'Mical Perine,Running Back,71,216,2019,132,676,6,5.1,40,262,5,6.6,12,10,2,1,1,0,4.62,22,35,118,7.13,4.31,Y
+198,Maryland,Big Ten,Pittsburgh,2020,124,4,18,Anthony McFarland Jr.,Running Back,68,208,2019,114,614,8,5.4,17,126,1,7.4,12,3,9,0,0,0,4.44,NA,29.5,116,NA,NA,Y
+199,Miami,ACC,Seattle,2020,144,4,38,DeeJay Dallas,Running Back,70,217,2019,114,693,8,6.1,14,140,2,10,12,6,6,1,0,1,4.58,NA,33.5,119,7.18,4.32,Y
+200,New Mexico State,FBS Independents,Detroit,2020,172,5,27,Jason Huntley,Running Back,68,190,2019,154,1090,9,7.1,40,192,2,4.8,12,2,10,0,0,0,NA,NA,NA,NA,NA,NA,N
+201,Arizona State,Pac-12,Arizona,2020,222,7,8,Eno Benjamin,Running Back,69,207,2019,253,1083,10,4.3,42,347,2,8.3,12,7,5,1,1,0,4.57,12,39,122,6.97,4.25,Y
+202,Louisiana,Sun Belt,Tampa Bay,2020,245,7,31,Raymond Calais,Running Back,68,188,2019,117,886,6,7.6,10,67,1,6.7,13,10,3,1,1,0,4.42,20,37.5,120,NA,NA,Y
+203,Alabama,SEC,Pittsburgh,2021,24,1,24,Najee Harris,Running Back,73,232,2020,251,1466,26,5.8,43,425,4,9.9,11,11,0,2,2,0,NA,NA,NA,NA,NA,NA,N
+204,Clemson,ACC,Jacksonville,2021,25,1,25,Travis Etienne,Running Back,70,215,2020,168,914,14,5.4,48,588,2,12.3,11,10,1,1,0,1,4.45,18,33.5,128,NA,NA,Y
+205,North Carolina,ACC,Denver,2021,35,2,3,Javonte Williams,Running Back,70,212,2020,157,1140,19,7.3,25,305,3,12.2,11,8,3,1,0,1,4.55,22,36,123,6.97,4.09,Y
+206,Ohio State,Big Ten,San Francisco,2021,88,3,25,Trey Sermon,Running Back,72,215,2020,116,870,4,7.5,12,95,0,7.9,6,6,0,2,1,1,4.57,NA,37,125,6.83,4.28,Y
+207,North Carolina,ACC,New York,2021,107,4,2,Michael Carter,Running Back,68,201,2020,156,1245,9,8,25,267,2,10.7,11,8,3,1,0,1,4.5,16,34,119,6.81,3.98,Y
+208,Iowa State,Big 12,Minnesota,2021,119,4,14,Kene Nwangwu,Running Back,73,210,2020,61,339,4,5.6,3,22,0,7.3,11,8,3,1,1,0,NA,NA,NA,NA,NA,NA,N
+209,Oklahoma,Big 12,New England,2021,120,4,15,Rhamondre Stevenson,Running Back,72,231,2020,101,664,7,6.6,18,211,0,11.7,10,8,2,1,1,0,4.64,15,31.5,112,7.09,4.15,Y
+210,Oklahoma State,Big 12,Carolina,2021,126,4,21,Chuba Hubbard,Running Back,72,210,2020,132,623,5,4.7,8,52,1,6.5,10,7,3,1,1,0,4.48,20,36,120,7.24,4.26,Y
+211,Louisiana,Sun Belt,San Francisco,2021,194,6,10,Elijah Mitchell,Running Back,70,201,2020,141,878,8,6.2,16,153,0,9.6,10,9,1,1,1,0,4.38,17,37.5,128,6.94,4.19,Y
+212,Arizona,Pac-12,New York,2021,196,6,12,Gary Brightwell,Running Back,71,218,2020,86,386,1,4.5,13,58,0,4.5,5,0,5,0,0,0,4.62,17,34.5,118,7.51,4.48,Y
+213,Missouri,SEC,Los Angeles,2021,198,6,14,Larry Rountree III,Running Back,71,211,2020,209,972,14,4.7,15,100,0,6.7,10,5,5,0,0,0,4.62,NA,30,NA,6.96,NA,Y
+214,Michigan,Big Ten,Cincinnati,2021,202,6,18,Chris Evans,Running Back,71,211,2020,16,73,1,4.6,9,87,0,9.7,6,2,4,0,0,0,4.5,20,40.5,127,6.83,4.12,Y
+215,Virginia Tech,ACC,Chicago,2021,217,6,33,Khalil Herbert,Running Back,69,210,2020,155,1183,8,7.6,10,179,1,17.9,11,5,6,0,0,0,4.46,22,33,115,6.96,4.31,Y
+216,Maryland,Big Ten,Los Angeles,2021,233,7,5,Jake Funk,Running Back,70,205,2020,60,511,3,8.5,10,68,1,6.8,5,2,3,0,0,0,4.49,22,38,122,6.71,4.12,Y
+217,Cincinnati,American Athletic,Miami,2021,244,7,17,Gerrid Doaks,Running Back,72,230,2020,144,673,7,4.7,14,202,2,14.4,9,9,0,1,0,1,NA,NA,NA,NA,NA,NA,N
+218,Mississippi State,SEC,Green Bay,2021,256,7,29,Kylin Hill,Running Back,71,214,2020,15,58,0,3.9,23,237,1,10.3,10,3,7,1,1,0,4.51,22,36,122,7.13,4.35,Y
+219,Oregon State,Pac-12,Detroit,2021,257,7,30,Jermar Jefferson,Running Back,70,206,2020,133,858,7,6.5,9,67,0,7.4,7,2,5,0,0,0,4.57,13,31,115,7.38,4.38,Y
+220,Iowa State,Big 12,New York,2022,36,2,4,Breece Hall,Running Back,71,217,2021,253,1472,20,5.8,36,302,3,8.4,12,7,5,1,0,1,4.39,NA,40,126,NA,NA,Y
+221,Michigan State,Big Ten,Seattle,2022,41,2,9,Ken Walker III,Running Back,69,211,2021,263,1636,18,6.2,13,89,1,6.8,12,10,2,1,1,0,4.38,NA,34,122,NA,NA,Y
+222,Georgia,SEC,Buffalo,2022,63,2,31,James Cook,Running Back,71,199,2021,113,728,7,6.4,27,284,4,10.5,13,12,1,2,2,0,4.42,NA,33,124,NA,NA,Y
+223,Arizona State,Pac-12,Tampa Bay,2022,91,3,27,Rachaad White,Running Back,72,214,2021,182,1006,15,5.5,43,456,1,10.6,12,8,4,1,0,1,4.48,NA,38,125,NA,NA,Y
+224,LSU,SEC,San Francisco,2022,93,3,29,Tyrion Davis-Price,Running Back,72,211,2021,211,1003,6,4.8,10,64,0,6.4,12,6,6,1,0,1,4.48,NA,30,117,NA,NA,Y
+225,Alabama,SEC,Washington,2022,98,3,34,Brian Robinson Jr.,Running Back,74,225,2021,271,1343,14,5,35,296,2,8.5,13,12,1,2,1,1,4.53,NA,30,119,NA,NA,Y
+226,Florida,SEC,Houston,2022,107,4,2,Dameon Pierce,Running Back,70,218,2021,100,574,13,5.7,19,216,3,11.4,12,6,6,1,0,1,4.59,21,34.5,119,NA,NA,Y
+227,Georgia,SEC,Las Vegas,2022,122,4,17,Zamir White,Running Back,72,214,2021,160,856,11,5.4,9,75,0,8.3,13,12,1,2,2,0,4.4,NA,33.5,128,NA,NA,Y
+228,Texas A&M,SEC,Los Angeles,2022,123,4,18,Isaiah Spiller,Running Back,72,217,2021,179,1011,6,5.6,25,189,1,7.6,12,8,4,0,0,0,NA,NA,30,114,NA,NA,Y
+229,South Dakota State,MVFC,New England,2022,127,4,22,Pierre Strong Jr.,Running Back,71,207,2021,13,138,2,10.6,3,8,0,2.7,14,11,3,1,0,1,4.37,NA,36,124,NA,NA,Y
+230,Michigan,Big Ten,Tennessee,2022,131,4,26,Hassan Haskins,Running Back,74,228,2021,270,1327,20,4.9,18,131,0,7.3,13,12,1,1,0,1,NA,27,NA,NA,NA,NA,Y
+231,BYU,FBS Independents,Atlanta,2022,151,5,8,Tyler Allgeier,Running Back,71,224,2021,276,1606,23,5.8,28,199,0,7.1,12,10,2,1,0,1,4.6,NA,33,120,NA,NA,Y
+232,Ole Miss,SEC,Jacksonville,2022,154,5,11,Snoop Conner,Running Back,70,222,2021,130,647,13,5,14,82,0,5.9,12,10,2,1,0,1,4.59,25,29.5,118,NA,NA,Y
+233,Cincinnati,American Athletic,Cleveland,2022,156,5,13,Jerome Ford,Running Back,71,210,2021,215,1319,19,6.1,21,220,1,10.5,13,13,0,1,0,1,4.46,NA,31,118,NA,NA,Y
+234,Notre Dame,FBS Independents,Los Angeles,2022,164,5,21,Kyren Williams,Running Back,69,194,2021,204,1002,14,4.9,42,359,3,8.5,12,11,1,1,0,1,4.65,NA,32,116,NA,NA,Y
+235,North Carolina,ACC,Minnesota,2022,169,5,26,Ty Chandler,Running Back,71,204,2021,182,1092,13,6,15,216,1,14.4,12,6,6,1,0,1,4.38,NA,31,121,NA,NA,Y
+236,South Carolina,SEC,New England,2022,183,6,4,Kevin Harris,Running Back,70,221,2021,152,660,4,4.3,11,89,0,8.1,12,6,6,1,1,0,NA,21,38.5,126,NA,NA,Y
+237,Missouri,SEC,Baltimore,2022,196,6,18,Tyler Badie,Running Back,68,197,2021,268,1604,14,6,54,330,4,6.1,12,6,6,1,0,1,4.45,NA,33.5,121,NA,NA,Y
+238,USC,Pac-12,Arizona,2022,201,6,23,Keaontay Ingram,Running Back,72,221,2021,156,911,5,5.8,22,156,0,7.1,12,4,8,0,0,0,4.53,NA,34.5,122,NA,NA,Y
+239,Baylor,Big 12,Chicago,2022,203,6,25,Trestan Ebner,Running Back,71,206,2021,148,799,2,5.4,28,284,2,10.1,13,11,2,1,1,0,4.43,NA,30,NA,NA,NA,Y
+240,UCLA,Pac-12,Las Vegas,2022,250,7,29,Brittain Brown,Running Back,73,205,2021,102,616,7,6,18,129,0,7.2,12,8,4,0,0,0,NA,NA,NA,NA,NA,NA,N
+241,Rutgers,Big Ten,Kansas City,2022,251,7,30,Isaih Pacheco,Running Back,70,216,2021,167,647,5,3.9,13,25,0,1.9,12,5,7,1,0,1,4.37,NA,33,118,NA,NA,Y
+242,Texas,Big 12,Atlanta,2023,8,1,8,Bijan Robinson,Running Back,71,215,2022,258,1578,18,6.1,19,314,2,16.5,12,8,4,1,0,1,4.46,NA,37,124,NA,NA,Y
+243,Alabama,SEC,Detroit,2023,12,1,12,Jahmyr Gibbs,Running Back,69,199,2022,151,926,7,6.1,44,444,3,10.1,12,10,2,1,1,0,4.36,NA,33.5,NA,NA,NA,Y
+244,UCLA,Pac-12,Seattle,2023,52,2,21,Zach Charbonnet,Running Back,72,214,2022,195,1359,14,7,37,321,0,8.7,12,9,3,1,0,1,4.53,NA,37,122,NA,NA,Y
+245,TCU,Big 12,New Orleans,2023,71,3,8,Kendre Miller,Running Back,71,215,2022,224,1399,17,6.2,16,116,0,7.3,13,12,1,2,1,1,NA,NA,NA,NA,NA,NA,Y
+246,Tulane,American Athletic,Tennessee,2023,81,3,18,Tyjae Spears,Running Back,70,201,2022,229,1581,19,6.9,22,256,2,11.6,13,11,2,1,1,0,NA,NA,39,125,NA,NA,Y
+247,Texas A&M,SEC,Miami,2023,84,3,21,Devon Achane,Running Back,69,188,2022,196,1102,8,5.6,36,196,3,5.4,12,5,7,0,0,0,4.32,NA,33,NA,NA,NA,Y
+248,Auburn,SEC,Jacksonville,2023,88,3,25,Tank Bigsby,Running Back,72,210,2022,179,970,10,5.4,30,180,0,6,12,5,7,0,0,0,4.56,NA,32.5,119,NA,NA,Y
+249,Texas,Big 12,Chicago,2023,115,4,13,Roschon Johnson,Running Back,72,219,2022,93,554,5,6,14,128,1,9.1,12,8,4,1,0,1,4.58,NA,31.5,122,NA,NA,Y
+250,Pittsburgh,ACC,New York,2023,143,5,9,Israel Abanikanda,Running Back,70,216,2022,239,1431,20,6,12,146,1,12.2,12,8,4,1,1,0,NA,NA,NA,NA,NA,NA,Y
+251,Illinois,Big Ten,Cincinnati,2023,163,5,29,Chase Brown,Running Back,70,209,2022,328,1643,10,5,27,240,3,8.9,12,8,4,1,0,1,4.43,NA,40,127,NA,NA,Y
+252,Oklahoma,Big 12,New York,2023,172,5,38,Eric Gray,Running Back,70,207,2022,213,1364,11,6.4,33,229,0,6.9,12,6,6,1,0,1,NA,NA,37.5,118,NA,NA,Y
+253,Northwestern,Big Ten,Indianapolis,2023,176,5,42,Evan Hull,Running Back,70,209,2022,221,913,5,4.1,55,546,2,9.9,12,1,11,0,0,0,NA,NA,NA,NA,NA,NA,N
+254,Kentucky,SEC,Washington,2023,193,6,16,Chris Rodriguez Jr.,Running Back,72,217,2022,174,903,6,5.2,5,41,0,8.2,12,7,5,1,0,1,NA,NA,NA,NA,NA,NA,N
+255,Kansas State,Big 12,Dallas,2023,212,6,35,Deuce Vaughn,Running Back,65,179,2022,293,1558,9,5.3,42,378,3,9,13,10,3,1,0,1,NA,NA,35.5,116,NA,NA,Y
+256,Ole Miss,SEC,Los Angeles,2023,215,6,38,Zach Evans,Running Back,71,202,2022,144,936,9,6.5,12,119,1,9.9,12,8,4,1,0,1,NA,NA,NA,NA,NA,NA,Y
+257,UAB,Conference USA,Minnesota,2023,222,7,5,DeWayne McBride,Running Back,70,209,2022,233,1710,19,7.3,2,10,0,5,12,6,6,1,1,0,NA,NA,NA,NA,NA,NA,N
+258,Central Michigan,Mid-American,Green Bay,2023,235,7,18,Lew Nichols III,Running Back,NA,NA,2022,177,601,6,3.4,21,128,0,6.1,12,4,8,0,0,0,NA,NA,NA,NA,NA,NA,N
+259,Georgia,SEC,Seattle,2023,237,7,20,Kenny McIntosh,Running Back,72,204,2022,150,829,10,5.5,43,504,2,11.7,13,13,0,2,2,0,4.62,NA,NA,NA,NA,NA,Y
+260,Texas,Big 12,Carolina,2024,46,2,14,Jonathon Brooks,Running Back,72,216,2023,187,1139,10,6.1,25,286,1,11.4,13,12,1,1,0,1,NA,NA,NA,NA,NA,NA,Y
+261,Florida State,ACC,Arizona,2024,66,3,2,Trey Benson,Running Back,72,216,2023,156,905,14,5.8,20,227,1,11.4,13,13,0,1,0,1,4.39,NA,33.5,122,NA,NA,Y
+262,Michigan,Big Ten,Los Angeles,2024,83,3,19,Blake Corum,Running Back,68,205,2023,258,1245,27,4.8,16,117,1,7.3,13,13,0,2,2,0,4.53,27,35.5,NA,6.82,4.12,Y
+263,USC,Pac-12,Green Bay,2024,88,3,25,MarShawn Lloyd,Running Back,69,220,2023,116,820,9,7.1,13,232,0,17.8,12,7,5,1,1,0,4.46,25,36,118,NA,NA,Y
+264,Tennessee,SEC,Miami,2024,120,4,20,Jaylen Wright,Running Back,71,210,2023,137,1013,4,7.4,22,141,0,6.4,12,8,4,1,1,0,4.38,NA,38,134,NA,NA,Y
+265,Oregon,Pac-12,Tampa Bay,2024,125,4,25,Bucky Irving,Running Back,69,192,2023,186,1180,11,6.3,56,413,2,7.4,13,11,2,1,1,0,4.55,NA,29.5,115,NA,NA,Y
+266,Clemson,ACC,Philadelphia,2024,127,4,27,Will Shipley,Running Back,71,206,2023,167,827,5,5,31,244,2,7.9,12,8,4,1,1,0,NA,NA,NA,NA,NA,NA,Y
+267,Kentucky,SEC,Buffalo,2024,128,4,28,Ray Davis,Running Back,68,211,2023,199,1129,14,5.7,33,323,7,9.8,12,7,5,1,0,1,NA,NA,NA,NA,NA,NA,N
+268,Louisville,ACC,San Francisco,2024,129,4,29,Isaac Guerendo,Running Back,72,221,2023,132,810,11,6.1,22,234,0,10.6,13,10,3,1,0,1,4.33,NA,41.5,129,6.94,4.15,Y
+269,Wisconsin,Big Ten,New York,2024,134,4,34,Braelon Allen,Running Back,73,235,2023,181,984,12,5.4,28,131,0,4.7,12,7,5,1,0,1,NA,26,32,117,NA,NA,Y
+270,Notre Dame,FBS Independents,Denver,2024,147,5,12,Audric Estime,Running Back,71,221,2023,210,1341,18,6.4,17,142,0,8.4,12,9,3,1,1,0,4.71,23,38,125,NA,NA,Y
+271,Marshall,Sun Belt,Baltimore,2024,165,5,30,Rasheen Ali,Running Back,71,206,2023,212,1140,15,5.4,28,213,1,7.6,12,6,6,1,0,1,NA,NA,NA,NA,NA,NA,Y
+272,Purdue,Big Ten,New York,2024,166,5,31,Tyrone Tracy Jr.,Running Back,71,209,2023,113,716,8,6.3,19,132,0,6.9,12,4,8,0,0,0,4.48,NA,40,124,6.81,4.06,Y
+273,Texas,Big 12,Jacksonville,2024,167,5,32,Keilan Robinson,Running Back,68,191,2023,12,134,3,11.2,8,56,0,7,13,12,1,1,0,1,4.42,NA,33,125,NA,NA,Y
+274,South Dakota State,MVFC,New York,2024,173,5,38,Isaiah Davis,Running Back,72,218,2023,227,1529,17,6.7,22,190,1,8.6,11,11,0,4,4,0,NA,NA,NA,NA,NA,NA,N
+275,Troy,Sun Belt,Los Angeles,2024,181,6,5,Kimani Vidal,Running Back,68,213,2023,296,1662,14,5.6,18,201,1,11.2,13,11,2,1,0,1,4.46,18,37.5,120,7.01,4.15,Y
+276,Alabama,SEC,Atlanta,2024,186,6,10,Jase McClellan,Running Back,70,221,2023,180,890,8,4.9,15,137,0,9.1,13,12,1,1,0,1,NA,20,NA,NA,NA,NA,Y
+277,Louisville,ACC,Houston,2024,205,6,29,Jawhar Jordan,Running Back,70,193,2023,181,1128,13,6.2,21,246,1,11.7,13,10,3,1,0,1,4.56,NA,NA,NA,NA,NA,Y
+278,New Hampshire,CAA,Las Vegas,2024,208,6,32,Dylan Laube,Running Back,70,206,2023,158,715,9,4.5,68,699,7,10.3,11,6,5,0,0,0,NA,NA,NA,NA,NA,NA,N
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
